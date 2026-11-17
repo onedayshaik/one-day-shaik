@@ -33,17 +33,17 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/fetch_news.py
 
-      - name: Save updated headlines
+      - name: Save news and translation cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/news.json
+          git add data/news.json data/translations.json data/translation_state.json
 
           if git diff --cached --quiet; then
-            echo "No news changes to save."
+            echo "No changes to save."
             exit 0
           fi
 
-          git commit -m "Update market headlines"
+          git commit -m "Update market headlines and translations"
           git push origin HEAD:main
