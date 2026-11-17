@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:51:14.470244+00:00",
+  "updated": "2026-11-17T21:45:40.102702+00:00",
   "items": [
     {
       "category": "Markets",
@@ -232,16 +232,6 @@
       "explanation": ""
     },
     {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex, Nifty extend gains for second session; Nifty Bank hits record high: What lies ahead? - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVUhUeC1qZzdKLXAzNHhxV0FHeDNWWFE5ZHJtWFBMUXU0OUFkdmdfdmUyN2k1ZFB3V2tzTHQ0VDdWN3lGNE8wZnJ3SXBLYjZDM1lPVmllSlV4QV9ybFVQb1gwcWlTcThZdUtYZHVra3ZRNnROc1FvLVBqay04WHl6NjBxLUlhV0pkTzcwdjhrWWRfa3hBY0h1MTFpelZkRTYyaVF1dFVSMURRdS0xMFJvTGtORnZiblBVMHFHdm9GVFlJNlFhRGE5bVdQYXE3bEkzUlBITDFCMXRrSkk1RXVReEdlRXdpQlV1T1RSUdIB8gFBVV95cUxOWUtWdmc5cU9vUHRZUU1xQW1QV3FINjNJb1VFbW0xV1E1OTRjT052MG9aNjhoZEtEc2dfM1kydzNTZkloNlhnWmlYaThOMTFkcGJfcXZ0YWFIalF5OGFoYm1SVVl2OHlsNzhBZ3VHU09sYVpaY1FjRl9HR1FHWTBGUGZpNllMUUJhUFhKLWl3dTNyRThZQnA2c3d0UjZScjQ3bnVCazFpcnU5cXFHRU1PZTB1VHQ1clRtRUg4bE85VG5kMlZLc182NElPQkFCTjVPMFBMR3czYUVhbVE3VWlENjd0eFNoNV9KN253aXBRdXVFZw?oc=5",
-      "published": "2026-11-17T11:05:24+00:00",
-      "rss_summary": "Sensex, Nifty extend gains for second session; Nifty Bank hits record high: What lies ahead? &nbsp;&nbsp; Business Today",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Amazon plans $7 billion renewable energy investment in India by 2030",
@@ -398,6 +388,16 @@
       "link": "https://www.business-standard.com/finance/personal-finance/no-will-no-nominee-how-heirs-can-claim-shares-mutual-funds-and-fds-126111700666_1.html",
       "published": "2026-11-17T09:35:26+00:00",
       "rss_summary": "Without a Will or nominee, families may need legal documents and court intervention to access a deceased investor's financial assets",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Eicher Motors jumps 3%, stock top gainer in Nifty Auto; brokerages upbeat",
+      "link": "https://www.business-standard.com/markets/news/eicher-motors-jumps-3-stock-top-gainer-in-nifty-auto-brokerages-upbeat-126111700622_1.html",
+      "published": "2026-11-17T09:33:54+00:00",
+      "rss_summary": "Analysts believe that Royal Enfield remains well positioned to benefit from the structural premiumisation of the Indian 2W industry.",
       "hinglish_title": "",
       "explanation": ""
     }
