@@ -1,18 +1,67 @@
 {
-  "updated": "2026-11-17T02:58:42.484293+00:00",
+  "updated": "2026-11-17T03:53:10.275107+00:00",
   "items": [
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Today: Sensex Rises 100 Points; Nifty Above 25,300; Tata Chemical Jumps 6%, Bank Nifty Hits Record High - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSW1PY1V3S1hTcGZLbV9ZRFZlUGE0d0JSb0JBQnNZVWVSVnZIenpZSms2V0JNUTBjREtwRVh2NUJZUm1YTnNLaVhIdWFDMEUwM2hqWjBTVlhkakVvcHJDVXEtLUM1M0Q2azhCSlRYWHpHUEFjcWlycTJkRDRQWWgxZzBwdVVRNU43a0VVbExQUHRaOTJlcHQxczE4OVRhdUVHWlFzWHhURTJuSTIwZTZTb2NZTGpYWkZmYWNxR2xZZk1aRHdzT0k0a1V4Q3hkUGVSM0tUVmp5cGJwaE5tVTRmclk1ZVhuaWg2eDBQVGJOd1pVcThNU2NtcXVvWDdaZDFQYU5VMmJheUFwczFNMWkyNXJNS0FYMWPSAZ8CQVVfeXFMTzBBbEU3dnNsQjRDT09PbWhoTVdreWM1RHdoLXBiUkhRWE10M19Wa2NRRWNPZjlqTFJnM2ZobU1URzBudDI2d0FmZlk1d3dXR1p2b1RRMnNfdjVBVVZLQlFlT1MzUV96TFFMbTFYcUwwR1RkREcxbFFLSDI4Z0haU2tyUC1rS1U2OW15dFNja2tfMzUyZWViNmZvb2hkOEhMWE9qZjVQcVFCMURreDZFdVROc1dnX1pxZjIxblVLRngwZE9BOVZrbUNObUs4M2xMTFViRW52YU1VbDJ6TS05cmZzNUhWRU02Y1ljZnp4OWd0S2ZReThBMUo0ek9XYmZXSVl0dERCRXhhSEVOR1lxYm1FMk5aNjUwSFJFOFVRbzg?oc=5",
+      "published": "2026-11-17T03:46:30+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Today: Sensex, Nifty Mixed at Pre-Open - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkVmRmhjUi1VZlpWaVpqUFc2YWZjNHZLQTZwMGNPcFdBaVoxdG1PcVVWT0d0d1hfcE91ZDh4dGNNMlRKMnBGcWtOSVlHc3Z6a1h3S0liYm5DRUpveXV6XzBNc2IyRFA5a0pHNHNieGtNNmJleGN3bkxiZzlLZFc5aG9zRGpuUVZwVWtiTUI4WnFUUFBMLXZRQ056Q3FaLUZLQ0tnNW45aGpEQQ?oc=5",
+      "published": "2026-11-17T03:42:00+00:00"
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Sigma, Spain's EM&E Group set up JV to boost indigenous defence production",
+      "link": "https://www.business-standard.com/companies/news/sigma-spain-s-em-e-group-set-up-jv-to-boost-indigenous-defence-production-126111700134_1.html",
+      "published": "2026-11-17T03:40:58+00:00"
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "JohnAIC raises $1.9 million to scale on-premise AI server infrastructure",
+      "link": "https://www.business-standard.com/companies/start-ups/johnaic-pre-seed-funding-ai-servers-on-premise-infrastructure-126111700132_1.html",
+      "published": "2026-11-17T03:37:03+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Capital Markets: Derivatives surge on volatility; cash, MF flows stay muted",
+      "link": "https://www.business-standard.com/markets/news/capital-markets-derivatives-surge-on-volatility-cash-mf-flows-stay-muted-126111700094_1.html",
+      "published": "2026-11-17T03:26:52+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Nifty IT rebounds 21% in over 4 months: Dead-cat bounce or trend reversal?",
+      "link": "https://www.business-standard.com/markets/news/nifty-it-rebounds-21-in-over-4-months-dead-cat-bounce-or-trend-reversal-126111601257_1.html",
+      "published": "2026-11-17T03:14:58+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Asian shares fall as US tightens curbs on China's access to AI chips",
+      "link": "https://www.business-standard.com/markets/news/asian-shares-fall-as-us-tightens-curbs-on-china-s-access-to-ai-chips-126111700065_1.html",
+      "published": "2026-11-17T03:13:36+00:00"
+    },
     {
       "category": "Markets",
       "source": "Business Standard Markets",
       "title": "Stocks to watch: Urban Company, BSE, Tata group, HZL, YES Bank, IHCL",
       "link": "https://www.business-standard.com/markets/news/stocks-to-watch-urban-company-bse-tata-group-hzl-yes-bank-ihcl-126111700078_1.html",
-      "published": "2026-11-17T02:41:19+00:00"
+      "published": "2026-11-17T02:41:34+00:00"
     },
     {
       "category": "Markets",
       "source": "Google News India Markets",
       "title": "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjNWS1RKejVsUllfdlVia2ZCWm1GNjRPMnhWTFRfNGhEVlkwNTZTQV90dzZQcDhnZ21uTnRGS01ZLXdWT1EyTTZYVmRkQUF3VDJwQ1R0WldCZW1CX0FWR053UWlkSkxzOFVPR2x0b1N1UldqQ0ZwQ25TcHdHc1kzT1ppRVNQWVBhbG8zWTQ5Q1FKOHdiTmZ3VENUMlcwSG1FVEVSaFBRZjJLS3hrcnBHRWU0Z0NCZTJPZ3ZzNkNNZGdzeFRLNWhj?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjNWS1RKejVsUllfdlVia2ZCWm1GNjRPMnhWTFRfNGhEVlkwNTZTQV90dzZQcDhnZ21uTnRGS01ZLXdWT1EyTTZYVmRkQUF3VDJwQ1R0WldCZW1CX0FWR053UWlkSkxzOFVPR2x0b1N1UldqQ0ZwQ25TcHdHc1kzT1ppRVNQWVBhbG8zWTQ5Q1FKOHdiTmZ3VENUMlcwSG1FVEVSaFBRZjJLS3hrcnBHRWU0Z0NCZTJPZ3ZzNkNNZGdzeFRLNWhj0gHPAUFVX3lxTFBFXzdoeGltdU1GX0xybTRIckhpTzd4enZQRzR2R0hreGlqRWFYS0h0SlpFdk1oeVV1cWVZUUVzTW5LdFdZRGxEY3RWNklseHpZLXlLakd5Vmg1bWltaVV4bzhaMUtBeWtNLUhUenc1SE5BWHptaS1fMmdPRUdUNTNvRkpEWVFET3pqczVmT1c5Rkc2SlZ4RU5rMktwMUtiSU1nZno5Ulc0VWZNMGVBYjJhbU9WZGNVa01VS3Z1MmpVelJvVUc0N2pvbVFSLUhaMA?oc=5",
       "published": "2026-11-17T02:41:19+00:00"
     },
     {
@@ -27,7 +76,7 @@
       "source": "Business Standard Markets",
       "title": "Markets likely to consolidate as Nifty tests hurdle at 25,300: Analysts",
       "link": "https://www.business-standard.com/markets/news/markets-likely-to-consolidate-as-nifty-tests-hurdle-at-25-300-analysts-126111700076_1.html",
-      "published": "2026-11-17T02:38:07+00:00"
+      "published": "2026-11-17T02:38:14+00:00"
     },
     {
       "category": "Markets",
@@ -39,9 +88,9 @@
     {
       "category": "Markets",
       "source": "Business Standard Markets",
-      "title": "Stock Market LIVE: GIFT Nifty signals muted open; Asian markets decline on tech selloff",
+      "title": "Stock Market LIVE: Sensex up 200 pts, Nifty around 25,300; most Tata Group shares advance",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-17-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bse-share-price-126111700071_1.html",
-      "published": "2026-11-17T02:25:17+00:00"
+      "published": "2026-11-17T02:25:36+00:00"
     },
     {
       "category": "Markets",
@@ -214,9 +263,9 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "Rupee emerges as Asia's best-performing currency on strong FPI inflows - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzEzVG02SjY0N3NIMmJZaF9yTHF1TXotUm8zbnczcGlFTTRKLUpGdzFGRm1Mcmg0WWpzWmIwVW9tZm9SLVpoVFRrcDVuZzM3SWotc0xuQlNuSE1yZ2UzMHVIcHFJMmtrSzVpOUVKUWxJMUdXUnB6N1l1MllvT1Zfd0FxdURsX3JjX2hDblpMU1hRbDhTM25QLU5RVWJOdW43UVpSTTNoRlJfdUJZcURCOVd3ZjNLLVBoLUVac05CQWxfV0tMZ2FUU21sdGdldjdSNlJr0gHYAUFVX3lxTE1EY2lERFdKaVU5YjJhdS1iNFVOWHRnMEhSN0RBYUZSLWhzNDdoN0t4ZWFHR24tN041c3FONWgybkpRNkMyck43dXFtdkRGWnNWemV3bDdOVnFXNDEycncxRC1SRFJiaE5vMU9HS1FRTGRiSm1HaW9WYndUZFFpNDJpcmxwbFVkcU56dU9Fdk9IaWFPT0VoTWowZHhJQk5DRzJJTGtSWG1kRERoV2ZKT0pnQUlvWjRjRnNEY0dRQjNGRVliOGRKdEZIZDZ6VHlIbW9YTmtRVVhZOQ?oc=5",
-      "published": "2026-11-16T13:47:33+00:00"
+      "title": "Rupee flies high in Asia on easing crude oil prices, foreign flows - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzEzVG02SjY0N3NIMmJZaF9yTHF1TXotUm8zbnczcGlFTTRKLUpGdzFGRm1Mcmg0WWpzWmIwVW9tZm9SLVpoVFRrcDVuZzM3SWotc0xuQlNuSE1yZ2UzMHVIcHFJMmtrSzVpOUVKUWxJMUdXUnB6N1l1MllvT1Zfd0FxdURsX3JjX2hDblpMU1hRbDhTM25QLU5RVWJOdW43UVpSTTNoRlJfdUJZcURCOVd3ZjNLLVBoLUVac05CQWxfV0tMZ2FUU21sdGdldjdSNlJr?oc=5",
+      "published": "2026-11-16T13:47:12+00:00"
     },
     {
       "category": "Companies",
@@ -231,55 +280,6 @@
       "title": "Elan Group, Marriott to bring Apartments by Marriott Bonvoy to Gurugram",
       "link": "https://www.business-standard.com/companies/news/elan-group-marriott-to-bring-apartments-by-marriott-bonvoy-to-gurugram-126111601645_1.html",
       "published": "2026-11-16T13:36:54+00:00"
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "India's dollar EPS growth key to reviving foreign investor interest: CLSA",
-      "link": "https://www.business-standard.com/markets/news/india-s-dollar-eps-growth-key-to-reviving-foreign-investor-interest-clsa-126111601640_1.html",
-      "published": "2026-11-16T13:35:23+00:00"
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex closes 510 points up, Nifty gains 147 points, midcap and smallcap face pressure - Kalinga TV",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalBSV1huRUtZdkJkTFRCZ0F5bDdUSjk0QXRYbm54N2NEb3lrNE00NDFqSTd5WndoeDFPZEUzM1VjZHBiTjVvQWtnTncwOWcwLXBLMzB4V0U5WUo5TmpCT3Z3TkdKSl8wU2NPS3EwNmJhTERBeEhvVnpiSDE2a3RZMzlOWGJFWVZPQW5CSEdTWmVrUEhPV0xYMm85OEJPUVg4Y0JvZ0hRUERrcEZNdzlUdjU5aFdsV2c?oc=5",
-      "published": "2026-11-16T13:27:49+00:00"
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "New twist in TVS family feud: Lakshmi Venu seeks partition of family assets",
-      "link": "https://www.business-standard.com/companies/news/new-twist-in-tvs-family-feud-lakshmi-venu-seeks-partition-of-family-assets-126111601574_1.html",
-      "published": "2026-11-16T13:00:14+00:00"
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex Jumps Over 500 Pts, Nifty Nears 25,300 as Banking, FMCG Stocks Rally - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOel9fZ2dod0JRcVVXdEV1bkUwMWk3ckphOElweXo5NmI3UXlCdzVwSWJ1alQwdFF3Ui1JcHlicmpRY3l6dEtHMWVJRUpibXBYRTJRTEJtVUktaUxfTXlyVm80SnFDRjdJWU84UE5TZnpINU00SE8yX01FOERtYmI0LU4wSWVPM0x4Q3RNckczeUEzcWhYSG9jeldJVWszQUpGd1E?oc=5",
-      "published": "2026-11-16T12:29:00+00:00"
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Sebi sets up expert panel to review IPO, FPO and capital-raising norms",
-      "link": "https://www.business-standard.com/markets/news/sebi-sets-up-expert-panel-to-review-ipo-fpo-and-capital-raising-norms-126111601512_1.html",
-      "published": "2026-11-16T12:23:42+00:00"
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "AIF commitments hit a high of ₹18.68 trillion as of September: Sebi data",
-      "link": "https://www.business-standard.com/markets/news/aif-commitments-hit-a-high-of-18-68-trillion-as-of-september-sebi-data-126111601365_1.html",
-      "published": "2026-11-16T12:18:40+00:00"
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Prediction for Tomorrow: 17 Nov Levels, Nifty 25,291 - Univest",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZZTdUQmRkZXZUeDhWQURUY1BDTHI3ZGtCOGdKQ3FwbXAyR19uZ21JYk9OOGRjREs3ZlpxVGJNX0lJQ2w1Y0J6aHg0OFhXVThJLTYtRm9lMEdZOGdlZ052cjgwd3hETDlPSDFaMHhleG5fTmdW?oc=5",
-      "published": "2026-11-16T11:50:42+00:00"
     }
   ]
 }
