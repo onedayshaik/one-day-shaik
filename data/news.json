@@ -1,4 +1,285 @@
 {
-  "updated": null,
-  "items": []
+  "updated": "2026-11-17T02:07:42.554329+00:00",
+  "items": [
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty today: GIFT Nifty signals a quiet start amid US tech selloff; Crude near $91 - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ01BOS1TemY4VUdaUzA1bU90OFY1bGhvN29MSk9IbXdOcXU4M2JCVUJKVUhxYnpfRlVqTlBSUkJYSHQwVUlMZTFyUFVZVlZIUVUxdUdEUHZEVWNaNHFGTzVGWmcycWhuUm5OZ2dqakxDQkN2RG5COHVqNHdVNG1ZY0R1RE10ZTRhVzZXQnJTSnpkcHRrUzYtUUdRTWh4VDktUXlBODd2aWpJYXBWRmd6RnZraEs1dmZpT3hiOVMxY042ZUd5REk2SUdNd1R1X0li0gHXAUFVX3lxTE5jTHI1VmRqUXdZTVBVeVQzM2ZlMUVGTFB2c3hteUxYNUJFNFlYLWhVRzN6QWh0NGktWVdjRFljaVlHNjZadFctRmp1SDdxMjdKOTdWQ3o1T0FpUkE3MV9BZWtQZ2hKN2E0RThvaDZVOVM1RlRjVTdJcUNlTGNWOW52UmtzZ0RpNFFjNjRaRUUyWE0xMUVRTko0TWRaZmdMemt0cmdCOFBEMzNZQk1OLWpvb2c1aWo2Qi10T09UTU92UXZPMElRSGh2WE8tajZ5YUE4ZFdtQkhr?oc=5",
+      "published": "2026-11-17T01:57:28+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Today: Gift Nifty, Tech Stocks Rout To Gold Rate; Five Key Factors For Sensex, Nifty 50 On Nov 17 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZWN0cEFLcHNtcWtzQmxLSUVjMW80U3U4RHdvN0NoOXkyWXNKclFqSHg5M2xfbkxnRHo3dlpjeGg4NzRhSjBhR1pUbVRlakU0YzFOSHBvQUNJV2RwSjlNYUVJcFI5QU1ZUTA4Q09MR0hwU0VHckFlRmFEOGFkSXNUZ25oSS1XR0RTOWJibnBINFc2UUNnUkQ1NWNucE5qVUdfemlSLWhjY3ZKZmJiUnhiWUxVeTUzSkdrWFZIaDJ2M1FvM1R2dEFWa2IxeWNQZUlnNDZYRjUzbnJHeEg1WHlKYmZTdkFnRXAwbnZ0NmJ0Uk1ZSEhjd2MtazJB0gGCAkFVX3lxTE5aRVBWdEFmNl9FR3FKMl9lZkhESmZ3V3paaERFOHVlQXV4RERmNTdEZDZINEF6aHg4LUlONGdrRDZVQWJ5QnhILWFPa1NSRzNBcDkyM2ZDT0kyeTBLcjJtb1ZlSk1OeHZja0NfaUY2aXhUOXluSzdNS3hzbzlrLUphSW90OGx1eUZqbEFpa0RpX3o0cGdudHgwWFl5bVlhLTZrbTdub1hGbHZSeG5POEl1Z2ZMS1J1cXBORGFHYnRxX2FpSlVDSDNfU21EZ0JXNE5ZZ01GUTlRcG05eFRsWVY1VVZZNFdiZXEwSUhRODFXYUhmMWgzSUlnQ3IyZ0NuaDJEZw?oc=5",
+      "published": "2026-11-17T01:32:31+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock market outlook today,17 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQmM1b1V4Z0wyazRoTEdXMVB1OHo0TmZrRWx3R2s3Q3d4YTZXVkdBaGRFaU43dm5rUnpCSzJNRnBrMGN6bnZ2aF80UFlKcDVJcG5QWHVZWkxhaHdYUVVhM2ZjaW5VYWpLbjMyU0kxS1A0RGRlWGJ1c2ZVNWFvNW55Wlo5bS0xMmRjU3FOUk4tRERVM2VsZi1zV2dYdFN4enhwYm1LZjRLTjZVM09DVkU5dVR2Q3dCY1JSNWNOSTdTVElpdG16VWk3a1lYZ0NuaFNVZ0dmY3FzbFQ4UWxwUTlTcGQ0RWRmXy1obEJOZmxSVllhTTN1bDQ2YUZ1NnhnWkF1T3Q3WjFGMlJZZ9IBjwJBVV95cUxNVHhOeXd1Z0pmZGlqdEJUM2w3REJCMHJWUk1pTHFZbEJsN0VMQlBWNkFrQ1Z3ZDJSUXI0cXRWRWxEc1RSLUpVSjYwYTFLTEEzdDdxSlpzQ3BGREdlTWZZai12MG9ObmZKYmpWOEx5NmZoelpCRFZfTFVFUnU1VWF0WVRNS1JuUmR4aVNka0NzZkk1eFdTWlBLTW1qTU1PT1VFNzNNLVE3cWpCc1J0TXZ4Q2g1Rld0am1wVGZxd3k5SW1DODhlTnlHai02TjZlZUlrQlRfZ3IxSkh1bTUyR19TNWs3TFBaTVhPbVdhUzBVbEdSTVNiSlBzOVhsWkYySTNlaU9QVTd5b016UWVsLXZz?oc=5",
+      "published": "2026-11-17T01:10:38+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stocks in news: Adani Enterprises, BSE, Senco Gold, Hero Motors, HDFC Life, Anand Rathi Wealth and Urban C - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNXAtcmkwTXN6TV8xaUdtZi00VmhtWVdVT2g0UGJ5THNGWmRZM0sxaUZPNHRDVXQ4SW5XdDBkZHJpeEpYRnRLd3FaMmREbVFQUDZ4TGJXQmNmSk92TWctellURFUzcF9lVldCaXM2N1pSTUZQdVZGYi14SUd0cDJJUlFsYlNXTW9GckZrZlBRUFJremtsUS1xNEExeHlMVEpWM1BUSkxvb3cxa1NMTl9hLXJFSkFCUF85dHFCNWlZaWtXQlN4RzdCU3otSWFtNV9DNlQ0dHg2MFdrOHBUa1NCcFk1OWIxRUQ0Zi1UWjZXeXVvMDBGSGJhSXFkczZkZWw3OVY3bXY1YjlMRWhm0gGSAkFVX3lxTE45d0NQdFV6VGdPZ0dyZzJLSEQ1QUE5UC1YajlXd0dCQmpZYklJRjFMc3BDSUdTTU9BZ1BEZ2k2SG9OQ0lWTlhJLXYxXzNMUXAxQnhodkFfcGJYTGZzbVBTek5EYWlibkhHNHJOQjF4SjlzdDlwbEV3NEIwZk03UEhFMWVnODBZeXBWdWQ5bDAtc1pKYUtOV08xTVRjRzhablVWT2NHMlA5NUk1eTlTX19ZcHY1LXNseE5EclpaZzZnb2tERTZ1WnpGeDJteURsUzRTb2xnUlBWLUppRGkyQ0MtWlAzcEs1blhQMDNrTU9aZFAwOEdiWnNjanhlYXpSQmV2djRaUTNyemZIVVo1RE14YWc?oc=5",
+      "published": "2026-11-17T00:30:00+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Today: All You Need To Know Going Into Trade On Nov 17 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSE8wVDBITkpTM1BKSU9MM1RyMWkycTdJeGR5VG1RbFZzZmVTUXFGQ1dhV3ZZaTloMksteDlJZGk2WHpGVUNuMXZfN3Zjbi1LclVOUGFZeExFZkNQNXB1dU81emV6VVZ3ejRqdHFIR293NFZkbmlpOGdjMEhWckxyRzFxSWdxNGtRZEw0NVFPS2dZTTdqUFBtWEJqdm02Ml9aTFFqbDEtVEE1UHNfTS1B0gG3AUFVX3lxTE5QdHVFMG9fNnpRcXdhMDJNSERiZ21neGhqSk81TWlhQ0NBaVpTenFaN0hOWnN3WE5FLTBfb05mcy0yaktUMmliZUZTZVlkR203WGRWd1ByTmsyN29rVHZNc1h6MHlKRmVQZ3Fxd1h0VGYwcTdwVFM2RnlWb05qb2JNeFk5T25KZzJTM2EyWFFlT2x6SWJ0SF83elllY1JBV2oxSFJISm5WSXpVY2tnMkdBY29UR3Vkbw?oc=5",
+      "published": "2026-11-16T23:30:01+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex Gains 510 Points as Banking and Consumer Stocks Lift Indian Markets - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGRLWUtGWVVyMW1pVkwyVU9YaXR1a28yZ1JTcXAwTDNxcVAwb1c1X3NFMExTSVk5enhwdkZIb05hYlZ0eFktLU5hMmRBYk8wS0dDQjVxZlkxM3VqY01VcDZORDIxaThPcWdpaDNaYmdqdXV1dkt4YUNtYzh2SkhkWTE5LUVKejIwaTUtRWxXX1ptZml4X0dKTHJxVGNLQ0VDdDFkRmZR?oc=5",
+      "published": "2026-11-16T18:26:44+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Shares of NSE surge to all-time high, market capitalisation crosses ₹5 trn",
+      "link": "https://www.business-standard.com/markets/news/shares-of-nse-surge-to-all-time-high-market-capitalisation-crosses-5-trn-126111601966_1.html",
+      "published": "2026-11-16T17:41:32+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Shares of NSE surge to all-time high, market capitalisation crosses ₹5 trn - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmx1WF9OVG5INGRFWWRpNDBjbEhaWGJZcWp4bHBQdkw5cWlPSGRrV3RDRHM3bGt4RDRnX1Q3OThtaDFzV1VNX2FxZzNxMjJjQjFIUGVmZXFuU2JkQjFoUlBIMnkzWDlYUlRiVWw1bWVrT1o5bVRkTTY2b25iQUdPMF9CYkh4OXFzZWRpRlkzWmt6SG4yXzBFMml6bGhyWnQzQjRDZVBUTWZXc1NSS1lCVzZDOGFQM0d0Mk1WWkF3YVlZT1RTOXpvb2pnSVhFOFV4ZzBQLUZ30gHbAUFVX3lxTE5wZm1lLTVacWt4bzRVOTY4VDVPa2U0OTAtbWhxamxXRS02WERkN000b3pqZUZMMHFubGllT0J2ZnIzUk5FWV9tY1gzU2cyeDBsbWlaY1czS3B3NTAwNmY3V3JqQTJYQjN0UWd0S2s2clpEZmdVQm1tNXlVUG9kMm5WT0ZuX3RNSjZrMTFvQUNKUXpsMHpWQ0c2NURBZkU1VkdNSVIyRDZXYndPUkRBOUI1aUVkVHdrb1hPTEJuOTU0SHNYQW5KVU1IdW1rWGNwUXJCRVNoUUR0WDlxOA?oc=5",
+      "published": "2026-11-16T17:41:32+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty end higher on large-cap buying; broader markets remain under pressure - prameyanews.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekpsV3diWEtiWXBtLVBaQTRRTTRlWk5adTZVcVpXV1lPTjdEeXVDbEI5STdFdWFyZzhjV0FMMktKOHZNR19jMjVHYUVieW9WOGN0TXBIY082V1hnZ2c4aWp1OHNUWGdPeEFpSVk0VExsVmV6OUxKSnlicFI2MUxFNlNrZlgxQi1aS2FqX2VuQVB5LW9mVmJZaFZBeTkzTDhLSnVzQ1FveEt4aTJaekE?oc=5",
+      "published": "2026-11-16T16:56:04+00:00"
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Large and midcap funds: Don't chase Oct's inflows, focus on long-term goals",
+      "link": "https://www.business-standard.com/finance/personal-finance/large-and-midcap-funds-don-t-chase-oct-s-inflows-focus-on-long-term-goals-126111601924_1.html",
+      "published": "2026-11-16T16:55:13+00:00"
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "RBI reiterates listing mandate for Tata Sons, seeks compliance with norms",
+      "link": "https://www.business-standard.com/finance/news/rbi-reiterates-listing-mandate-for-tata-sons-seeks-compliance-with-norms-126111601897_1.html",
+      "published": "2026-11-16T16:38:39+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb203Z3A2a1E4cVU5NmhBak1SXzZqQzBlNWQyNlFrZ2lTVEFjYkFndFZrN1E3amxILVpwTmprZVVlbmxsdDM3SV9RaXI0ODg1RkpEZHRxYkZjWnR4dXRWQlptSW5xR1Vlb1o3cU1hSWQybWxnT3d2SlVldnlHc1BhX1ZfbXAzdjNRRzhaU3N0Qng3bEFlUDIzOEE2X1ZFMFVVWVpvOHJuUXd0dEVKQ2t1Uld4V3BUU2xRdXhmZWFMbVk3UXhHamxMVkRhRFk4eW9lNVZKcWlhV2lGYno5MlhPN9IB5gFBVV95cUxPZktzMElwejFfYmVrMEpHYzlob0xwcWtvcUNBNDFlZ3V1eXJPaFhJU2hrMmpXNXNJd045eDkzdnU4S1paWUtBQlR1ZXFMQUN4MzEySVRHeUtUY0lCeERRRHFIV1VsSFY1dXBLV0FSZU1iZDAtaG9SUXNXaGFpM1M1RVhCc3ItR2Y4d0U4NHRYenUwUXNiTmZmMmM3VmcyUmlIXy0yNTU3dk5PbUx0WWQ1WkNZWTY5Q3Z3UVNvczR2ei1oTVY3MzNLa1lFTFBLQXNBempCSEZiZnZrX1JZODlBdUw3Y01xdw?oc=5",
+      "published": "2026-11-16T15:53:31+00:00"
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Hindustan Zinc to invest ₹80,000 cr to raise capacity to 2 million tonnes",
+      "link": "https://www.business-standard.com/companies/news/hindustan-zinc-to-invest-80-000-cr-to-raise-capacity-to-2-million-tonnes-126111601831_1.html",
+      "published": "2026-11-16T15:36:42+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips",
+      "link": "https://www.business-standard.com/markets/news/sensex-nifty-gain-over-0-5-as-banks-fmcg-shine-broader-market-slips-126111601579_1.html",
+      "published": "2026-11-16T15:14:21+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3dpREFIY2FyT1kzc1JodXNIUmlsWW51UXQzTFVjWktPOHNwb2dDRXRKbU9vcFdfRXlRUVpaSlB1ZU8zWU5scnd4RXJsYmZtT1UzTUhacm9UaFBvSDVtMWFleVluMmFzVzZvN0dyMWozbHBTSElEb3NJa1BNU3pNU004UWNDMnN2TlhZSnZkWENJRkpvNW40VGx4TktIckRqT0lLVlZlNEM2SzZJeXBzUUJ6VkM5cmhqVWdRU1A0UlpaWDloMGN6dVFnZHU2WUnSAdQBQVVfeXFMTjI1SWJFdUs0SGNGbExHZVktRFVnZ21LLXlNWDZKTGlIb3JMTkNxeGREanlTNUJkaGRCcXdNZVN2MWZ0dFU4Z0ZqblhBcDY2emw0aUViRlhMRkVBYnhjMWJlWkxjRFp5ODZmQW1MRV9SdFpXWjV2YjZFSnN3alJPNHotSHNWR0V5TVRfVGRFclhYUEpGQ3UzTGh5VDZnUjdtWXJ1NWhzQ3BnUERtUEpjVG9wYjN3YUpqLU13Q2VaOWdRNnZXR191T2Zybm13ZDVwaDY3eGQ?oc=5",
+      "published": "2026-11-16T15:14:21+00:00"
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Dreamteam emerges from stealth with $53 million to build AI-native CRM",
+      "link": "https://www.business-standard.com/companies/start-ups/dreamteam-emerges-from-stealth-with-53-million-to-build-ai-native-crm-126111601767_1.html",
+      "published": "2026-11-16T15:00:35+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Indian Stock Market Anticipates Positive Trading Amid Global Trends - India News Network",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXg2N2hDcGNDMzUzRVZzU1ltVDIyR0pGSThaRWpmSVZXQkktX3VwbjJyc0hwLTA4WjVxZmszQk9hYVNpU3RjM3RxQkZ4RkRYM0w3WDdrbTZSOGM2ZFlNSVQzNlczajJ6NFZvMnJucy1SMG9hU3NlTmxiQ1h1S3JZMm9HVFNIWk1BQTJLdE9pZDJtWmhGZ01xNG84WThNckZLSDN2cndsaV80b1Q0ZExneVhR?oc=5",
+      "published": "2026-11-16T14:49:49+00:00"
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Big on UPI, behind on RuPay: PhonePe, Google Pay trail smaller apps",
+      "link": "https://www.business-standard.com/finance/news/phonepe-google-pay-trail-smaller-apps-in-rupay-credit-card-upi-features-126111601733_1.html",
+      "published": "2026-11-16T14:39:52+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty resume climb in volatile trade; what lies ahead for markets? - - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVJjd2g2N2dGa1RzVGZYU3ZmbGF6RnVGVmNGbU1fVXlsMnhFX0t3bHpQSFlzd3loc1NTdGJ4Zk5EYzFwM05pYXpvVllvQXJsd3p1cW5EcHdRcU5BVTItZHd3WjJPdlQtTUNIMFJwUTV2RG1kbldXUEh3Mm1Nb0VWLWZaOENyYXVMeGdCcUVfN2RPQy14TWJkNlM3Z01Qanp1TWRLRXJFdWVrNWc?oc=5",
+      "published": "2026-11-16T14:35:50+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Indian benchmarks outperform Asian peers - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmxmTE9CS0pZY1dncnBiaGRtYzNSYXBhaGF6NkdFcFZ0cjVycXlmZm44X2Jkb2V4RVVUaHFxWmRfTWFDX2dFMVZEOHZ0dXZhcXlVUjhXYTZST0J1TWp0Z2lJeVl3OGoyNGVIekN2WVBiRDl5S3Rud19Hd1paSk1UZ1BUdG9VMEw0OEc2TUd2R21rYjBsaGctb1RLX0xBZWQtT0U1QkNTeE1GNTNOZEVqeDRSTlFqX0hjSnBEa0Jn0gHEAUFVX3lxTE5nYjJOcG9NOG4yUFJHSWpjZnFrSkRpQW1zel8yRzc5NmhNeGkwTDRmTTdlLWZhaEZuWmhMMUN4N19CZTFOXzRwUnhTdmZldVlHN29MaHJiM29qSXJxRi1uVmIwb083UjQzcWotRXNSdEp0UUk1dThvLVFNWmNVc3hGYXFyWlphVkY2NXAtWG1QcXViSm1MN1I1a3M3SzhJVXZLUmFGNUxUODFiRDl1RmlTMHAtQzlmMWQwdEZnZnJMcGdfT24?oc=5",
+      "published": "2026-11-16T14:01:11+00:00"
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Karnataka Bank names Biji Sankaranarayanan interim MD and CEO for 2 months",
+      "link": "https://www.business-standard.com/companies/news/karnataka-bank-names-biji-sankaranarayanan-interim-md-and-ceo-for-2-months-126111601668_1.html",
+      "published": "2026-11-16T13:54:19+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Rupee emerges as Asia's best-performing currency on strong FPI inflows - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzEzVG02SjY0N3NIMmJZaF9yTHF1TXotUm8zbnczcGlFTTRKLUpGdzFGRm1Mcmg0WWpzWmIwVW9tZm9SLVpoVFRrcDVuZzM3SWotc0xuQlNuSE1yZ2UzMHVIcHFJMmtrSzVpOUVKUWxJMUdXUnB6N1l1MllvT1Zfd0FxdURsX3JjX2hDblpMU1hRbDhTM25QLU5RVWJOdW43UVpSTTNoRlJfdUJZcURCOVd3ZjNLLVBoLUVac05CQWxfV0tMZ2FUU21sdGdldjdSNlJr0gHYAUFVX3lxTE1EY2lERFdKaVU5YjJhdS1iNFVOWHRnMEhSN0RBYUZSLWhzNDdoN0t4ZWFHR24tN041c3FONWgybkpRNkMyck43dXFtdkRGWnNWemV3bDdOVnFXNDEycncxRC1SRFJiaE5vMU9HS1FRTGRiSm1HaW9WYndUZFFpNDJpcmxwbFVkcU56dU9Fdk9IaWFPT0VoTWowZHhJQk5DRzJJTGtSWG1kRERoV2ZKT0pnQUlvWjRjRnNEY0dRQjNGRVliOGRKdEZIZDZ6VHlIbW9YTmtRVVhZOQ?oc=5",
+      "published": "2026-11-16T13:47:33+00:00"
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Mahanadi Coalfields Ltd's IPO price band set at ₹129-136 per share",
+      "link": "https://www.business-standard.com/companies/news/coal-india-to-use-mcl-ipo-proceeds-for-1-trillion-diversification-plan-126111601650_1.html",
+      "published": "2026-11-16T13:41:17+00:00"
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Elan Group, Marriott to bring Apartments by Marriott Bonvoy to Gurugram",
+      "link": "https://www.business-standard.com/companies/news/elan-group-marriott-to-bring-apartments-by-marriott-bonvoy-to-gurugram-126111601645_1.html",
+      "published": "2026-11-16T13:36:54+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "India's dollar EPS growth key to reviving foreign investor interest: CLSA",
+      "link": "https://www.business-standard.com/markets/news/india-s-dollar-eps-growth-key-to-reviving-foreign-investor-interest-clsa-126111601640_1.html",
+      "published": "2026-11-16T13:35:23+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex closes 510 points up, Nifty gains 147 points, midcap and smallcap face pressure - Kalinga TV",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalBSV1huRUtZdkJkTFRCZ0F5bDdUSjk0QXRYbm54N2NEb3lrNE00NDFqSTd5WndoeDFPZEUzM1VjZHBiTjVvQWtnTncwOWcwLXBLMzB4V0U5WUo5TmpCT3Z3TkdKSl8wU2NPS3EwNmJhTERBeEhvVnpiSDE2a3RZMzlOWGJFWVZPQW5CSEdTWmVrUEhPV0xYMm85OEJPUVg4Y0JvZ0hRUERrcEZNdzlUdjU5aFdsV2c?oc=5",
+      "published": "2026-11-16T13:27:49+00:00"
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "New twist in TVS family feud: Lakshmi Venu seeks partition of family assets",
+      "link": "https://www.business-standard.com/companies/news/new-twist-in-tvs-family-feud-lakshmi-venu-seeks-partition-of-family-assets-126111601574_1.html",
+      "published": "2026-11-16T13:00:14+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex Jumps Over 500 Pts, Nifty Nears 25,300 as Banking, FMCG Stocks Rally - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOel9fZ2dod0JRcVVXdEV1bkUwMWk3ckphOElweXo5NmI3UXlCdzVwSWJ1alQwdFF3Ui1JcHlicmpRY3l6dEtHMWVJRUpibXBYRTJRTEJtVUktaUxfTXlyVm80SnFDRjdJWU84UE5TZnpINU00SE8yX01FOERtYmI0LU4wSWVPM0x4Q3RNckczeUEzcWhYSG9jeldJVWszQUpGd1E?oc=5",
+      "published": "2026-11-16T12:29:00+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Sebi sets up expert panel to review IPO, FPO and capital-raising norms",
+      "link": "https://www.business-standard.com/markets/news/sebi-sets-up-expert-panel-to-review-ipo-fpo-and-capital-raising-norms-126111601512_1.html",
+      "published": "2026-11-16T12:23:42+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "AIF commitments hit a high of ₹18.68 trillion as of September: Sebi data",
+      "link": "https://www.business-standard.com/markets/news/aif-commitments-hit-a-high-of-18-68-trillion-as-of-september-sebi-data-126111601365_1.html",
+      "published": "2026-11-16T12:18:40+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex could hit 95,000 by 2027, cross 1 lakh in bull case: Morgan Stanley - NewsDrum",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVHZSdGxrQmhJcnF1WThzdWZyenhBQ3pWdjhTR0JxbjNKTHoxY3ZBYXFEVjhOWmF4N1gxQmxFZ0RsM2JndXh1UEpfbkdzZGtjd05BeDR1MFpjQkJsOVdZb0Nrek5HOG9EcnNlRnJuUjV1NFA3SzBsS25TZEpYS3VMWjVsUUdzU1VnS2RkU1VSLTR2S1EzLWhjV2NjVkdvV3BDUXhISTVSVWxjZnM3RFlzaEhad9IBswFBVV95cUxNVHZSdGxrQmhJcnF1WThzdWZyenhBQ3pWdjhTR0JxbjNKTHoxY3ZBYXFEVjhOWmF4N1gxQmxFZ0RsM2JndXh1UEpfbkdzZGtjd05BeDR1MFpjQkJsOVdZb0Nrek5HOG9EcnNlRnJuUjV1NFA3SzBsS25TZEpYS3VMWjVsUUdzU1VnS2RkU1VSLTR2S1EzLWhjV2NjVkdvV3BDUXhISTVSVWxjZnM3RFlzaEhadw?oc=5",
+      "published": "2026-11-16T12:18:16+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Prediction for Tomorrow: 17 Nov Levels, Nifty 25,291 - Univest",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZZTdUQmRkZXZUeDhWQURUY1BDTHI3ZGtCOGdKQ3FwbXAyR19uZ21JYk9OOGRjREs3ZlpxVGJNX0lJQ2w1Y0J6aHg0OFhXVThJLTYtRm9lMEdZOGdlZ052cjgwd3hETDlPSDFaMHhleG5fTmdW?oc=5",
+      "published": "2026-11-16T11:50:42+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty rise over 0.5%; Tata Motors PV slumps 8.7% as JLR cuts FY27 margin outlook - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUtNY3cwenpuaXF2TjBqeWhDVUJhcjhQTEc2Vzd3bXlKbTJDOGM4U0ZvY3UzOXNJZDZOYnJkaDR2cnZqMm5vX0hucXZSMDE5SE1TWmEtN0QtOFhxM0R0djQ3T29HekUyX3lTa0RkNWp5UXhROWFwTUM1QXBtbFUyNEx3ZUJaTlNXSnRfa3Q3M0VkREQxbEJQbzNFUFVMdElhdHBsOHAyMllWbFJSWDVZMWI1R3dmMm5obUZ5VXQ4NWk4eVNx0gHSAUFVX3lxTE1CTTlIQk1uT1RqMnRxanFZWHJZb0pfWFAzX3ZLUV9iUzJvb3NxMEtiNUh2TWgxZnNxUUZOM3ROaVFQQllhX0VaWkRzekNWa3M0WnBMTnZIZkp1Y3JLbDBDc2g0dEs0R0gyOEFiY0NaVkpvR0Vqa2YxVUROejBYY3hYMHg2dlJLaDFZWHk3QUlGZEZ4SjYzNjVINEEyQUg3b3R0WGpkLXZpd21jTWxDTjd1N05hQXM0VTlRU19JQUF0RWlPUVBvdGVURUQ5MVFBa2FQUQ?oc=5",
+      "published": "2026-11-16T11:34:16+00:00"
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Lending fintech Olyv raises $6 million, targets $1 billion AUM by FY29",
+      "link": "https://www.business-standard.com/companies/start-ups/lending-fintech-olyv-raises-6-million-targets-1-billion-aum-by-fy29-126111601416_1.html",
+      "published": "2026-11-16T11:33:56+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Indian Equities Rise: Sensex Up 512 Points, Nifty Nears 25,300 Amidst FII Inflows - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmMyeDBUTU5OLWRnX2hKNThraEloRWxtbkROamhTMWRydEhMN3lyU0tYN2VQbDllZG80NnJQWW5DMlBQVlZBSFFlN1Q2Rzc2aUc0c1ZGRUg5VDhBTWFFanVsbE5BbmxkQnNIa3U4VHBuTkJlU1JEUFFERU5qcWhJU2RCV1RVUEIySXFucDhmd2Y3NHl3NFRjMjdYOF9ZV1lCcExoRGE4UTVJczl2WDlZSlN4blNnakNBZC1ETXVNa0dDLVFSd3JZY3ZR0gHMAUFVX3lxTE1lQmgwcExsMHdnODRvdENFRjBxdFIxTmdwcTN2UU94bTl2YUpCTmtzRmJETXZBVEtyT1lGM1IzUXRpYUI0TllBRE5sSkJtTGJIWHFpd1lqMU5hZnVPUTdlUVY1X2dzUjNjeWtUZTh4SnpDZGlDa0hDSFRnRFNSNHZER3AxS1VMaVl2R2YzOEEtcmxwaUxlZVFxempFenBwdzQ5a2p3TWEyYnQ2LTRMSTJKVGI5MFpzS0J2N29uLTY3THp6d0pGXzVHcWFTVw?oc=5",
+      "published": "2026-11-16T11:32:38+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty Close Higher as Banking and FMCG Stocks Lead Market Gains - Business News This Week",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0E4MmVQNkp1MThlR3JCZEo3TTlQTGkydEVldjFhZm1KVXYyZGFoNnFmZTRjRkxoc1g3eS1mX05LV2JJRmZYZ0lBMnJwLTZxQTVCM0tldzVtMi1IU2xMT0RtRWhpNVZNbDh2STlET19acnBDSUhSbGFHYllGTmhjQlg3aW9CVzliaVc3UHRfTi1URDV6VXVES1NUZFp0b2xQREVuR25qOWJDOXpHYVQwVVZzTQ?oc=5",
+      "published": "2026-11-16T11:32:25+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock markets end higher on foreign fund inflows, lower crude oil; Sensex up 512 pts - DT Next",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNelBsR25zMWpwVlNEMUczY3pnUkhfNGxyd0FCRGZ0bkdVcUZ6OVozaGV4MGRJdl9iS1draWVmMUNnNlNoOTVNWnRaMk9tZTA2UmlkdzQ3WFluc3FYOC1BUHFGbnZtQm5FdERlbTl5LWtHYWptTUVBNTBhQmVTdWo5a01qZmRfNlh6NGlmdHBORmVlNy1zdlFTOWdxdGoyRHhJN0hQMjJlXzBPMnlFSlhEdHNMNzZ6b0UwS0E?oc=5",
+      "published": "2026-11-16T11:29:48+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex rises 510 points, Nifty gains 147 as banking, FMCG stocks rally - Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMUhSUEFuVzI3d3hBVVJMcmczVmQ1SkZiQ2hIdTJOdkJZS2J2eExwdm1Ea2EteTR2U2lRSXhYUG9NX3FUMC1IOTk1V21WMXR5SUZwanctY29wZ21USWIwd185V1hQNDRNTVQtNnQxc0E4c3Q3dnNKUWNyNFJGbkh4NjdvdXdSRTBXcW5aMEFXbWUzRUNMTUpaS3dtaw?oc=5",
+      "published": "2026-11-16T11:29:12+00:00"
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex and Nifty Advance Amid Mixed Sector Performance; FMCG Leads Gains - MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUENqN3lESzgyNFlSclkzSzZZeURKWjB3eUw2Z1pYX3pFbjFiVlIxUXpGaVFIX25lUnJzdDk4Q3V3cHpVck5nRloxc3NsN3N4TGhHWnNZaGVVWUNGZnk3TTkzNDU4UnhjVXp5NGF5NkNHbmUxTEJmZW5PMURvMjdqaUFRclM0V0lZX0FNZmpIamhnTy1TdENSS3RkenlBOU5PZldzQk94NlUzZlVtcGR6UjJWV0hRVHFuYU5vbFhocWdhc2xia0NOVkJ3?oc=5",
+      "published": "2026-11-16T11:28:11+00:00"
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Can banks seize your pension if you guarantee someone else's loan? HC rules",
+      "link": "https://www.business-standard.com/finance/personal-finance/can-banks-seize-your-pension-if-you-guarantee-someone-else-s-loan-hc-rules-126111601404_1.html",
+      "published": "2026-11-16T11:24:18+00:00"
+    }
+  ]
 }
