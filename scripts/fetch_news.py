@@ -1,4 +1,3 @@
-
 import json
 import os
 import re
@@ -12,12 +11,10 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from email.utils import parsedate_to_datetime
 
-
 MODEL = "gemini-3.8-flash"
 API_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
-    + MODEL
-    + ":generateContent?key="
+    + MODEL + ":generateContent?key="
 )
 
 NEWS_FILE = Path("data/news.json")
@@ -67,8 +64,9 @@ def write_json(path, data):
 
 
 def clean(value):
-    value = re.sub(r"<[^>]+>", "", str(value or ""))
-    return re.sub(r"\s+", " ", value).strip()
+    value = re.sub(r"<[^>]+>", " ", str(value or ""))
+    value = re.sub(r"\s+", " ", value)
+    return value.strip()
 
 
 def fetch_feed(url):
@@ -97,11 +95,15 @@ def get_items():
     for category, source, url in FEEDS:
         try:
             root = fetch_feed(url)
-
             for node in root.findall(".//item"):
                 title = clean(node.findtext("title"))
                 link = clean(node.findtext("link"))
                 published = clean(node.findtext("pubDate"))
+
+                # RSS descriptions are short publisher-provided feed summaries.
+                description = clean(node.findtext("description"))
+                if not description:
+                    description = ""
 
                 if not title or not link:
                     continue
@@ -109,7 +111,6 @@ def get_items():
                 identity = link.lower() or title.lower()
                 if identity in seen:
                     continue
-
                 seen.add(identity)
 
                 items.append({
@@ -118,12 +119,12 @@ def get_items():
                     "title": title,
                     "link": link,
                     "published": parse_date(published),
+                    "rss_summary": description[:1800],
                     "hinglish_title": "",
                     "explanation": ""
                 })
 
             print("Feed checked:", source)
-
         except Exception as error:
             print("Feed failed:", source, error)
 
@@ -131,7 +132,6 @@ def get_items():
         key=lambda item: item.get("published") or "",
         reverse=True
     )
-
     return items[:MAX_HEADLINES]
 
 
@@ -147,50 +147,52 @@ def retry_time_from_error(message):
         message,
         re.IGNORECASE
     )
-
     if not match:
         return now_utc() + timedelta(hours=6)
 
     hours = int(match.group(1) or 0)
     minutes = int(match.group(2) or 0)
     seconds = float(match.group(3) or 0)
-
-    delay = hours * 3600 + minutes * 60 + seconds
-    delay = max(delay, 3600)
-
+    delay = max(hours * 3600 + minutes * 60 + seconds, 3600)
     return now_utc() + timedelta(seconds=delay + 60)
 
 
 def translate_headlines(headlines, api_key):
     prompt = """
-You are writing for an Indian stock market news website.
+You write for an Indian news website called One Day Shaik.
 
-Convert each supplied English headline into natural, simple Roman Hindi/Hinglish.
-Use ENGLISH LETTERS ONLY. Never use Devanagari.
+For every supplied news item, produce:
+1) A short, natural Roman Hinglish headline.
+2) A simple 3 to 5 line Roman Hinglish summary based ONLY on the supplied headline
+   and RSS summary text.
 
-Return ONLY a valid JSON array.
-For every input item return:
-{
-  "id": 1,
-  "hinglish_title": "Short Roman Hinglish headline",
-  "explanation": "One or two simple Roman Hinglish sentences."
-}
+Language rules:
+- Use English letters only. Never use Devanagari script.
+- Use everyday Roman Hindi/Hinglish that an Indian reader can understand.
+- Keep company names, stock names, people names, dates and numbers accurate.
+- Explain the available facts clearly; do not merely repeat the headline.
+- If the RSS summary has too little information, explain only what is known
+  and say: "Zyada details ke liye original report dekhein."
+- Never invent facts, quotes, figures, reasons, market predictions or buy/sell advice.
+- Do not translate names of companies or people.
+- Return ONLY a valid JSON array, with exactly one result per input ID.
+- Each explanation should be 3 to 5 short sentences when enough source detail exists.
+- If source detail is limited, a shorter honest explanation is better than guessing.
 
-Rules:
-- Keep company names, stock names and numbers unchanged.
-- Explain only what the headline actually says.
-- Never invent facts, numbers, reasons or market predictions.
-- Do not give buy/sell advice.
-- If details are unclear, say original report mein details check karein.
-- Return exactly one result for each input ID.
+Required JSON shape:
+[
+  {
+    "id": 1,
+    "hinglish_title": "Roman Hinglish headline",
+    "explanation": "Roman Hinglish summary..."
+  }
+]
 
-Headlines:
+News items:
 """ + json.dumps(headlines, ensure_ascii=False)
 
     payload = {
-        "contents": [{
-            "parts": [{"text": prompt}]
-        }],
+        "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "temperature": 0.2,
             "responseMimeType": "application/json"
@@ -204,32 +206,26 @@ Headlines:
         method="POST"
     )
 
-    with urllib.request.urlopen(request, timeout=90) as response:
+    with urllib.request.urlopen(request, timeout=120) as response:
         data = json.loads(response.read())
 
-    response_text = data["candidates"][0]["content"]["parts"][0]["text"]
-    response_text = response_text.strip()
-
+    response_text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
     if response_text.startswith("```"):
         response_text = re.sub(r"^```(?:json)?\s*", "", response_text)
         response_text = re.sub(r"\s*```$", "", response_text)
 
     result = json.loads(response_text)
-
     if not isinstance(result, list):
         raise ValueError("Gemini response was not a JSON list")
 
     translated = {}
-
     for entry in result:
         try:
             item_id = int(entry["id"])
-            if item_id < 1 or item_id > len(headlines):
+            if not 1 <= item_id <= len(headlines):
                 continue
-
             title = clean(entry.get("hinglish_title"))
             explanation = clean(entry.get("explanation"))
-
             if title and explanation:
                 translated[item_id] = {
                     "hinglish_title": title,
@@ -237,50 +233,40 @@ Headlines:
                 }
         except (KeyError, TypeError, ValueError):
             continue
-
     return translated
 
 
 def main():
     print("One Day Shaik news updater started.")
-
     items = get_items()
     print("Total headlines collected:", len(items))
 
     cache = read_json(CACHE_FILE, {})
     state = read_json(STATE_FILE, {})
-
     if not isinstance(cache, dict):
         cache = {}
-
     if not isinstance(state, dict):
         state = {}
 
-    # Apply previously saved translations.
+    # Reuse saved translations first. This avoids spending API quota again.
     for item in items:
         saved = cache.get(title_key(item["title"]))
-
         if saved:
             item["hinglish_title"] = saved.get("hinglish_title", "")
             item["explanation"] = saved.get("explanation", "")
 
-    # Only send headlines which do not already have translations.
     missing = [
         item for item in items
         if not item["hinglish_title"] or not item["explanation"]
     ]
-
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
 
     if not api_key:
-        print("GEMINI_API_KEY missing. Original headlines will be shown.")
-
+        print("GEMINI_API_KEY missing.")
     elif not missing:
         print("All current headlines already have saved translations.")
-
     else:
         next_attempt = state.get("next_attempt_at", "")
-
         try:
             allowed_time = datetime.fromisoformat(
                 next_attempt.replace("Z", "+00:00")
@@ -289,41 +275,37 @@ def main():
             allowed_time = None
 
         if allowed_time and now_utc() < allowed_time:
-            print("Translation cooldown active. Existing translations reused.")
-            print("Next translation attempt:", next_attempt)
-
+            print("Translation cooldown active until:", next_attempt)
         else:
             request_items = [
-                {"id": index + 1, "title": item["title"]}
+                {
+                    "id": index + 1,
+                    "title": item["title"],
+                    "rss_summary": item.get("rss_summary", "")
+                }
                 for index, item in enumerate(missing)
             ]
-
             print("Sending one Gemini request for", len(missing), "headlines.")
 
             try:
                 translated = translate_headlines(request_items, api_key)
-
                 for index, item in enumerate(missing, start=1):
                     result = translated.get(index)
-
                     if result:
                         cache[title_key(item["title"])] = result
                         item["hinglish_title"] = result["hinglish_title"]
                         item["explanation"] = result["explanation"]
 
                 state["last_success_at"] = iso_now()
+                # Avoid repeated API calls on every 15-minute workflow run.
                 state["next_attempt_at"] = (
-                    now_utc() + timedelta(
-                        hours=TRANSLATION_COOLDOWN_HOURS
-                    )
+                    now_utc() + timedelta(hours=TRANSLATION_COOLDOWN_HOURS)
                 ).isoformat()
-
-                print("Roman Hinglish translations saved:", len(translated))
+                print("Translations saved:", len(translated))
 
             except urllib.error.HTTPError as error:
                 body = error.read().decode("utf-8", errors="replace")
                 print("Gemini HTTP error:", error.code, body[:2500])
-
                 if error.code == 429:
                     retry_at = retry_time_from_error(body)
                     state["next_attempt_at"] = retry_at.isoformat()
@@ -332,17 +314,15 @@ def main():
                     state["next_attempt_at"] = (
                         now_utc() + timedelta(hours=1)
                     ).isoformat()
-
             except Exception as error:
                 print("Translation error:", error)
                 state["next_attempt_at"] = (
                     now_utc() + timedelta(hours=1)
                 ).isoformat()
 
-    # Reapply cache so existing translations are never lost.
+    # Apply cache one more time and preserve the website's existing JSON fields.
     for item in items:
         saved = cache.get(title_key(item["title"]))
-
         if saved:
             item["hinglish_title"] = saved.get("hinglish_title", "")
             item["explanation"] = saved.get("explanation", "")
@@ -350,18 +330,13 @@ def main():
     write_json(CACHE_FILE, cache)
     write_json(STATE_FILE, state)
 
-    output = {
-        "updated": iso_now(),
-        "items": items
-    }
-
+    output = {"updated": iso_now(), "items": items}
     write_json(NEWS_FILE, output)
 
     translated_count = sum(
         1 for item in items
         if item["hinglish_title"] and item["explanation"]
     )
-
     print("Saved headlines:", len(items))
     print("Headlines with Hinglish translation:", translated_count)
     print("News update completed.")
