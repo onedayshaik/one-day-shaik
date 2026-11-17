@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="One Day Shaik - Indian stock market news in simple language.">
+  <title>One Day Shaik | Market News</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap head">
+    <a class="brand" href="./"><span class="brand-mark">ODS</span><span><b>ONE DAY SHAIK</b><small>MARKET NEWS • MADE SIMPLE</small></span></a>
+    <div class="live"><i></i> AUTO NEWS UPDATES</div>
+  </div>
+</header>
+<main class="wrap">
+  <section class="intro">
+    <p class="eyebrow">INDIA • BUSINESS • MARKETS</p>
+    <h1>Share bazaar ki har zaroori khabar.<br><em>Seedhi Hinglish mein.</em></h1>
+    <p class="sub">Har headline ka simple matlab aur market par kya asar ho sakta hai — Roman Hindi mein.</p>
+    <div class="meta"><span id="updated">News update ho rahi hai…</span><button id="refresh" type="button">↻ Refresh</button></div>
+  </section>
+  <nav class="filters" aria-label="News categories">
+    <button class="filter active" data-cat="All">All News</button>
+    <button class="filter" data-cat="Markets">Markets</button>
+    <button class="filter" data-cat="Companies">Companies</button>
+    <button class="filter" data-cat="NSE">NSE Announcements</button>
+    <button class="filter" data-cat="Economy">Economy</button>
+  </nav>
+  <section class="content">
+    <div class="section-head"><div><p class="eyebrow">LATEST UPDATES</p><h2 id="section-title">Aaj ki headlines</h2></div><span id="count" class="count"></span></div>
+    <div id="news" class="news-grid"><div class="loading">Latest headlines load ho rahi hain…</div></div>
+  </section>
+  <aside class="note"><b>News kaise update hoti hai?</b><p>Yeh website public RSS news feeds aur NSE announcements se headlines collect karti hai. Har news ka simple explanation Roman Hindi (English letters) mein dikhaya jayega. Puri report ke liye original source kholein. Updates automated hain; source ya network delay ho sakta hai.</p></aside>
+</main>
+<footer><div class="wrap foot"><b>ONE DAY SHAIK</b><span>Independent news collection • Not investment advice</span></div></footer>
+<script src="app.js"></script>
+</body>
+</html>
