@@ -5,20 +5,26 @@ on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-market-headlines
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
@@ -27,12 +33,17 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/fetch_news.py
 
-      
       - name: Save updated headlines
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/news.json
-          git diff --cached --quiet || git commit -m "Update market headlines"
-          git pull --rebase origin main
-          git push origin main
+
+          if git diff --cached --quiet; then
+            echo "No news changes to save."
+            exit 0
+          fi
+
+          git commit -m "Update market headlines"
+          git push origin HEAD:main
