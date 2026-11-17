@@ -13,7 +13,7 @@ FEEDS = [
     ("Economy", "Google News India Economy", "https://news.google.com/rss/search?q=India+economy+RBI+SEBI&hl=en-IN&gl=IN&ceid=IN:en"),
 ]
 def clean(s):
-    return re.sub(r"\\s+", " ", re.sub(r"<[^>]+>", "", s or "")).strip()
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", s or "")).strip()
 def fetch(url):
     req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 OneDayShaikNews/1.0"})
     with urllib.request.urlopen(req,timeout=20) as r:return ET.fromstring(r.read())
@@ -29,7 +29,7 @@ For each supplied headline, return JSON array with objects: {"hinglish_title":"s
 Rules: Do not invent facts, numbers, causes, market impact, predictions, or advice. If headline is unclear, say that details original report mein check karein. Do not claim a stock will rise/fall. Keep company names and figures unchanged. Output only valid JSON array.
 Headlines:\n""" + json.dumps(headlines, ensure_ascii=False)
     payload=json.dumps({"contents":[{"parts":[{"text":prompt}]}],"generationConfig":{"temperature":0.2,"responseMimeType":"application/json"}}).encode()
-    url="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key="+api_key
+    url="https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key="+api_key
     req=urllib.request.Request(url,data=payload,headers={"Content-Type":"application/json"},method="POST")
     with urllib.request.urlopen(req,timeout=45) as r: data=json.loads(r.read())
     text=data["candidates"][0]["content"]["parts"][0]["text"]
