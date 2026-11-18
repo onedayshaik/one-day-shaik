@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-18T01:59:34.458680+00:00",
+  "updated": "2026-11-18T02:51:37.113710+00:00",
   "items": [
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Stock Market LIVE: GIFT Nifty down over 100 pts; Asian markets mixed post Nvidia's Q3 beat",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html",
+      "published": "2026-11-18T02:31:56+00:00",
+      "rss_summary": "Sensex Today | Stock Market LIVE Updates Wednesday: The GIFT Nifty indicated a gap-down open for the Nifty50 index. Asian markets were mixed",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Nifty eyes breakout atop 25,500; Analyst flags divergence in market breadth",
+      "link": "https://www.business-standard.com/markets/news/nifty-eyes-breakout-atop-25-500-analyst-flags-divergence-in-market-breadth-126111800133_1.html",
+      "published": "2026-11-18T02:20:36+00:00",
+      "rss_summary": "The market breadth was negative for last three sessions, indicating a sharp divergence between Nifty performance and broader participation, explains Dharmesh Bhatt of Systematix Institutional Research",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Markets",
       "source": "Google News India Markets",
@@ -38,16 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNGNxSTJFMkVLeHdzd1ZXR1B0azl2Y2JCLUdrM2VFTGFSLWZPSWpVRi16M24wV1gySmZKNno5UzFwckZ6Z0RyMDQ0V0dNMm5oQ3BqT2VBWTRlWTZGS1RSemhUSktfaFFaVmtxbEk4UFo5WXpnS2Z1b2k3LUZBVllibmlMeTlGR0RqdVJDRmZaaUdUMXlpZ2NSemdmZEZEalY4VUZ3SzNzWUJIXzljYjVvU19BUDNEcldlRFhPbzA4dUJZSWctaGN3MHA2OFVLY0NwajNz0gHYAUFVX3lxTE96UkozTkRSNTNZbEVOVHMyTUdtMlkzeTIzeVFzVTIxR0JOM29ZVGNPRjFWZjE2aTQzRkg1RTQ2aERnWXhsTThpamJYcFpnallETlZ5YWFPLU55RkZRWWJ2eVJSa3lUZTFGYW12WXhXZldvTVFHVHlDcHN5M2tGdnZxZTZtZVhpeG1mQ2g3T2NsM3hnUV9PSFBoRVdrYXhiOWhfYUMzMmtoYUE3djRHTEdtbno5Szh0azRUeDBubWt3R1dGYWx6ZGNBWUlZTFlkM18zYm1YYjF4cg?oc=5",
       "published": "2026-11-18T00:07:01+00:00",
       "rss_summary": "Sensex, Nifty hit 9-month highs as bank stocks lead market rally &nbsp;&nbsp; The Economic Times",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Today: All You Need To Know Going Into Trade On Nov 18 - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc29CbU1JWDZVZDJqSGk1dFhQU09NeFdEUHJMZGQteWhYSk5jVWduOW9jU0VKeFZEeDZsQWZlXzdVWFNQajF5SXZlVGEtcER4b2pNYlJlUi1CcjBIVmtLNVFiTmRfUHZPQmRnTFNpWS1tcms3TEg2dGlzUjVYSno2aWs4eWVGZnN2R1pZUW1xb2tURXAxLW5QREpiZUxSZGFEeHJpSzdSOTVJS0haSjBR0gG3AUFVX3lxTE9zTVcwYmFDdzhhQnpoLTM5bl8zdWkzb1YtbExqODVSblhodzMta3JoWHZjU0dxa0FZR004WTZLcjhTOXlyQ3l0MC1oakJwUG51VW5oeXlIU210UExIZDl2QW9qTnd3UVptVWxfbFBWYXNJOURuallfVC1qNXpWdUhaaEZldUN3MGwzQ3g3QmNTbHg3aXlvN2RveGd5eDFxRXNhT1FfZXRuNUFnSlBwSHVqZmloV1hqdw?oc=5",
-      "published": "2026-11-17T23:30:01+00:00",
-      "rss_summary": "Stock Market Today: All You Need To Know Going Into Trade On Nov 18 &nbsp;&nbsp; NDTV Profit",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -277,7 +287,7 @@
       "title": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVZabWpya243cEtndWEyQnc1TXhYYUhUVUZvRXA5cTcwU1ZtenJqVHhLajNxLWNLLWRVRXE2LWZrRGpCN3duOVNJY1RhSGZYT3c1aWFaalVMcVg2X1M1alNCN0M2VUl0dnV2MmJBZDBoZE5OZDVhY2FRaFZWdm85SFFNT1Zld1YxZk16YjJrV1JvbGhPMHFsekJ1RXZfendZZlF3Vm5rZUNYS2xBTTdzQ1VFRThTQWdvc29Jamd5aUIwbXMtTU1mVlVR0gHQAUFVX3lxTE5UQlZRUzBfYjliTF9iQnBHaXctU1luaEs5cWIyaUxhUWVPTGwtenN1c3BPelpUWGh1UTdFR2toOGNEOEozSVZRSnFsRDNVWS1YaVFYeGFnLTBwSXE4MlF1VkF4bzdHN0d5UmhxRVV5SkpDN2l6cHdjd3hiN0NwQzg1WlRIdGV6TXFwanQ1UV9taTlOU3FFRjVESW1fVldUbXlqMkFGQlRBSk1ac0lNQVBLN2hFZmFFS2h2RVl3dlVybXBfSXpaYVNReUFzODJUQ1k?oc=5",
       "published": "2026-11-17T11:01:29+00:00",
-      "rss_summary": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows &nbsp;&nbsp; BusinessLine Stock Market Today Highlights: BSE Sensex closes over 400 points high, NSE Nifty50 settles above 25,450 &nbsp;&nbsp; The Times of India Stock Market Close: Sensex ends 427 pts up as rally extends to 2nd day, Nifty at 25,387; banks shine &nbsp;&nbsp; Business Standard",
+      "rss_summary": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows &nbsp;&nbsp; BusinessLine",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -364,6 +374,16 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
+      "title": "Stock Market Close: Sensex ends 427 pts up as rally extends to 2nd day, Nifty at 25,387; banks shine - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM0NPdUN2UkJhZHVjQ0l6OU1mMWNSbTNQT1d1YkZfQ2J5bDJpb3dKX0RBSXVTN2xmQm9tMUFPeVBUYmQwdGgtN2pTZlQxWDRST3pMMmdnTldRTFg3SHpzVDY0SHNMZUtwSWd6TF9pTVFhQThBSm9OVlNmY0RuWENyWUlxTjRnUFZ0RHRrdjJwc0U2NmVWbTBfTS1oZEtsaE8zcVFZSXhlQ0dEU3ZRaXoybG8yRVBUaENBMnYtVXRDbEpiYXNBNHFOQlRQRjVwOElLcU5obndFd3FhX1FnLWxCeU5XYmZ4YXNaTzFxX3dZOHZVVWdUTlF1QkFXdW9hZ9IBgwJBVV95cUxPWHktYVptWG0tQy1BVVZ0YXFJTkxYblVQWXZ5VWw4cWZVb1V5dGRiYnEtWnhLZTB0V2JINThiRXpPT2RpZnZWRG1GSmVoa19hVnlpWE1XSEFsTGdGQ3BDNWlHVW1YUWNtNmNWMHhxOENoMnhGUWh2ZnV6c0RKSnRpb3NhdmpFUW5kUGJwQld3SlZnZzhFb1dmd1hJQkMzc2M5aTlHUnIwSTd4ZGFXV2tIRkJiT3dHWEotN2p6R0IzZWp2WTNaTEg0NXJKeXZUWlM0QVNncC1mTEpwakw2cFRTMml6X0FTZzdVTHVDbFJmVVRmRWtWeXhsQ0JNZEN5Rkw0OFBR?oc=5",
+      "published": "2026-11-17T10:19:53+00:00",
+      "rss_summary": "Stock Market Close: Sensex ends 427 pts up as rally extends to 2nd day, Nifty at 25,387; banks shine &nbsp;&nbsp; Business Standard",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
       "title": "Market wrap, Nov 17: NIFTY50 ends at 25,387, SENSEX closes 427 pts higher as banking stocks power gains; check factors - Upstox",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd1d6T0hfN0w5d3VsTTVzTV9xZXJHV0VvY184OFU3Y21rS1kwdkZVWjlMUHlVeHdjNEpxZmxmdHo5QnVaRTkxaTBKbzJUdHlzMVF0MGlMNHdfOVRWXy1UME5TSmtZQW1iZV9aelRjUVdoaEtEbjRnamZidDNpS1pxN0NkRnloM1BKRVlRMTZHOGEyb1p4YjV6RmVRMG1PNnlWck02d2U4U1lJbE5UU2pBajNNdmp2NWl6U0puQ09ZOEVKd0pkSlBNM2lxVkRnSkdwVDg1SlByTlRVc3BTdXoxRWwyQm1xWXIzQUh2V0RlbTVKUFhEUTVXUUNucTgyeU1UTlloMg?oc=5",
       "published": "2026-11-17T10:15:52+00:00",
@@ -372,32 +392,12 @@
       "explanation": ""
     },
     {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "IN-SPACe selects 3 space cos for satellite-based urban settlement mapping",
-      "link": "https://www.business-standard.com/companies/start-ups/in-space-seed-fund-indian-human-settlement-layers-spacepixxel-kaleideo-azista-126111700737_1.html",
-      "published": "2026-11-17T10:06:55+00:00",
-      "rss_summary": "SpacePixxel, KaleidEO and Azista Industries will receive ₹1.46 crore to develop high-resolution settlement layers using Indian satellite data, with pilots in Bengaluru and Shimla",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "IndusInd Bank partners Mastercard for outbound cross-border payments",
-      "link": "https://www.business-standard.com/companies/news/indusind-bank-mastercard-cross-border-payments-mastercard-move-126111700720_1.html",
-      "published": "2026-11-17T10:01:12+00:00",
-      "rss_summary": "The collaboration will support person-to-person transfers and education payments to major overseas markets, with the bank also planning to extend the service to SMEs",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Radisson Hotel launches Radisson Dining, partners with TLC DigiTech",
-      "link": "https://www.business-standard.com/companies/news/radisson-dining-subscription-india-december-1-tlc-digitech-126111700711_1.html",
-      "published": "2026-11-17T09:56:10+00:00",
-      "rss_summary": "The programme will offer three membership tiers with dining, hotel stay and spa benefits as the group seeks to boost F&B revenue and engagement with local consumers",
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Today Highlights: BSE Sensex closes over 400 points high, NSE Nifty50 settles above 25,450 - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQZmFidXRVaGFPRTZVUkFyVDFLNGlWeDEzQ0dvUERQUDI2MjlWWlNKck9UNmtPSVBSaWI0SUlMTlpnT3FYenJ5Y3dYeWEzMVlOT0c1T1ZoeVZndU00dkpuZTlBdkxjcEhBenhXQ0hkWHNTTE1XbEpYdGZZVmxTcG8tWm5VUEtzSkdEUE4tTGpMUm05eUJCU21sY3RBVkxLVnc3QXBmb3ZXa2VkWTcwMURtVlV0VU41TWZLRzNfYXJUN0xrNk9PNnFma0M0SC1OT0pNbEZxcDBvekJyNlNlek5qRVpoREQ5enRQYTREX082WnVVallab090M2xKRFl2WldZZW12dXRvSTlIM1JFMC1ra0hnQk0yQzdHUk52RC1mWGE5aVR5VkxtYlE4ZW9JaGxvTDlXRGVB0gG7AkFVX3lxTE9kTGRtaGRhRTRDWmZFaklTeTY2TmpLWVNIMmFlZVpQRmM4Z1VIZVlPd2d6MjI3ZHA5SXdZdGw1M1BmV2ZHWFBocXY0ZlpFMUNYZUlIXzF2VXF6ZjdVYTFEU1dqV0pHV2RyR052SHZSM1htS1BRMkFWak9fZUJLVmJ2N1hsajZxT1lZU1BFQUhBQXJpWTZwZFYzSkg2VXhvOWw3Q29DQ2lpYnpuMEdKQmJpN0VNSVZkdGQ2OXJBNG1SWEhWeU9lS1ZreTdmYlljRXJyS3p6MWNSd2NVbzZid3JmeFpEVHducV9UV1ZUTnF0ODRFV0lEY2JQWnlFUFBwN3NiQXQ2TlptRVJTZ1ZqS25GdUJXOGpZWlVzb0hSMXFhNmVNRkNCRW13cldYZm1ZOGdFVnhQNEJ2a0d0SQ?oc=5",
+      "published": "2026-11-17T10:12:17+00:00",
+      "rss_summary": "Stock Market Today Highlights: BSE Sensex closes over 400 points high, NSE Nifty50 settles above 25,450 &nbsp;&nbsp; The Times of India",
       "hinglish_title": "",
       "explanation": ""
     }
