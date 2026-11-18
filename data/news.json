@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-18T02:51:37.113710+00:00",
+  "updated": "2026-11-18T03:50:02.489888+00:00",
   "items": [
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Videocon insolvency case: Can a 95% haircut deal be reopened by courts?",
+      "link": "https://www.business-standard.com/companies/news/videocon-insolvency-case-can-a-95-haircut-deal-be-reopened-by-courts-126111800164_1.html",
+      "published": "2026-11-18T03:19:52+00:00",
+      "rss_summary": "The Supreme Court ruled that courts can set aside lender-approved resolution plans that violate mandatory provisions of the Insolvency and Bankruptcy Code",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Asia stocks set to snap losing streak on Nvidia beat as Anthropic looms",
+      "link": "https://www.business-standard.com/markets/news/asia-stocks-set-to-snap-losing-streak-on-nvidia-beat-as-anthropic-looms-126111800126_1.html",
+      "published": "2026-11-18T03:08:34+00:00",
+      "rss_summary": "MSCI's broadest index of Asia-Pacific shares outside Japan ​advanced 0.9%, led by a gain of as much as 3.3% for South Korea's KOSPI",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Crystal Crop Protection IPO opens today: Check review and other key details",
+      "link": "https://www.business-standard.com/markets/news/crystal-crop-protection-ipo-opens-today-check-review-and-other-key-details-126111800142_1.html",
+      "published": "2026-11-18T02:46:21+00:00",
+      "rss_summary": "The ₹455.49-crore IPO comprises a fresh issue of 1.31 crore equity shares worth ₹354.77 crore and an OFS of 37.03 lakh shares aggregating to ₹100.71 crore.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Stocks to watch: IIFL Finance, Grasim, Axis Bank, HCL Tech, RITES, Airtel",
+      "link": "https://www.business-standard.com/markets/news/stocks-to-watch-iifl-finance-grasim-axis-bank-hcl-tech-rites-airtel-126111800141_1.html",
+      "published": "2026-11-18T02:44:20+00:00",
+      "rss_summary": "Stocks to watch today: IIFL Finance, Grasim Industries, Axis Bank, HCL Tech, RITES, Bharti Airtel, Signature Global, Prestige Estates, among others, will be in action today",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Top stocks to watch today: Ashoka Buildcon, IIFL Finance, Prestige Estates, HCLTech and 5 others in focus - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOFFObXdCUkpCQ0ttMlpGelpPUlpVQWpsdXRPYmJCNEhWWEhlRHdaOHJsS0FIOS1wcWo0b1JUeDFmSTB2TUY5T2h0bE8yeGtqcVJuc3BMLXBrTFVXcEY0X3h5d2FCRlQ1X016SUxrMy03d2FWUmRRY3VrakFCd3hYQjBxelNQSW84Y0ZuZHlkd0V2OEl2a2t4eFV3RVBDV3Jjd0EzTVdMNzdOdS1aNUlNcTVMM2I5TVJQNDBQNGRDc3lGRWN1eFFkZFV5WWR3YzJ1d2xmVE9MR2dFLXpCaHYtS2ZhUUtmMmpNeFZ0Ujkwd0hjc3dQN1hKNWlVeUpEbWVs0gGGAkFVX3lxTE5NS01JeTRKNmNhVlNwRHhidi1pMUMya2JwRDI3U1BqeEh4dV9iZDNvTkFDcWE2VXJka0U1bkJGMXZYZmRIb29fQjhlUWFMaGUyMl9ickxUQU9VdDROemstM0luNXBsakh4YXBWVFctV01RYVVESE14dUZlZGllZzliUjl4TVRBSmFEcFI3UTlLd3ZrcHBtdEhfY1pmaFJ6MzRTaTBUMGZXWVVPejFkNHM0aXRUeHpTVVN0a2lYdnpsMmc2Y0hqeTdKdHZ3RnF2dWhBZTM2ZlRfeXJTTzcycGVwQWRENDlzaTdLcEVkaUdHZE0yQzlFVlJGTUJ6UC10QzZxWWk4Z1E?oc=5",
+      "published": "2026-11-18T02:43:46+00:00",
+      "rss_summary": "Top stocks to watch today: Ashoka Buildcon, IIFL Finance, Prestige Estates, HCLTech and 5 others in focus &nbsp;&nbsp; Livemint",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "GIFT Nifty falls 133 pts, signals weak start for Sensex, Nifty despite Nvidia earnings boost, Asian rally - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYjFkS1hWNmVtWFY5SjA0LUhZTXZDb1BveGRYcUx2WEQxRkNtY2w4dlN3R0c0TEtjaVBySHp5WXlVOF9ud05yM0JjSl9vbnFHYUdXQmgwR2w0Mzg5X3BhdGptMFNyd2NXU1VnaFVqTGU4SUd1a0xMQkdQUFdKbU9LTWY0eGV5SkRTMmtfUmtBVnZlNmZpUXVCaU9CUnk2bjFVZjEyMldkN3pzVXhxNkFsN1F5WlFuTFZpTzVTYnBneW1PU09SdnlSUGZuZU8tZmQ4dWVGMEw1aGItd3BBYlVvV1BKbjJ4dnh4RWdUdzg0SVNIUGxKbFdNeEVtUdIBgAJBVV95cUxPWHo3ejN2WFU3T0ZWSmZNWm95eXJaY2IwWUlBUHdwQjQxd1Y5UHAyMkZBOXJJVWZpTDlMZElqUjd6MmpGVVRPRFd0MVZQTVVrVXl0a200WlZzbEtoNkhkcDBGUElVR0tfTDlPTEd0a2tUcTdrdE45VUg1Rnl2dl93U19wLVJiMzNhclhNUDlxcmJjdU1sZEhqV1RwVC1Zb0RPdlVFZ3dBQ1lUcmZfOF96WWFVSUhGWTNlbWVvazg4SFdISWoyRlpIZXZYdUpJWEFlNmV2Y0pVMm9ZQVlzOHdOSXNVc0pRU3J4SDR0TVNobTlaTVVwdXhOY0ZTZFVoeGpt?oc=5",
+      "published": "2026-11-18T02:39:15+00:00",
+      "rss_summary": "GIFT Nifty falls 133 pts, signals weak start for Sensex, Nifty despite Nvidia earnings boost, Asian rally &nbsp;&nbsp; Moneycontrol.com",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Markets",
       "source": "Business Standard Markets",
@@ -18,6 +78,16 @@
       "link": "https://www.business-standard.com/markets/news/nifty-eyes-breakout-atop-25-500-analyst-flags-divergence-in-market-breadth-126111800133_1.html",
       "published": "2026-11-18T02:20:36+00:00",
       "rss_summary": "The market breadth was negative for last three sessions, indicating a sharp divergence between Nifty performance and broader participation, explains Dharmesh Bhatt of Systematix Institutional Research",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty Today: GIFT Nifty signals muted start; crude and gold edge lower - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbGw2TkN2bE1VR3dwUThTM1Z2eWFjQkNQV19MYXZIYkdHTndranFoLThEWXpOZ1lXelJpMnI5bFB2WVlrNkdTN3ZwcjFlUmV3ZzVyajVSdy15TTNOMVJLZmNZZ1FXUy1HSm1UbURuT0RDSExLMmNHNHF3QzlQcWF4RlB5c01DSi1UTm1WRE9HZVF4TzZ1UVR3Q2owZUJLY05SV1BhNElqUEl6cUpsOVl6dHY4LTd3SWx1UGsxY2FjNy1Dd2ViSzlEaTNFb0hMdUZJd0llejBWZUxlbjN2NmpQNWFTQThFSkVLY0tXdzZqdGxYN1VBUzZTcDhmM3pMb2hsTzB4ajV2RmZEQmdkVTVXYU5nRExDVnBxWUHSAaACQVVfeXFMTWRaSUxLZUdzRmlTZ2drR1EyZko5THM5dmZMcmNNQUJDYU1ib1JHeXhHbjVXLUZ0cmkxX3dsMHI4LWpaMnhuU0tSaGsydGRvNDByRjZxYlVLcEFORTU5Y09hdUFiaWRkT1o3X2dtSzBGM3dNa051S2dlcVhXOUg1bDNoLXlIZDZqbzdnbmFlbkpESG9neGJLM2xkYlZWRmNzbU1fanNlUmRSSnlKR0Ryc1JURnZmanRZWWJHS25oTWQzRHpxRTEzNHQtWGp5dmhjdkEtS29ia1MybXY3QlRlbm1FWUxpSTJCT214M1B1TjJ6VC1Ea0JKMTBFcnZtRkQtRXFKSFdQcm0zVDRkYjR3bklPOXFSLXktdlhUcjhXVDZJ?oc=5",
+      "published": "2026-11-18T01:41:11+00:00",
+      "rss_summary": "Sensex, Nifty Today: GIFT Nifty signals muted start; crude and gold edge lower &nbsp;&nbsp; The Financial Express",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -58,6 +128,16 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNGNxSTJFMkVLeHdzd1ZXR1B0azl2Y2JCLUdrM2VFTGFSLWZPSWpVRi16M24wV1gySmZKNno5UzFwckZ6Z0RyMDQ0V0dNMm5oQ3BqT2VBWTRlWTZGS1RSemhUSktfaFFaVmtxbEk4UFo5WXpnS2Z1b2k3LUZBVllibmlMeTlGR0RqdVJDRmZaaUdUMXlpZ2NSemdmZEZEalY4VUZ3SzNzWUJIXzljYjVvU19BUDNEcldlRFhPbzA4dUJZSWctaGN3MHA2OFVLY0NwajNz0gHYAUFVX3lxTE96UkozTkRSNTNZbEVOVHMyTUdtMlkzeTIzeVFzVTIxR0JOM29ZVGNPRjFWZjE2aTQzRkg1RTQ2aERnWXhsTThpamJYcFpnallETlZ5YWFPLU55RkZRWWJ2eVJSa3lUZTFGYW12WXhXZldvTVFHVHlDcHN5M2tGdnZxZTZtZVhpeG1mQ2g3T2NsM3hnUV9PSFBoRVdrYXhiOWhfYUMzMmtoYUE3djRHTEdtbno5Szh0azRUeDBubWt3R1dGYWx6ZGNBWUlZTFlkM18zYm1YYjF4cg?oc=5",
       "published": "2026-11-18T00:07:01+00:00",
       "rss_summary": "Sensex, Nifty hit 9-month highs as bank stocks lead market rally &nbsp;&nbsp; The Economic Times",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Today: All You Need To Know Before Going Into Trade On Nov 18 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc29CbU1JWDZVZDJqSGk1dFhQU09NeFdEUHJMZGQteWhYSk5jVWduOW9jU0VKeFZEeDZsQWZlXzdVWFNQajF5SXZlVGEtcER4b2pNYlJlUi1CcjBIVmtLNVFiTmRfUHZPQmRnTFNpWS1tcms3TEg2dGlzUjVYSno2aWs4eWVGZnN2R1pZUW1xb2tURXAxLW5QREpiZUxSZGFEeHJpSzdSOTVJS0haSjBR0gG3AUFVX3lxTE9zTVcwYmFDdzhhQnpoLTM5bl8zdWkzb1YtbExqODVSblhodzMta3JoWHZjU0dxa0FZR004WTZLcjhTOXlyQ3l0MC1oakJwUG51VW5oeXlIU210UExIZDl2QW9qTnd3UVptVWxfbFBWYXNJOURuallfVC1qNXpWdUhaaEZldUN3MGwzQ3g3QmNTbHg3aXlvN2RveGd5eDFxRXNhT1FfZXRuNUFnSlBwSHVqZmloV1hqdw?oc=5",
+      "published": "2026-11-17T23:30:01+00:00",
+      "rss_summary": "Stock Market Today: All You Need To Know Before Going Into Trade On Nov 18 &nbsp;&nbsp; NDTV Profit",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -128,6 +208,16 @@
       "link": "https://www.business-standard.com/companies/news/mahindra-last-mile-mobility-wins-earthshot-prize-2026-for-clean-mobility-126111701398_1.html",
       "published": "2026-11-17T16:03:35+00:00",
       "rss_summary": "The Mahindra Group company won the Clean Our Air award for promoting electric last-mile transport and plans to use the £1 million grant to expand access to clean mobility",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Nifty reclaims pre-war levels intraday as Indian stocks lead Asia with 10% monthly gain - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMVJ5S2hHT3Nlamh4YTNRTVJqWU5JSzRFYWFRMEh2d0YyTjVmV3I3OUoyOE82MGd6UGg3cG9oZmhhQWpSLVJFMW4wcWl1MWw4eWw4dDV2ZnFPbWpxUVNNQVBOaEc4Q1AtSlNxOFpzc2paWllQa21Oakx1QmhnSU5tV0g3VTVnRmY2TVNTZmJnYjVLZ3ZHQ2s3VnRoUWVObFNQZzJGYThrb3dCZW9MZlZTdWQwVlFjRHhxTW45cDNnbjNJSURnVlRIZS1pWHg3VkxBUkk2MFB4MW8wQ3pFR2RBbTY2VFNpVUxrOG44U9IB8gFBVV95cUxPMmlEZXp2OU1Dc3pqTU5oNlNTZVhkSnF2T2J2MXdELTdEdmV3WURxZjAzdUhqcm4taTdnYkhHMWlCT2p0MlBZYS1FUC1DOVI0d2g5LWdBMENUMXgwcWxQMTJxV1VmSkkxekhvTGFGT0pVUnhKYUgyREpjdi1Ja2V3QjcyZG1JQU1vM2JGY3JSa1o1WmhlMVdtdmVWOExTbWgteDdpQzNSZ1huVTFXRmJZNnJvZ2xIS0dCbmhSU0I1VEwtcHJLcmI4Vy1BR01scWRGRVJnTF9aUWJ0RS1Db243Z19vQUhublk1UWg4ZFd1bmtPQQ?oc=5",
+      "published": "2026-11-17T15:54:51+00:00",
+      "rss_summary": "Nifty reclaims pre-war levels intraday as Indian stocks lead Asia with 10% monthly gain &nbsp;&nbsp; Livemint",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -208,6 +298,16 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWNBWWZibUJzOWFEZU9HYURqXzJOSDA2WjhUVk14X3c3VU0zMkVIUlV5cjNUS19lR2ZBS2pCM2swUnRIY1dQZHNRREpxelhTQUhQSXctR0EtTkRIUS1MTkVpWVRPbmpZTGFDUEhwMG1QYk8wV3BnT1dKRUJsTGhEVHB3Q21sTXRoTUpBaUNEQzlKVEdyR3c4RXAxVjdwX0h2TkJVQ2Q1QnBidW5Oc09ZOUpPS1JISUp3eFpWTNIBygFBVV95cUxOM0FNWTlrNG5GNGZkY2RkZVFCV0tVWnNyck9CY3hGN1pYdXNaMGpiU2o5MENyVWhuemdEaVRlU1R2ZGVkbzVEU25feTJEM0xhb0J0NXpyV3dlY3NVcEsxV2ppQmdTdm45Umt3bkNscTBadF85WUkzRjUtVWp3QTdPQXVJc1JGc0xha0Y4TGFfN3VLUFpMRnBuajJNZDhJWUh0SjNkXzRmbUNwR1h0dURtN0JzRjZlVWo2bHpnUzFwd29OVXpXWVRxMHBn?oc=5",
       "published": "2026-11-17T13:36:05+00:00",
       "rss_summary": "Nifty tops 25,500 to hit 9-month high, banking stocks lead the rally &nbsp;&nbsp; The New Indian Express",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty erase US-Iran war losses: 5 factors that drove market rally - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTC10MHJIQzNuaksxU0Q2ZUZxZjdFcHhBbDBlV1R4QlNDZzhOYW0xT3I0MnEycHZ0UXRKdll3T2k4aHFLWnF1U2hxRjhKV3cwcFUtYWdGcXFURlNPYjBKbW5jRE1YMG1NMko3bFp2Ukl4YWs5d2w0OHpKczJXcG9mMXdzMDA3eHF4MWlrS3JNVlVyeXNsYTF6RDZ3eUJxM1lQc2xzNWVMb2RrTjczUWlBYkdjU2w0T2xqQUk1MNIBwgFBVV95cUxOWndfZ2txczVCTXdhQzJCay0xT2M3UFk2TnVnWkZfZ0dJVG14UkZCWWwtMTdMdHowdThxTTJuYlNTME5VQ1c0ei1mTTJwX0swZWZDUndkWUhwZTUyeE9nQTFiX0c2aEVkdFRWbjJpbjFyMkVHbS1UU0tENVFXUXB1TXBQaExZc0R6Z3NYTHFzXzRKQTRPbFBXQ1FNQmE0a2tYSTFDTGFXN3VsdHJnb1E3VHhXeTdnZS1MT3M2YVpYd2s2dw?oc=5",
+      "published": "2026-11-17T13:31:00+00:00",
+      "rss_summary": "Sensex, Nifty erase US-Iran war losses: 5 factors that drove market rally &nbsp;&nbsp; Firstpost",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -298,106 +398,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcGxKdGFLTExzUWVJZ1RMRlUwWXR3QzVXa1o1WnI4ZUtlV3VvaGFyUW9lNEVZODdSb3V5Qk5wWEVOcU1OYjdSYjAzbWR6cTR4b3NVRHQwV1FJZXlmTk5TYlZnSDRTWXFiQmVUemNkMVA1dzdkM1kzY1h5X0k0dUQ2cUYxNWtnRnBrTF9JTUtpQW1STF9EbVNGa3EzVzVpeXRVUF8yN3Z1M0trdmJHSU9EWnEwRG83Qkt3dkQ2a2p0MkZUX3ZzMl9HeFhVQnQ0Z2tza0tnRW9uQmszNnFB?oc=5",
       "published": "2026-11-17T10:57:53+00:00",
       "rss_summary": "Sensex Today Ends 427 Points Higher | Nifty Above 25,350 | Nifty Bank Hits Record High &nbsp;&nbsp; Equitymaster",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Highlights: Sensex ends 427 pts higher, Nifty above 25,350; Adani Ent, Eicher Motors jump 3% each - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYUI1RzVFWnc5aDlnZGRZNUFFdVZBUWYzYi1Ic3BLUEctYmM4WnJJbGpCQmZQaFQ0QVF6emdGZDNlUm5WLUFvMjVTU3FaMjBhOHdnbzd0LURTaW1WR29vblZrNHY1WndfMUZBZ1VaLTdORDZ0X01DTkptZmtkdHA0cWJNa1JBN2h0cGppeG9zY0RZSFVfN3ZKMXROSkx5NVktU3ZLNWpxM1FCZFFRMXhqVnNqQ0tlMUlPRVpEU3BES04yRnA1Q2FvVTlJdm5ja19FNDlfaUNKYlFIMF9IS2ZwYXI0VGtCeVZlam44RERURnZ2Zzk4MWc0OUFRYVBRdl9fMllhQmVMcG54a0plVXVJZEh3bkliZ2_SAZwCQVVfeXFMTVdQY0x4ZWdlc2VaM19Xa1I3Sm1MN2NhTUx5OW4wdGcyYTRpai0xZG1sQl9KR0JHZXZYQ21YNHVHNnpQd216MElzNnNvMWs4R3lDSGM2b2NQUnRNVU5qb2Y5eE1UdVBKR1FxSmhWclZVbDNoUGUyVzN3Z013S1BpM0Y4UVlFdkh5TkcteC1pXzNkSEdrYVRDLTlVNWprQzJzcmFtQVJmOUg5T2FweWp3MlJKNXZhWGZlX2VfdHR2eXliWnA4LVdsbVFJT0FpQVNJQ3NFZGJaUFBxT3pNbHJpOUJSVjZvS0cyNWd5cVNYOG9IMEFCZVVhWjlhakg5LW5QT2IwUEFDUDd1eTJVWVd1bURVWWNKMzRnNl9DSWw?oc=5",
-      "published": "2026-11-17T10:52:33+00:00",
-      "rss_summary": "Stock Market Highlights: Sensex ends 427 pts higher, Nifty above 25,350; Adani Ent, Eicher Motors jump 3% each &nbsp;&nbsp; The Economic Times",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex jumps 427 Points: How crude oil and banks drove today's stock market - The Week",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckdXMFhoYnZtbnF0dENqYzIzX1Nrc3lXU3NNbURKNlJBcV9CYWlDakw0Snl2dF9KWkltYms0WU80ZndrckE5QnlrT29MSUIxWTdIcjIzN3FvM2psS2VwcUxFVVVFM2RwaWVZSHhRQ2lvdUVnZkNrWUthRGNtODJENXFac1dwVXhFaW5EOTM5VkZGRXFtYmJVM2JpQTV4Qk8ybWNVbDRIeGs1V0tUU2pVU1ZtczVhS0lIR3k4ddIBwgFBVV95cUxPRmxQdmRVQ0d4eTN5c1Z6Q1g4eEQtbDl1WURKR185aDh5N2VQdkotbkYxRnZtVENjcF95SzBOSWZILTRsVkl0THg3YkE2UFd3dk9scWszTTVjNWF3WElYZV81VnI2YzlqU2pqa0pPSVZhS0Znd2pOanBBSFkzV29YZm9aUXh3WGJuck45Z2N3cDRtaGdVQnZUSG03RVFPOWNhVW1zLTl1OEpCS0ViaXJjekpXWThKMlRfVlBwS1k5WlhXZw?oc=5",
-      "published": "2026-11-17T10:51:23+00:00",
-      "rss_summary": "Sensex jumps 427 Points: How crude oil and banks drove today's stock market &nbsp;&nbsp; The Week",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Indian Stock Market Rallies 2nd Day on FII Inflows, Oil - Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjFwZ2d4UDY2Tlh2TkVGUlI4OHNqN3VJREltdExmRzN2blhVa0RLN1RlWlBqR0Q2blNsYlRrcDJ3OUVpNkx5MjZzc2NUVTNyVGJEcmt3UC1lVGQ0RmVvbTZVU0xGaHlBaXVZaEN0WTJZRFhpWnVnam42WWJMZTF1N1BXNzY3bnY4TVBEaGo1U1pBTV95YWZSWXQ0aXZkOTlueFItemx0QkFjZ9IBrwFBVV95cUxNaVRjbkhXMi1WZ3BNTXpYdEZCQmdKZ0ZrNkNzYlhfNTVsc1E4VGg2eE5YbWlEUk1mbUwyVXhCV0szdW9WZWk0OWRNOXNYWVZ3V0VnRmt0cmkzSng2aXdtUlR0ckExczZMc3F1aHNQbWcwTy1YWFAwN2o3WW85bUJwand3WFpscmg2OGhlak1RZm5UOUljZjdEdmNPelVWQ19FSXViWXhub1MwZnlNSVlj?oc=5",
-      "published": "2026-11-17T10:33:10+00:00",
-      "rss_summary": "Indian Stock Market Rallies 2nd Day on FII Inflows, Oil &nbsp;&nbsp; Rediff MoneyWiz",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Nifty, Sensex extend rally on FII inflows; Bank Nifty hits fresh 52-week high - ANI News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkhvV3dKMmJrc1BNZ0ZkcnljRHY2aFRZUVRMenlFOGw3bEc1NFpibjdvZk05NmZrRjlkaTZpaDRkbm1sb1FWaFpkaWRNLUtTSnVxSmVucklqaTZJVVBwRVdtQXJYRWk3YWRVNXI5ZGQ1dFJyVmpQbUN3T0VpeVRHYnJSQVdDenduSDVxM0x6Mm9GZUc0UnVXT095aDc2LWlBMjg3SHFaX0VpbnY2RGxQVUN1SjhpaEQwdXV6TVJHNTIwWlAx?oc=5",
-      "published": "2026-11-17T10:33:00+00:00",
-      "rss_summary": "Nifty, Sensex extend rally on FII inflows; Bank Nifty hits fresh 52-week high &nbsp;&nbsp; ANI News",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Economy",
-      "source": "Business Standard Finance",
-      "title": "ICICI Bank hikes NRI savings account charges from December 1: Check rates",
-      "link": "https://www.business-standard.com/finance/personal-finance/icici-bank-hikes-nri-savings-account-charges-from-december-1-check-rates-126111700776_1.html",
-      "published": "2026-11-17T10:30:08+00:00",
-      "rss_summary": "Cash deposits, withdrawals and repeated ECS debit failures will attract revised fees, while free transaction limits remain unchanged for most customers",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Taking Stock: Markets extend gains; Nifty ends near 25,400, Sensex jumps 427 pts - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTmpYNm85eWxzYV9KbnptVGEzeU85RVQ1ZV9zdkxwR0VncWtWa1BkdXdMejVaOWhVMlhfakxHRUV4LVF3MFk1VDRjSWMyalFNUWZVX29UZ2JOUGlzc01zMktDT2lPMGUxSlVHVjRWWVgzc1I3M205VVRodHIyUTJMZFBxcVVhdnZ2VWNMRV9ndldPU3ZSSzVRVFpnZTVzdHBVd0lKSWtfVlJCWnJ0S2ZDLXZlbWt3NDc2ZllOZXBQeWZfbWFKVDR5R0JQYWNXOGRia3NHRENvRW7SAd4BQVVfeXFMTURFNmY4VlpIN3JwZWlIWVNMZy1DdXlyZmloakNYaVFPeXJMTHZMc1FKQm80eEcwR1dXUjZwVzVlYU40RE45UlJ6WW1LbU56OFlsSUVnT1ZWWFRLMlhETTh5bFBwYVhGRkQtaDBvQS1ubEtndmNDN0xRT2hmbVRsdzBpOTJSREducWMxLTl0VnJMdTN2WUlTc1g4UjNhcThweGw5V2lYekxLcUx4QzBRU2JqY0dmZzRoY1ByUDRzajR5RzNmdTUyOWFKUVJPdjZzZWtvZldIc3ZMbnZWNlB3?oc=5",
-      "published": "2026-11-17T10:28:43+00:00",
-      "rss_summary": "Taking Stock: Markets extend gains; Nifty ends near 25,400, Sensex jumps 427 pts &nbsp;&nbsp; Moneycontrol.com",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Highlights: Nifty closes above 25,380, Sensex rises over 400 pts; Adani Ent, Eicher Motors lead g - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeVVseWk2QWNzQ3VMMWFKOEQ1VEZXWEhFaFpXRHlwMW1HNFJ5YjBhZjdJeVJhb1JwVHNISDlXUWQxTVBUd2Z3MDRobFNwQUJJNmRyQXVselkzS2w5Y0xzV05wMThtUFNEdm1hdk1BeTFvaEMtTUZRZkVSNG1wd1JiaXJRSmhWYXVtckpoT3I0NEUtalRSLU9CRTJpMXJCam9OM2J1SGh0UG5pVS1KMUdWd00wd2dJS0lLd0xZUHEyeUZtZ3Nzb01jWlZySWVmUlp5NUk3YmdNT0hIdWZuMUd2UzhlTEJEVGhPN0xNYlJpclUzclpiTHdPY2JuaDM5UdIBgwJBVV95cUxQdXQzM0NFbmZiN08tNEI3RFlUTW5OcHl0bnVwQm14cXRma3c3RlhycnJZdndPZjF3NXZxaUN0MWdIZzJkX1BfVVk1dDRNZlhYN3YtLUlkTl9MRUpsc1RtWHRJTmgzOEtvQ1FGWUdlWmVvVy1xUkJKR1A4NVZrbktmQndIOXcyQUFLUVpLOHpYelVJNUJtRHVVQVY4TWxwbmlPOTBtMUlNVUNZYUtUc3NjazVya0FKWHBCeE1UMEJzXzFrVVJZM195TGVuUUF6TTFkMTZjVDlfbWRkUjdQQ0pVc1A1SHJ6bVJxalgwWFVnTXJMX1ptMjlKZTZLbFQzVExsSWlN?oc=5",
-      "published": "2026-11-17T10:21:36+00:00",
-      "rss_summary": "Stock Market Highlights: Nifty closes above 25,380, Sensex rises over 400 pts; Adani Ent, Eicher Motors lead g &nbsp;&nbsp; CNBC TV18",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Close: Sensex ends 427 pts up as rally extends to 2nd day, Nifty at 25,387; banks shine - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM0NPdUN2UkJhZHVjQ0l6OU1mMWNSbTNQT1d1YkZfQ2J5bDJpb3dKX0RBSXVTN2xmQm9tMUFPeVBUYmQwdGgtN2pTZlQxWDRST3pMMmdnTldRTFg3SHpzVDY0SHNMZUtwSWd6TF9pTVFhQThBSm9OVlNmY0RuWENyWUlxTjRnUFZ0RHRrdjJwc0U2NmVWbTBfTS1oZEtsaE8zcVFZSXhlQ0dEU3ZRaXoybG8yRVBUaENBMnYtVXRDbEpiYXNBNHFOQlRQRjVwOElLcU5obndFd3FhX1FnLWxCeU5XYmZ4YXNaTzFxX3dZOHZVVWdUTlF1QkFXdW9hZ9IBgwJBVV95cUxPWHktYVptWG0tQy1BVVZ0YXFJTkxYblVQWXZ5VWw4cWZVb1V5dGRiYnEtWnhLZTB0V2JINThiRXpPT2RpZnZWRG1GSmVoa19hVnlpWE1XSEFsTGdGQ3BDNWlHVW1YUWNtNmNWMHhxOENoMnhGUWh2ZnV6c0RKSnRpb3NhdmpFUW5kUGJwQld3SlZnZzhFb1dmd1hJQkMzc2M5aTlHUnIwSTd4ZGFXV2tIRkJiT3dHWEotN2p6R0IzZWp2WTNaTEg0NXJKeXZUWlM0QVNncC1mTEpwakw2cFRTMml6X0FTZzdVTHVDbFJmVVRmRWtWeXhsQ0JNZEN5Rkw0OFBR?oc=5",
-      "published": "2026-11-17T10:19:53+00:00",
-      "rss_summary": "Stock Market Close: Sensex ends 427 pts up as rally extends to 2nd day, Nifty at 25,387; banks shine &nbsp;&nbsp; Business Standard",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Market wrap, Nov 17: NIFTY50 ends at 25,387, SENSEX closes 427 pts higher as banking stocks power gains; check factors - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd1d6T0hfN0w5d3VsTTVzTV9xZXJHV0VvY184OFU3Y21rS1kwdkZVWjlMUHlVeHdjNEpxZmxmdHo5QnVaRTkxaTBKbzJUdHlzMVF0MGlMNHdfOVRWXy1UME5TSmtZQW1iZV9aelRjUVdoaEtEbjRnamZidDNpS1pxN0NkRnloM1BKRVlRMTZHOGEyb1p4YjV6RmVRMG1PNnlWck02d2U4U1lJbE5UU2pBajNNdmp2NWl6U0puQ09ZOEVKd0pkSlBNM2lxVkRnSkdwVDg1SlByTlRVc3BTdXoxRWwyQm1xWXIzQUh2V0RlbTVKUFhEUTVXUUNucTgyeU1UTlloMg?oc=5",
-      "published": "2026-11-17T10:15:52+00:00",
-      "rss_summary": "Market wrap, Nov 17: NIFTY50 ends at 25,387, SENSEX closes 427 pts higher as banking stocks power gains; check factors &nbsp;&nbsp; Upstox",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Today Highlights: BSE Sensex closes over 400 points high, NSE Nifty50 settles above 25,450 - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQZmFidXRVaGFPRTZVUkFyVDFLNGlWeDEzQ0dvUERQUDI2MjlWWlNKck9UNmtPSVBSaWI0SUlMTlpnT3FYenJ5Y3dYeWEzMVlOT0c1T1ZoeVZndU00dkpuZTlBdkxjcEhBenhXQ0hkWHNTTE1XbEpYdGZZVmxTcG8tWm5VUEtzSkdEUE4tTGpMUm05eUJCU21sY3RBVkxLVnc3QXBmb3ZXa2VkWTcwMURtVlV0VU41TWZLRzNfYXJUN0xrNk9PNnFma0M0SC1OT0pNbEZxcDBvekJyNlNlek5qRVpoREQ5enRQYTREX082WnVVallab090M2xKRFl2WldZZW12dXRvSTlIM1JFMC1ra0hnQk0yQzdHUk52RC1mWGE5aVR5VkxtYlE4ZW9JaGxvTDlXRGVB0gG7AkFVX3lxTE9kTGRtaGRhRTRDWmZFaklTeTY2TmpLWVNIMmFlZVpQRmM4Z1VIZVlPd2d6MjI3ZHA5SXdZdGw1M1BmV2ZHWFBocXY0ZlpFMUNYZUlIXzF2VXF6ZjdVYTFEU1dqV0pHV2RyR052SHZSM1htS1BRMkFWak9fZUJLVmJ2N1hsajZxT1lZU1BFQUhBQXJpWTZwZFYzSkg2VXhvOWw3Q29DQ2lpYnpuMEdKQmJpN0VNSVZkdGQ2OXJBNG1SWEhWeU9lS1ZreTdmYlljRXJyS3p6MWNSd2NVbzZid3JmeFpEVHducV9UV1ZUTnF0ODRFV0lEY2JQWnlFUFBwN3NiQXQ2TlptRVJTZ1ZqS25GdUJXOGpZWlVzb0hSMXFhNmVNRkNCRW13cldYZm1ZOGdFVnhQNEJ2a0d0SQ?oc=5",
-      "published": "2026-11-17T10:12:17+00:00",
-      "rss_summary": "Stock Market Today Highlights: BSE Sensex closes over 400 points high, NSE Nifty50 settles above 25,450 &nbsp;&nbsp; The Times of India",
       "hinglish_title": "",
       "explanation": ""
     }
