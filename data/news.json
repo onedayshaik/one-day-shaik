@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-18T17:53:47.264896+00:00",
+  "updated": "2026-11-18T18:47:52.383897+00:00",
   "items": [
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "In first meeting since Sep 17, Tata Sons board to discuss listing next week",
+      "link": "https://www.business-standard.com/companies/news/in-first-meeting-since-sep-17-tata-sons-board-to-discuss-listing-next-week-126111801431_1.html",
+      "published": "2026-11-18T18:35:02+00:00",
+      "rss_summary": "If the listing happens, Tata Sons IPO could be the largest ever in India",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Markets",
       "source": "Google News India Markets",
@@ -342,16 +352,6 @@
       "explanation": ""
     },
     {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Today Highlights: BSE Sensex tumbles over 500 points, NSE Nifty50 trades below 25,250 - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNVVNtcHQxZ2pBeUgwVkVMSlRaWm1wWUJFdUEybGYycTE5UUdidFc3WkhGSFpLOUp4MjQ4dDlfbTJLVVZ1bjJmRHhYaFA4R3dUVlBsV1RPcnZfZWVrWm5rS2owN1BDeDZMQm5xNHNIWUFCNTFXckY2UUpHYTZPWmt6MzdHVnNQbnBhUXlicjAwX0k2U0hxZk52ZzZNeUxyQUkxa3VYbjdNcXR5VmRPYmJMajd3enVPVGtHcThWOUhMa1Y5Mm5iWktzYWRTTkVDVkZreXExM21kLVZuZFBlZldhbjlyOVRadTlSSldwN3BueG9TNFdnV2c3YWNwVzhzTmdfMkVmQVYtdm9vazlkU2lOd2JUWktXSkhPX0NFZlcxZVB5RWhxQzI1bk5sOVRNd3c3MTA3dnJB0gG7AkFVX3lxTE13dGpTOUlnaDZxX1BMbXRvbTZNU0hWMXFfWEdsQ21iS3FkYmxmd2w2SzNpQkl0Zl93WTFDekRZU3ZGdU5hU0txT1hnRS1LQmtrQzBqTGNubGUwQlpTek5wZTRES19jVnF2VVRXRjBjUXBvQzFzd2JmMFNjNWIwQ2psV0x6WkZ4ZjUxTXNXcm9UMW9FeUp1WGd5UGRSc19oeGJWOElnM1U2bW5ZZE1FVlpsNm9PZjN1OWxuSUN4QWc4cVFUQzZJMFljV2IzZmsxTGswbUdnZUlQSDV3XzVwM2F5SHZMZ3BESWlJZWdKZU0zc1p4cnBWeENVUDJRbWlPd1JIMmFFNVJPdGpsZ3p4M2xkRWtES2Y4ZVgzMjdYOExBNk02V29SZmhOSi1reXBtSzI5WXVFMUJubzZkTQ?oc=5",
-      "published": "2026-11-18T11:44:19+00:00",
-      "rss_summary": "Stock Market Today Highlights: BSE Sensex tumbles over 500 points, NSE Nifty50 trades below 25,250 &nbsp;&nbsp; The Times of India",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Economy",
       "source": "Business Standard Finance",
       "title": "DSP, Union Mutual Fund announce dividends in 2 schemes; Nov 19 record date",
@@ -374,16 +374,6 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "Top gainers and losers, Nov 18: Titan tumbles 4%, HDFC Life falls 3%, Cipla shares jump 3%; check list - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd2h5eFdDVE45cmtrY3Etckh4VkVWWVFjWGNRUnFjLTNCNXVobk5NYTZkd1MwWnpoSmVFQmhMLUhWWmFTaXJsNEdtRUZrYXEwVDdLZGEycFVUMmhrUzZOSS1VbGlQT3RLbG12UERMbXRVVTZFaDR6QXNhSTRidXkybk5UczdJS01jZDh4T2s0cDNLWmpOSmN2TGFoajdYRzB0Vk1RN3RQaFpDSkp6ZHFaUEVjYkpDNEx0VUVyTEFxSGZvclN2c2VDT1JpNmJMUG1Vb1dVbG8xSzg3eXZmaTd5Y1ROTU5QMDRX?oc=5",
-      "published": "2026-11-18T11:33:01+00:00",
-      "rss_summary": "Top gainers and losers, Nov 18: Titan tumbles 4%, HDFC Life falls 3%, Cipla shares jump 3%; check list &nbsp;&nbsp; Upstox",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
       "title": "Sensex Falls 500 Points on Profit Booking, US Fed Rate Hike Speculations - Rediff",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYkxpdXByOGkzUTdpMjdpX3JHVGdBV1ZtNmxSelJnTlE5NFQ4aTRHUG9oYjZYRjNWcmhmd2VyQ0ZmSU84X1BULWZQRVNVWHJMTFpiM0g5ejgzOGRPLXdsdUNBMmNFaUpndU1sWHIyQWNCQ2szR0pnSnpWblM2Z1dBaXM4dm1IYWQtSVFJYmlhdUtTUkswZXgtLVJFODFTM011clBTOG1leWU3YWNWT1A3eFpKaVR1WVNYYVQ3NDhOU1ZQS0FqNlNteURVY0x0ZjNwZ2JDdGI4dXjSAdsBQVVfeXFMTmI3clg3cHhuUm95V2FVS1J2dUJLYldsMV9Oei1qUGMwcHktSlMyazAxazRKNXV5R3d5NFBIZUJkd3hpT1hzRmE4TDNmMUtxcXZBZVFjQVhONGxaXzVDMURIOTdTRzAyNnJkcUhxY3VDVGk1X3FucHlTZE5uRjRDYmNhaG5HVm5DVF90MENoSTdZS0h1RnptMU5yZEg4ZDROTHdWNFRxWHJNYk1RUHYwTG55Unh6M1NkUTV4bW8tbW1zTUFIWVZQTzNlX1NtZm1SZ2RuNVJMbXMwNVVz?oc=5",
       "published": "2026-11-18T11:26:49+00:00",
@@ -398,6 +388,16 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkRndGctQVdwZFpNWnVQSmx2NGdNN0dpVlNlQnVUNWc5ZzBQN3lrOFc5RUlOcGJqSGRpQWd6UHR5LWRLdTl5UGNlT0pBUlpRMFlwX0JybXZWMjl2RV9ZaU5mU3RZeFJIcUtRdEdrNmdiNlpBOE9SZDFPSkFaa2xzYUxYc0JQNzlKaXZfMXlCMUY0MFJzaDEzRG1IVEd2bWQ1cm9maUJaemVKYWtRam5jdXBfM2F5Y21DNXpQOG9kaTFROWtVWlBERUR2NzBWUWRkT3F4cXNCa3pRLV9HQXQ2dHlhbXlDdGc?oc=5",
       "published": "2026-11-18T11:26:38+00:00",
       "rss_summary": "Share Market Today: Nifty 50, Bank Nifty | Nov 18, 2026 &nbsp;&nbsp; Liquide Blog",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty retreat from 9-month highs; why markets fell and what's next? - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMlRFVnc1eXU5c0tkdERwenQ4MUplM2hDLUl0Mkl4cG5EUDRhQzJrVnkxYi11SEpkXzZld0lZdks2a184OU1Jbko4bzJCM0tsMk1GMWhrUnExVHhqcVVDRWx0QjVHQkdna0FORGU0bzdQTzA2d1FLQ2s4Q2phM28tU3NHcnhOX1JqTGlJMGR4bDhYYzd3RVFIakZhSG1nUXJFRXVhUUFfZGFDdkFURmZNZnQ4bTdqVFhNU0hqMWp4ZzQzMEFTc3JJS25vY2w1R0VaZ2VBNEhn0gHbAUFVX3lxTE5FWDNJcmZmcF9PdjExSlFhREVGX3R4NnJ1a2Zpbk50S0ZuWmxZblJkUzdVcV9TOE1VOS1nNjRtTXJVeE1OcW9KRy0xQlhGV0lRLXRnVVlMZFVUVmFKbUFIbTJfNTQ1Y3M4Q2psemdWd202SHRwTzA5SkYtUVdDQTlHRXdhSXNCdmh1SngwZFlFT2Y1dFFFcGhqdFU1djExY1VpUDg0OTMxUGttenhaY1Uyc0JTaUFlZ0NZM25hNW9FQzNObmlQSjJwd2huRGRjejRwSzZDX0YyMTcwNA?oc=5",
+      "published": "2026-11-18T11:23:20+00:00",
+      "rss_summary": "Sensex, Nifty retreat from 9-month highs; why markets fell and what's next? &nbsp;&nbsp; Business Today",
       "hinglish_title": "",
       "explanation": ""
     }
