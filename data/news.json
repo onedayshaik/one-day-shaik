@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T22:46:04.090234+00:00",
+  "updated": "2026-11-18T23:43:51.082644+00:00",
   "items": [
     {
       "category": "Markets",
@@ -302,6 +302,16 @@
       "explanation": ""
     },
     {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Markets Drop: Sensex Falls 500 Pts Amid Rate Hike Fears - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3VWYWRDRXd5WDh4SjlwNUpWRGNXYWRFbGpMQzg1dk1FNDdBeEFIeEpzSUc1QUhKSHF0bWxDTExSbGtNRXF5eWdJdFNTU3hpVzNrTWtsai1VWDN2a1l0SmJTcTJyNWFWSEVnNkZMb2ExQThycFkyWk9yQnU1MWtFMW9lc2ZyZk13NjVVM19xZG1LM2M2NF9SVVE5S0pPRzF4eFNwbzBXdDdFamVpRWYzazdR0gG3AUFVX3lxTFA4WUpSUjB5NlJqMXl6RzBneXlHQTBoRHlyYjlIMHFIYzdaRUw1dDNkZWkzNzA1bjdwS08yRmNqTDE4bEFra0VEbmt3eDVSUnBKQnZ4Z1BlazNXME5GTm1GRm1ObTFoUUxuNWQ0bHpaeGRRNE4wRGh2TTFTNzhGWVhtbTN4QnFCTlc4Q1pPTmM4RTN3ZUE5NnU4WDRFU0lZZ1NPVWpEVWIwS2RPU3MyaDBrNEk5MVpLbw?oc=5",
+      "published": "2026-11-18T12:09:00+00:00",
+      "rss_summary": "Stock Markets Drop: Sensex Falls 500 Pts Amid Rate Hike Fears &nbsp;&nbsp; Rediff MoneyWiz",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "AI startup Humyn Labs raises $47 million in Series A funding round",
@@ -318,6 +328,16 @@
       "link": "https://www.business-standard.com/companies/news/tata-motors-enters-syria-partners-with-ghassan-aboud-for-cv-distribution-126111800962_1.html",
       "published": "2026-11-18T12:00:28+00:00",
       "rss_summary": "Tata Motors will offer cargo and passenger vehicles in Syria through Ghassan Aboud Automotive's subsidiary GAMCO, targeting demand from infrastructure rebuilding and economic recovery",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Google News India Economy",
+      "title": "Goldman Sachs sees three more RBI rate hikes; feels rupee's worst is over and Nifty at 28,500 - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQW1fcnkyWm1wZ2IyWnI3MG8xZWtMbmxjRTc4aGZsV2RmRDRPRWNRaGdxMHE2M2hYM0pzY0dlNWJ5NjJFWEl4dG04YjBxeW9Obi1QSEQ1SmI2STlFS0FRZDdhTUMxSEFBdExyUkVwaWgyT01iakllMy0zSllSQ3ltUDNzUjVIenY3cHBmbVYxU3dSNVpxUXhfRTg1cmVIbGlHaWpMUTJSaVhLSmw4eGVNVWxfQUV0Qko0NUpEZkRfdTh5eWZyOF9ZenFLRFF2Y0pBdFYwTkJ6c2g0V2FKblB3M2UxcHNydzlFcW16TG5aVdIB9AFBVV95cUxPMFEyeUxDMGVyUG9DQ2d3VlBTU3BWTzd5RVY2b3Q5UnByLUYxQWNxZlFRWVRIWWxTbjVqS3UtWmRDWDBiTzNQREVpVDEyY3NKLVlkR3Y4Sk5QTEVJQmdEc3NJYnpXRTNzWWthckFHYkZPLUxwdzh5M3NIWml1UTAtUWhIWEo5Y3NPWGZ6d09hVkJad1ZQbUhfV2E3SUZEbzVGaHVoeFhoZ1VGQlBZakFvMFdZNW45SVpQS1E3a0FRMUVxdGI1NGUzYWdKemlMaC1MMTRaWENkNDh3YURuc0VmMm5qdFpUaXI1MXR2MFQ0S2hOa1o4?oc=5",
+      "published": "2026-11-18T12:00:04+00:00",
+      "rss_summary": "Goldman Sachs sees three more RBI rate hikes; feels rupee's worst is over and Nifty at 28,500 &nbsp;&nbsp; Business Today",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -378,26 +398,6 @@
       "link": "https://www.business-standard.com/markets/mutual-fund/shifting-trends-largecap-funds-returned-9-8-in-oct-smallcaps-just-0-7-126111800879_1.html",
       "published": "2026-11-18T11:17:03+00:00",
       "rss_summary": "Indian equities staged a strong comeback, with net inflows into largecap funds rising to ₹13,887 crore, even as those into smallcap funds fell to ₹5,152 crore, shows Vallum Capital report",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex Falls 500 Pts; Nifty Slips Below 25,250 on Profit Booking - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjU2N1VtNFVrYXNNb2Fma3pfUGlyMnlyUDFDdW1wMEtETWg0ako5c1JuY1RNRGJiX3BsMzJ0NlFrVXFhM0JLZVRRczJsaFMyU3M2VlItNzJ5eUVrcGJlLTFYcl9UcnBEbkxRbHlkdV85MXRnZkVQT3JoN1ZCMHp3aV9nUVRkWV9hOVFoQjdNWHlmSXJudXdYRHVubGNBWEwwcUJya1puVDlzdXUxQXNzRVprRU5sVGZxcG1YeGE2dkJkN0c2ajRTODgwMmVKdw?oc=5",
-      "published": "2026-11-18T11:05:01+00:00",
-      "rss_summary": "Sensex Falls 500 Pts; Nifty Slips Below 25,250 on Profit Booking &nbsp;&nbsp; HDFC Sky",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Dalal Street crash: How Nifty, Sensex slipped from nine-month highs - The Week",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGJQWE5yWlN2UW4zNVNlX2N0ZDl4dDkxZWpUMEhZdTVmWFVZbjIxU2FlSFBZRDVGQk9UV0t5VnBxSE42RlBoUFhzeFJQYlRWbXJBYmdvQ2Q2NDFJMDNsbUJxaDh4ZzNGelFaOVdQWEtqYjJkNzlJR0duVHMxT3pSbVhpYXJXUXRKZmpGNFc2TFJ2aDR4SE9zb3U0ZlFLNi0ycTNReXhRcDBuN1BicTZSbTZXaWs3WTZrWVHSAb8BQVVfeXFMUGNsMDNrTE9uWmdscnEyY0RRTnpPNEdCdmRqNnc3QS05MHo3MlNmbTBZVkhmSkJrMmc4S1llU2tEREhockpQV3BJd2RKME92Y2dLbnBxLTlNSTdXWXo1VDFvVVRZWDZydjhfbWRiRk5OMTQyZXhNY2VWNUUtOVhkRzUxdjZ3Y1NYTDBRVzAxbGZCWFMzSUJEa3k0RldVY2NvbzhZUzBkRndWXzVBc25ERXRucmZjR3NRMzZ2eHY3bUk?oc=5",
-      "published": "2026-11-18T10:54:38+00:00",
-      "rss_summary": "Dalal Street crash: How Nifty, Sensex slipped from nine-month highs &nbsp;&nbsp; The Week",
       "hinglish_title": "",
       "explanation": ""
     }
