@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-19T04:59:27.963399+00:00",
+  "updated": "2026-11-19T05:59:06.364191+00:00",
   "items": [
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex and Nifty Edge Higher as Auto Sector Leads Gains Amid Mixed Market Breadth - MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWRMSjhvY2lIME1xYzIwblExcUI5bEZBcy1nVjlGU1FHODZLYzNKaGpscFVkeHRXVEJmeVVkSDdRX0l5UlpjUVdYY2FsTWJ2UXhhWGZZcGdBQmFuVDFvMFRXaFlQV0xoV1hWanl2QVpKNDZvdENvMW1Rd3M4RTlWcldZVE8wMFFXbkVIdWpqdVNVejhyMC1SWTVzdmxRWURQS0hFVE5WWDhWUWtiX3BUR2RzQ196dXhsQ2FBVU5qNGg1OVZIRmdSWF9fWGNxMU1JRC1fYm9RUQ?oc=5",
+      "published": "2026-11-19T05:37:02+00:00",
+      "rss_summary": "Sensex and Nifty Edge Higher as Auto Sector Leads Gains Amid Mixed Market Breadth &nbsp;&nbsp; MarketsMojo",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "TCI Express to invest ₹500 crore in 5 years to expand logistics infra",
+      "link": "https://www.business-standard.com/companies/news/tci-express-to-invest-500-crore-in-5-years-to-expand-logistics-infra-126111900225_1.html",
+      "published": "2026-11-19T05:33:18+00:00",
+      "rss_summary": "Logistics solutions company TCI Express Ltd on Thursday announced a Rs 500-crore infrastructure expansion plan for the next five years and the opening of three sorting centres in Ahmedabad, Lucknow and Kolkata, strengthening its nationwide express delivery network. Through these strategic investments, the company said it aims to build a future-ready logistics ecosystem, enhance service capabilities and reinforce its position as one of India's leading players in the sector. The company said it has already invested Rs 500 crore in the last seven years, and now intends to direct the new investment to high-performing verticals. \"We are witnessing strong growth momentum across our business verticals, particularly domestic air express and e-commerce express, which have emerged as key growth drivers in FY2027. Our next phase of expansion will focus on strengthening the capabilities of individual verticals, enhancing operational efficiencies and building a more agile and scalable network,\"",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Gold, silver fall as strong dollar, Fed rate outlook weigh on bullion",
+      "link": "https://www.business-standard.com/markets/commodities/gold-silver-fall-as-strong-dollar-fed-rate-outlook-weigh-on-bullion-126111900318_1.html",
+      "published": "2026-11-19T05:28:19+00:00",
+      "rss_summary": "MCX gold futures fell nearly Rs 1,000 to Rs 1,28,858 per 10 gm, while silver declined Rs 997 to Rs 1,59,737 per kg amid a stronger dollar and rate-hike concerns",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Cyient Semiconductors gets $10 mn strategic investment from GlobalFoundries",
+      "link": "https://www.business-standard.com/companies/news/globalfoundries-invests-10-million-cyient-semiconductors-asic-126111900309_1.html",
+      "published": "2026-11-19T05:22:17+00:00",
+      "rss_summary": "The investment values Cyient Semiconductors at $490 mn before the transaction and will support expansion of its custom ASIC, silicon development and power semiconductor capabilities",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Maruti, M&M, Hero Moto, Eicher rally up to 5%; what's driving auto stocks?",
+      "link": "https://www.business-standard.com/markets/news/maruti-m-m-hero-moto-eicher-rally-up-to-5-what-s-driving-auto-stocks-126111900282_1.html",
+      "published": "2026-11-19T05:16:51+00:00",
+      "rss_summary": "At 10:11 AM on Thursday, the Nifty Auto index was top gainer among the sectoral indices, up 2.6% at 28,111.95, compared to a 0.2 per cent rise in the Nifty 50.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "BLS Polymers zooms 8%, hits record high post Q2 nos; up 100% from IPO level",
+      "link": "https://www.business-standard.com/markets/news/bls-polymers-zooms-8-hits-record-high-post-q2-nos-up-100-from-ipo-level-126111900281_1.html",
+      "published": "2026-11-19T05:08:41+00:00",
+      "rss_summary": "BLS Polymers, a manufacturer of multiple grades of custom-formulated polymer compounds, reported 130.63 per cent Y-o-Y growth in its PAT to ₹10.54 crore for Q2FY27, compared to ₹4.57 crore in Q2FY26.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlVXem1ndXYtc3JOQ0xYTDRrcTc1d2J2c1JRWjNJd0prMkUyRzRxc3QwTFZqdm96aWR1VWlaRC1BY3U2OVlJWHNUNDV2RWo1d0VmNk9NLUdwOGZyM0tobEVUblhodVVKRnpVa3NtOGdPQ3U2TE9vRkFkZ0lmUXlhVzNSLVpqMXZtU0VMbXFCTTN2UGxGTEZzV0ZpMmxoTGZzd1BRekdCb3VwWkU4NmFYRmRncENaZjR0S2tHenFYMjJwVHRWcHFjVmR1UDjSAdoBQVVfeXFMTW1kNGx4dWRPNldnNEdBblVKVE9GR1RHaEI5VnhrTzRQWDlXM3N6Y2NjVEhsZE5wQ2tuaS1NdzVEQnFqUjVJYTdOcmFtdDgwVlVFWEgzdUE0M2ZacDNoQ3ptUWJ1aFlrV2cwOWxpWHloNjRoSlM0dDhxd3JIdVdfYVotUXBlRnd2ZkFoT1ROMlVnaEtWV2I4QTZ5Uko1WGNYMF8zdGFoaGZ4Q1FobHVIU2M5ZEg3ZENwMFo2NFdVdW9LclZ4a19lbjNmdmtBN2pKbjlMVUhsdmJ4YWc?oc=5",
+      "published": "2026-11-19T05:02:21+00:00",
+      "rss_summary": "Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters &nbsp;&nbsp; The New Indian Express",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Prediction for Tomorrow: 19 Nov Levels, Nifty 25,228 - Univest",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZZTdUQmRkZXZUeDhWQURUY1BDTHI3ZGtCOGdKQ3FwbXAyR19uZ21JYk9OOGRjREs3ZlpxVGJNX0lJQ2w1Y0J6aHg0OFhXVThJLTYtRm9lMEdZOGdlZ052cjgwd3hETDlPSDFaMHhleG5fTmdW?oc=5",
+      "published": "2026-11-19T05:01:15+00:00",
+      "rss_summary": "Stock Market Prediction for Tomorrow: 19 Nov Levels, Nifty 25,228 &nbsp;&nbsp; Univest",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty Open Lower as Fed Signals More Rate Hikes - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJKUVBfWmp2bTRfdjdMNUlRTGVrZ2NDcWRKdUNQRmtPb1FnQVlOYmRUSHc1c0E5S21mZVRHYkNoNUUwZVE1Y0FxV0RZWjF0OTZnTTY2UDVCSG8tVS1CTUQ3WXE2Tm5TaTQ0YkROMF9KN2F3cE1nQVhMVGphcW1wVlJJaGxTLTJDN09TZEdNRFhTdlprQVluOFh2NFFKQU9PaG41OXYxdkNpaHZRZGVBanJBRjg1SGx3QlVnMENVMlh4RlI4eTIzN0hTMFc3S3BCVzN5a093?oc=5",
+      "published": "2026-11-19T04:46:24+00:00",
+      "rss_summary": "Sensex, Nifty Open Lower as Fed Signals More Rate Hikes &nbsp;&nbsp; HDFC Sky",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Markets",
       "source": "Business Standard Markets",
@@ -26,7 +116,7 @@
       "source": "Business Standard Companies",
       "title": "Cyient Semiconductors secures $10 million investment from GlobalFoundries",
       "link": "https://www.business-standard.com/companies/news/cyient-semiconductors-secures-10-million-investment-from-globalfoundries-126111900252_1.html",
-      "published": "2026-11-19T04:41:53+00:00",
+      "published": "2026-11-19T04:41:45+00:00",
       "rss_summary": "The investment will be at the same pre-money equity valuation of $490 million as Cyient Semiconductors' recent funding round led by Edelweiss",
       "hinglish_title": "",
       "explanation": ""
@@ -36,7 +126,7 @@
       "source": "Business Standard Markets",
       "title": "Paytm, Pine Labs shares drop up to 7% amid concerns on UPI MDR delay",
       "link": "https://www.business-standard.com/markets/news/paytm-pine-labs-shares-drop-up-to-7-amid-concerns-on-upi-mdr-delay-126111900221_1.html",
-      "published": "2026-11-19T04:41:26+00:00",
+      "published": "2026-11-19T04:41:36+00:00",
       "rss_summary": "Reports suggest the implementation of MDR on select UPI transactions could be deferred until after assembly elections in five states during H1CY27, amid concerns over merchant opposition.",
       "hinglish_title": "",
       "explanation": ""
@@ -48,6 +138,26 @@
       "link": "https://www.business-standard.com/markets/news/mahanadi-coalfields-ipo-analysts-bullish-on-reserves-growth-and-low-costs-126111900249_1.html",
       "published": "2026-11-19T04:41:00+00:00",
       "rss_summary": "Mahanadi Coalfields is India's largest single coal-producing company, supported by a sizeable reserve base, predominantly mechanised opencast operations and integrated rail and port evacuation infra",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex Today Trades Marginally Higher | Nifty Above 25,200 | Maruti Suzuki & Bharat Elec Top Gainers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMlNWSVhkVGhrZmZ5dUNRVnNNZm4xQ1JkM3dBMFVDNWVoUUhuN2ZiY19PTVk5d2c1c3hWbHM5ZjQ0bmdPV1BsMmpwNVRaS1VEN0lzaURIcnAybFN1Tk5CODlUaW9jazFuWTU0bEx2WXByclYxdnFYcmNUSDlQRWlCVEMwUnRGU3lQWFo3bVozRkxoSDlFMFZmalhsYUhrVzFqalk0WW41UlFLTkVpMWxoZ1NhMDEtNEhCa0tWQUpyQ05HVndmeGFyRTB0VlB3a1dtdVRPM21ENnRIMWktQ3FGSFBtS2dlZXFxc3pLdTVB?oc=5",
+      "published": "2026-11-19T04:40:13+00:00",
+      "rss_summary": "Sensex Today Trades Marginally Higher | Nifty Above 25,200 | Maruti Suzuki & Bharat Elec Top Gainers &nbsp;&nbsp; Equitymaster",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty open flat amid Fed rate hike concerns; investors remain cautious - ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFBEVnk2aXZfZ0NMWWdYQ291SVEtU05vQ3dEWi11ZndURnRaRlhvYnU4Z1JzTHJyb1NSTlg5MnF6RHhqRjlHWEVZNE9Qamw1Q25HZkVDcERObUk4Z0VlMlp1bm9DWEJBX25sV2g3VFRlWnk4ZkVwY2Z0QVBEN1N4QUZOLTJMb2FZUm5xbFVFSlg3TE0zX3ZZTDVPUzMzclkyNjVraXJhUQ?oc=5",
+      "published": "2026-11-19T04:37:27+00:00",
+      "rss_summary": "Sensex, Nifty open flat amid Fed rate hike concerns; investors remain cautious &nbsp;&nbsp; ChiniMandi",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -93,6 +203,46 @@
     },
     {
       "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Silver ETF, Suzlon, TFCI among top traded mid-, small-caps under MTF in Nov - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQNS12TkJ4dEM4ZU4xcWxmNklDSWY3a0NSWGFOZTFaWm91N1NJenZYdGdZOFJKZU9tdUZXREU1MW1KaTlzTjNKZU91QXB2c3FINzQ4MHo2c0lMamZkRlVYcldnT1ppZnp6REgxMm1xZVVOQ0Y4SU9Lbm1vd2d4YmJmZGRuMDBOVnZpX0QwYmhjeldNZjdGamczdi1oUmJGbVV5WWVDOUt0Y01vaXpkbFY1TDhvengzMkh1M0g0YnhRSkVnQUNXZTg5cE1HMy1zSjJUT1drSTRmemE4Uy1SbV9XejBraU5TelFkcU5jcGdDVE9NMGpvdkdmSk1XUFBLTlRNcDBQZ2ljLVJLRkZfZzhOOGlzdjVBMEpERGZqV0xJLUdGVV9IOUI2dW1KcjV3SElvSTJGWW9adUJyV1hHZ0Vj0gHEAkFVX3lxTE5SRUxtM2hzRVVIMERJWHV4ZFFQazBibFZ4Ri1FWUd6aHF1ak9sRDktQ0hHSHpCOUJmcFU5VldzOG9reElhWlJoZGg3eDBidUdqUW9pOC1RZ1dmUVRoUVlmRGdKazJIazV5UTVKOWZPMWgzWWlNSjZNTjFaUmtNeFFEYk1BVThIVlNFVWFXWDdaTmowSUhEeVZvTGpGZ0FCaVNpOHkwVEhzeTBELWQxcFlSb2dDM2ZOeThYdkhJd3JVZUdrMDIxTVFqYzlxS195bmtGeHR5T0Zmc3dSYVEzSWd5bE1jVEtfUjBMWkJvQ0l5RDFIQ0VVZ3lDWWNsZGE3Q3dBTnlGcW9EWUhTRGY4OWxHSWNkQWtOWDhqbzhEWFNqSlJ2ZlFjOElCRC04TUV3c3Q3T2hSVTdlVUhpRnl1ak92aXJnVg?oc=5",
+      "published": "2026-11-19T03:55:57+00:00",
+      "rss_summary": "Silver ETF, Suzlon, TFCI among top traded mid-, small-caps under MTF in Nov &nbsp;&nbsp; Business Standard",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers - India Today",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXpIdFdLRUp0aFVtc3lJdUkyS2NlLUthSWZvb01OUkh0bXZUaEo0XzQ0V296SkN4dFd6NzNXaC1LWHhBVHlURXVYVnZXZWk5dy1nV1FvLUxHUnVoNHprZUxoTk1rZDJtbUhKbVJ0cVdfMDVnLV8yaFItYVFRTnFvaFlmRk1iLThFRmRfcWs3S2RrYkFYNjNLM0MwQ3NtV1VpR1VwS0YxcE1yUXUxMlRJVlNMZy1EcWN3eFc5c21PVTYtSmlMaWpzcURR0gHPAUFVX3lxTE1XMG1Lb3ZYV1VCUVRRQWx0anB1NTU5OThvdENyV2NFR05hLW5yRHhiUVBOZWpLelQyNHBIT2dackhXUmY0T291ZVVSV0tFRldla1ZSbFFnT3Azay1raXZmX3J0SzAwZEctRE9TT25DYnRMZDNUYUw2SktUaGQ4aGhwejlYQ0RwRGhFWGxPdzBWbmRHTlZjV08wMXo1T0l0OHhmUTUxUy1DbVhVcWRJR1Q4Y0N2MHJjWFh5N001TURNZ212WWs2ZVhDbUNCY0RTSQ?oc=5",
+      "published": "2026-11-19T03:50:57+00:00",
+      "rss_summary": "Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers &nbsp;&nbsp; India Today",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Today: Sensex, Nifty Mixed at Pre-Open - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSVZmdy1NMXU0WUpRSmhBWFBPNkI2dlNTbnRlTzlPQW8zdE9KdVRDZkZMcmdFZm9qNjJBdnI3UDFTWF9QVDNROTJzRGxWSU95aXQ5N0RxUXBOdzRnSGdZOWRsWUhxY0tyZl9SdHg1UHVRZlZyVVdxTE1lU2U2SkprYm5Jc1JuQXMyWm1xcUJsMzd5V3BhRDAxUmYyX01kZzdRQzhEWFB6Nkl2MHBxU3VUZXdESjV6eFFrcTRlRjl4TTdUSTNSMEo1anNFVTdnbDFaYndKeFdR?oc=5",
+      "published": "2026-11-19T03:42:21+00:00",
+      "rss_summary": "Stock Market Today: Sensex, Nifty Mixed at Pre-Open &nbsp;&nbsp; HDFC Sky",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex, Nifty to Open Lower as Hawkish Fed Weighs - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS3hqencxbW5hQXdGTHhIZGg2cjFUUTZGUXhMVTVUT1ZkWWg3M0RJdGJ1RTQ3UnJQbjNQdW9CZ0prUWt1Z1ZzQ0dsY2Z6cnVOSUIzckI0S1lSRXczZnlvWHZYRW9aQ1RvZDdkenRrZ3UyVEd6bEJpSWpwUmJ4eDUzTEhoR2xyTXFhenV3al8wMkFGOGhzT05EMWJyNTJNWFhxejVHdnNJSnhUb0xvc1huaV9IaWFaakVZU2J6cDdSTQ?oc=5",
+      "published": "2026-11-19T03:33:33+00:00",
+      "rss_summary": "Sensex, Nifty to Open Lower as Hawkish Fed Weighs &nbsp;&nbsp; HDFC Sky",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
       "source": "Business Standard Markets",
       "title": "Asian stocks rise after Anthropic IPO pricing sets stage for record debut",
       "link": "https://www.business-standard.com/markets/news/asian-stocks-rise-after-anthropic-ipo-pricing-sets-stage-for-record-debut-126111900095_1.html",
@@ -124,9 +274,9 @@
     {
       "category": "Markets",
       "source": "Business Standard Markets",
-      "title": "Stock Market LIVE: Sensex up 200 pts, Nifty tops 25,250; VIX rises 6%",
+      "title": "Stock Market LIVE: Sensex stuck in range, up 200 pts; Nifty tops 25,250; Nifty Auto gains 3%",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html",
-      "published": "2026-11-19T02:29:14+00:00",
+      "published": "2026-11-19T02:29:31+00:00",
       "rss_summary": "Sensex Today | Stock Market LIVE Updates Thursday: In the broader markets, the Nifty MidCap and the Nifty SmallCap fell 0.23 per cent and 0.24 per cent, respectively",
       "hinglish_title": "",
       "explanation": ""
@@ -148,6 +298,26 @@
       "link": "https://www.business-standard.com/markets/news/diis-sell-55-570-cr-in-nov-fpis-buy-94-230-cr-in-cash-market-tactical-or-behavioural-126111900097_1.html",
       "published": "2026-11-19T02:02:03+00:00",
       "rss_summary": "Amid the sustained inflows in the mutual funds, it's unlikely that DIIs will remain net sellers for long, believe analysts.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock market outlook today,19 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQ0w3Mmdrc3EtaHNJdUR0OEtRTmg5b3I5N25tUTZ5VnhIVlFVNTFUb0NzU0dlTlRVREtDQ2paVDJVVWE1QlRBT2JwZ0xSYVBYUElxQnF4ckNTT2JSN2ZabUdmby01UnVqUE16cEhWV2JBTmNPR0ZpSnZjaFNZQmoxQi0tandJVDNmRlZ6UHJYUm1sVmdZSlJ4SDc4VkJOWUk1TjJ0T1MzNUJQby1qZUNJcFc5cVNuWE9CU3JieExXbnUtYW9ObUcydFVrUUxLUnlrbUZtLTlUTm92WF9jeHpGNDdabjNEeEY3U3MwbFBKbHhLdGxGQlhhbWR5eVZvN0VhM29xYm01VFViTlHSAZACQVVfeXFMTW5SeDlyaTFUNTZURmhpM2xiaDc5M3h4YXZzc0xOX2tzS0pFX2t6R2lIajgxTV94czRTNFpFSEctVUN6OFJCWDZ3VkpJZWRSSDBraV90YmRMVWhsaFBjZHo1a3d0VV9QQlBQcGRrLUNKaE9hUDY3UmxVdUpZNGs2R1dxUWhmSnBSdmp2dE5jM1J6dUFNR0RaT25jTHcwS1BqY0ExMUh2aXFCZ1ByVlREQXVXbFRJM2U0dmhyM21XbkJ4bVpScUFQakROLWY1Q013Y09MNmZiSEd4NXpfckJzak9SU1ViQURsM1ZIdkZxVDRFVlE5UzRIdm53bmE0LVZVd2dRMkVxbm1VQVRRMW1wTnY?oc=5",
+      "published": "2026-11-19T01:06:38+00:00",
+      "rss_summary": "Stock market outlook today,19 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues &nbsp;&nbsp; Livemint",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Google News India Economy",
+      "title": "Profit repatriation undermining domestic economic growth? - The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVJhbmhKR1BpLWVUbnE5eVBPRlFpWnMyaWlpdTdGOEpUMklLc2tHeExJV1B1cl9xV2ZpN3VrSW5zeHdqN2thZmk4bF9UeWNHcUdLRDloV0NBUlB1eEt0N3lqdndUTlFLODdfUVplNG1vcHNRMmdFZUdEOFduZGZXYkRhQmc0QkJBN09BdTQ2WjlZcGtFMUFXN0MzdWRBN0J0VnZoaGNDMndubkZGeDFDUFhwdEdFZTQwRnpRetIBwgFBVV95cUxQcTVDRS1jOHR6V2pRNmFPaC1EUmNjWFJLcWtua2hHVDB5WGFhXzI1cDYydW02TmNMa3R2enVhN2FZdWRaWFBYQkNWRUJXVzU4aUlOZ0VVNktYemlnNFRKQUZSeUY4UU1PMzFXLUVvQU14N2Y0ZFh2OXhqeU0yMC0tSWxESGVNOTBfbEV0TS1qT1ZNSnI0dXZTV1lFOEhoS3Z1MVBXWHBrcXNkLU5PeVlpSmtudVJ0a19NclNTbHlHVDRGZw?oc=5",
+      "published": "2026-11-18T20:24:41+00:00",
+      "rss_summary": "Profit repatriation undermining domestic economic growth? &nbsp;&nbsp; The Hans India",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -203,6 +373,16 @@
     },
     {
       "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Markets decline over 0.6% as metals, consumer durables fall behind - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdG5XOEZ0dmdpTEpJcDdZNXBJeklKS1pxc08tVUJwcFBnbkJROXlyNkpHYTc3bkt2OFR0Y3JMTWlyeUY0RjRhWi0yMVBxQ09uRTRKdTdGY0h0UFQwNVNCV2JyRUFsWmdDUXBFeEJhT3lkcE5lT3p0WEdTSGl5c2gtNG90TjZlaFBsMDBxN1NIUFdfZlJNRW8zQTlrZTY4d3ctcU15UFFFOFI2aS1TaUk3OS1lLUJHX3dWZE9SRVlPeHJlSno5cGwxb1Fhd9IB0AFBVV95cUxPT051a1JtWjlrODA4VlBINmVhYXVXdUpQc09KSmdwOVU4SEd4VXhYRmhieWNHdHNZQzk0Tkk3cXV4N0NxZnpjVFFNZUpyV1d5Wko0bDFjejlCZC0tTmhqRE1Kc0prSUxsSk9YcVE3ck1NMmNnZE14Wll1cUtUT09NTDdsOWViQ1ZoVXhMVVJadnlZTm9nVzJ0WHY2a1dFZjRJdVBUX2hYd09iQ2E3LS1tRVM2SjZmSEk0ZXJyZkE1cXVBT250RGp4TzEtaVFiY1Fx?oc=5",
+      "published": "2026-11-18T16:52:19+00:00",
+      "rss_summary": "Markets decline over 0.6% as metals, consumer durables fall behind &nbsp;&nbsp; Business Standard",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
       "source": "Business Standard Markets",
       "title": "FPI stock-buying tops ₹1 trillion in November, highest-ever monthly inflow",
       "link": "https://www.business-standard.com/markets/news/fpi-stock-buying-tops-1-trillion-in-november-highest-ever-monthly-inflow-126111801263_1.html",
@@ -212,192 +392,12 @@
       "explanation": ""
     },
     {
-      "category": "Economy",
-      "source": "Business Standard Finance",
-      "title": "Tax breaks, refinancing support dominate financial sector's Budget pitch",
-      "link": "https://www.business-standard.com/finance/news/tax-breaks-refinancing-support-dominate-financial-sector-s-budget-pitch-126111801460_1.html",
-      "published": "2026-11-18T16:30:00+00:00",
-      "rss_summary": "MFs, NBFCs, microfinance lenders seek changes to lending and recovery frameworks",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "PhysicsWallah targets nearly threefold revenue growth to ₹10,000 cr by FY30",
-      "link": "https://www.business-standard.com/companies/news/physicswallah-targets-nearly-threefold-revenue-growth-to-10-000-cr-by-fy30-126111801354_1.html",
-      "published": "2026-11-18T15:09:07+00:00",
-      "rss_summary": "The edtech company expects revenue to reach ₹9,000-10,000 crore by FY30, with online operations contributing about two-thirds of its business and profit growing faster than revenue",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Green transition could reshape steel plant locations: Tata Steel MD",
-      "link": "https://www.business-standard.com/companies/news/green-transition-could-reshape-steel-plant-locations-tata-steel-md-126111801333_1.html",
-      "published": "2026-11-18T14:56:12+00:00",
-      "rss_summary": "Tata Steel MD TV Narendran says access to cheaper gas, hydrogen and electricity could influence future steel plant locations, intensifying competition for investments and production.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Physicswallah targets ₹10,000 cr revenue, 20% operating margin by FY30",
-      "link": "https://www.business-standard.com/companies/news/physicswallah-targets-10-000-cr-revenue-20-operating-margin-by-fy30-126111801079_1.html",
-      "published": "2026-11-18T14:48:06+00:00",
-      "rss_summary": "Physicswallah expects annual revenue to grow more than 25% between FY27 and FY30, targeting an operating profit margin of over 20% by FY30.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Space tech firm Digantara eyes $200 million fundraise, expansion in US",
-      "link": "https://www.business-standard.com/companies/news/space-tech-firm-digantara-eyes-200-million-fundraise-expansion-in-us-126111801319_1.html",
-      "published": "2026-11-18T14:47:47+00:00",
-      "rss_summary": "Digantara is in early talks to raise $150-200 million over the next 18 months to expand in the US, scale up operations and pursue larger defence contracts.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Gold price slide drags Muthoot Finance, Manappuram shares down nearly 4%",
-      "link": "https://www.business-standard.com/industry/news/gold-price-slide-drags-muthoot-finance-manappuram-shares-down-nearly-4-126111801259_1.html",
-      "published": "2026-11-18T14:16:53+00:00",
-      "rss_summary": "Shares of gold-loan financiers declined as falling gold prices raised concerns over collateral values, asset quality and the impact of tighter loan-to-value regulations.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Nike eyes threefold growth in India over five years, bets on cricket",
-      "link": "https://www.business-standard.com/companies/news/nike-eyes-threefold-growth-in-india-over-five-years-bets-on-cricket-126111801247_1.html",
-      "published": "2026-11-18T14:10:00+00:00",
-      "rss_summary": "Nike plans to triple its India business over five years, focusing on running, training and sportswear, while tapping cricket through its Mumbai Indians partnership and new footwear",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Extended market hours not a priority for India, says Sebi Chairman",
-      "link": "https://www.business-standard.com/markets/news/extended-market-hours-not-a-priority-for-india-says-sebi-chairman-126111801232_1.html",
-      "published": "2026-11-18T14:04:20+00:00",
-      "rss_summary": "Sebi Chairman Tuhin Kanta Pandey said extending trading hours may not improve market efficiency, citing cybersecurity risks, liquidity concerns and costs for market participants",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Bombay HC quashes sanction to prosecute Chanda Kochhar in Videocon case",
-      "link": "https://www.business-standard.com/companies/news/bombay-hc-quashes-sanction-to-prosecute-chanda-kochhar-in-videocon-case-126111801188_1.html",
-      "published": "2026-11-18T13:42:03+00:00",
-      "rss_summary": "The Bombay High Court held that the RBI, not ICICI Bank's board, was competent to sanction Chanda Kochhar's prosecution and found that the board had not independently assessed the evidence",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Economy",
-      "source": "Business Standard Finance",
-      "title": "Forward market rupee bears retreat as hedging costs fall on strong inflows",
-      "link": "https://www.business-standard.com/markets/news/traders-pare-bearish-rupee-bets-in-forward-market-as-foreign-inflows-return-126111801179_1.html",
-      "published": "2026-11-18T13:36:18+00:00",
-      "rss_summary": "The 12-month forward-implied yield fell to 4.03 per cent from 4.57 per cent at October-end as foreign inflows returned and traders unwound bearish rupee positions",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Gold imports may fall to $40 bn in FY27 on duty hike: Commerce Secy",
-      "link": "https://www.business-standard.com/markets/news/gold-imports-may-fall-to-40-bn-in-fy27-on-duty-hike-commerce-secy-126111800948_1.html",
-      "published": "2026-11-18T13:08:35+00:00",
-      "rss_summary": "India's gold imports in the current fiscal could decline to USD 40 billion, down from about USD 72 billion in FY26, as the duty hike has helped slow inbound shipments, a top official said on Wednesday. Commerce Secretary Rajesh Agrawal said the duty hike effected from May has \"slowed down\" gold imports \"a bit\" so far this year, from around USD 60 billion every year. This has also helped manage the trade deficit, he said. In May, the government had hiked import duty on gold and silver to 15 per cent, from 6 per cent, to contain non-essential imports. India imported USD 71.98 billion gold in FY26, up from USD 58.01 billion in FY25. Gold imports declined about 40 per cent to USD 24.78 billion during April-October this year, from about USD 41.24 billion in the corresponding period in 2025. \"I think... this year we will end up with USD 35-40 billion of gold imports. I think that is manageable in the current year... The current duty structure has a positive impact on the gold import,\" .",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "MEIL Group raises $700 million from global investors, valued at ₹1 trillion",
-      "link": "https://www.business-standard.com/companies/news/meil-group-raises-700-million-from-global-investors-valued-at-1-trillion-126111801117_1.html",
-      "published": "2026-11-18T13:04:46+00:00",
-      "rss_summary": "MEIL Group has raised around $700 million through structured equity and proposed road asset monetisation, with funds reportedly linked to a family stake acquisition deal",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "SpiceJet board approves plan to raise up to ₹5,500 crore amid cash crunch",
-      "link": "https://www.business-standard.com/industry/aviation/spicejet-board-approves-plan-to-raise-up-to-5-500-crore-amid-cash-crunch-126111801099_1.html",
-      "published": "2026-11-18T12:59:41+00:00",
-      "rss_summary": "SpiceJet plans to raise up to ₹5,500 crore through equity and other instruments as mounting dues, salary delays and operational disruptions strain its finances.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Economy",
-      "source": "Business Standard Finance",
-      "title": "RBI may hike interest rates by 75 basis points by Q2 CY27: Goldman Sachs",
-      "link": "https://www.business-standard.com/finance/news/rbi-may-hike-interest-rates-by-75-basis-points-by-q2-cy27-goldman-sachs-126111800832_1.html",
-      "published": "2026-11-18T12:38:38+00:00",
-      "rss_summary": "Goldman Sachs expects RBI to raise rates by 75 bps by Q2 CY27 as inflationary pressures persist, slowing India's growth to 7.2%",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Tata Steel plans hydrogen facility at Kalinganagar to cut carbon emissions",
-      "link": "https://www.business-standard.com/companies/news/tata-steel-plans-hydrogen-facility-at-kalinganagar-to-cut-carbon-emissions-126111800997_1.html",
-      "published": "2026-11-18T12:15:42+00:00",
-      "rss_summary": "Tata Steel has partnered with Utility Global to study a 10-tonne-per-day hydrogen facility using steel plant gases, aiming to reduce emissions without major infrastructure changes",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "AM/NS India to commission ₹9,000 crore automotive steel complex in Gujarat",
-      "link": "https://www.business-standard.com/companies/news/am-ns-india-to-commission-9-000-crore-automotive-steel-complex-in-gujarat-126111800983_1.html",
-      "published": "2026-11-18T12:09:11+00:00",
-      "rss_summary": "The Hazira facility, part of a ₹60,000 crore expansion plan, will produce advanced automotive steel grades, reduce import dependence and support domestic automakers",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "AI startup Humyn Labs raises $47 million in Series A funding round",
-      "link": "https://www.business-standard.com/companies/news/ai-startup-humyn-labs-raises-47-million-in-series-a-funding-round-126111800765_1.html",
-      "published": "2026-11-18T12:00:36+00:00",
-      "rss_summary": "Humyn Labs raises $47 million to expand global operations and build real-world robot testing infrastructure",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Tata Motors enters Syria, partners with Ghassan Aboud for CV distribution",
-      "link": "https://www.business-standard.com/companies/news/tata-motors-enters-syria-partners-with-ghassan-aboud-for-cv-distribution-126111800962_1.html",
-      "published": "2026-11-18T12:00:28+00:00",
-      "rss_summary": "Tata Motors will offer cargo and passenger vehicles in Syria through Ghassan Aboud Automotive's subsidiary GAMCO, targeting demand from infrastructure rebuilding and economic recovery",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Economy",
-      "source": "Business Standard Finance",
-      "title": "DSP, Union Mutual Fund announce dividends in 2 schemes; Nov 19 record date",
-      "link": "https://www.business-standard.com/finance/personal-finance/dsp-union-mutual-fund-announce-dividends-in-2-schemes-nov-19-record-date-126111800920_1.html",
-      "published": "2026-11-18T11:40:54+00:00",
-      "rss_summary": "DSP Mutual Fund and Union Mutual Fund have announced IDCW payouts in two schemes. Here is how much investors will receive in each scheme and what the payout would be on 10,000 units",
+      "source": "Google News India Markets",
+      "title": "Indian Stocks Slide as Sensex Falls 500 Points, Nifty Drops Below 25,250 - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmNJd01YVlJRV3loM3ExU2lIa1YxZ3c2Z3FnQmlCOW5XQVY3NEpVd2U5SUI1MWJMakRGcVNfcXhsRC1IS0k5WjlheFZ3a21iRjJwYXpYZUt4cURYZzYzdVRkelpfLThZWVBGVkZqaWlTZWowNmRkX2lkbjFSeHhLVU5ieHFYSWxLSldISlo0WmNfeUFNQy1GbHNLVF9fQmNN?oc=5",
+      "published": "2026-11-18T16:36:12+00:00",
+      "rss_summary": "Indian Stocks Slide as Sensex Falls 500 Points, Nifty Drops Below 25,250 &nbsp;&nbsp; INDIA New England News",
       "hinglish_title": "",
       "explanation": ""
     }
