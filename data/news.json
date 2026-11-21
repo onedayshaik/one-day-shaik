@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-21T17:52:58.033946+00:00",
+  "updated": "2026-11-21T18:38:00.200009+00:00",
   "items": [
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "RBI Guv opens financial inclusion camp in Maharashtra, focuses on re-KYC",
+      "link": "https://www.business-standard.com/finance/news/rbi-guv-opens-financial-inclusion-camp-in-maharashtra-focuses-on-re-kyc-126112100936_1.html",
+      "published": "2026-11-21T17:51:33+00:00",
+      "rss_summary": "Malhotra also visited stalls set up by banks, Centres for Financial Literacy (CFLs) and self-help groups (SHGs), and interacted with their representatives",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Economy",
       "source": "Business Standard Finance",
@@ -122,16 +132,6 @@
       "explanation": ""
     },
     {
-      "category": "Economy",
-      "source": "Google News India Economy",
-      "title": "Data Centre Leasing: New Rental Growth Opportunity for Indian REITs - TaxGuru",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbGcxUldvT25oQURzX2tjVHZkUzNTMERYWXVmRzA2N2tteEhZSGV6MXFqRi1FMEJRUHV5Z2dhQWdpOEF1NzhPc2xZRzFGZnpUZEtGZS1ONjRxZFBVZHBpdjJmQ1RQUFFXRFNOZVo3YmdTTjhBSVRGbXl6S1VYNlMyU0gtOHppYThoMjFOY0FpSkw?oc=5",
-      "published": "2026-11-21T06:02:34+00:00",
-      "rss_summary": "Data Centre Leasing: New Rental Growth Opportunity for Indian REITs &nbsp;&nbsp; TaxGuru",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Markets",
       "source": "Google News India Markets",
       "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
@@ -144,20 +144,20 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
+      "title": "Market weekly wrap: NIFTY50, SENSEX extend winning streak to 4 weeks with 3% gains; NIFTY Smallcap 100 underperforms - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVlNhS2poOU8tdkJOUDhsSklyOTZqbW5YLWRfSHZFQ2ktc0NLM3Z0c3FwYURELXVTRE9wenBlN0VBTGtTOUJlTGd5MlIzYnAyYWFYd2tUTm1qdmJCVUtxV2NBcUU5MWUxbmNzcnVJTDBsZHFXb2lVRUZZVGFRN2MxWmVwUGcyd2ZtY19ndmhuclI4Z1YzREc5RHJrSGMtRFhqM3ZzU3VUVl9YRFhIRnZ5WV9KTWgxc3YyMk1TZ0U5MHNzcHhRMHFSS0NiR3FuOEhSLVRuYzVRT3l5clIxTmJEUjl3S01td0R3WTh4UlM0aDBwQ1pIUG5VYlladmtVRlhTVUE?oc=5",
+      "published": "2026-11-21T04:55:10+00:00",
+      "rss_summary": "Market weekly wrap: NIFTY50, SENSEX extend winning streak to 4 weeks with 3% gains; NIFTY Smallcap 100 underperforms &nbsp;&nbsp; Upstox",
+      "hinglish_title": "Weekly Wrap: NIFTY50 aur SENSEX lagatar chauthe hafte badhe, Smallcap 100 piche chhoota",
+      "explanation": "Is hafte share market me achhi tezi dekhne ko mili hai. NIFTY50 aur SENSEX ne 3% ki badhat ke sath lagatar chauthe hafte apni tezi barkarar rakhi. Dusri taraf, NIFTY Smallcap 100 ka performance thoda kamzor raha aur usne underperform kiya. Zyada details ke liye original report dekhein."
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
       "title": "FIIs pump Rs 1,11,950 crore into Indian stock markets this month to date - SME Times",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbGtQVVJaN3lVa1lmRVdmSmJ0amtGZ1JuN1ZIZ2UwcjdfYzAwQkNFdFkzUktEWWpNWW1sUHNFbUZSVVluS2d2VmRBemp6WVRIV2hWbHpCNVB1UklGdERwZjNPVGpQTTVCTFYtYm1Ec1M4Y09XY3JBOE5Dc0Y5ejZjNzQwQWVJVGNabW53VjFRU3ZLWFplRUVFWkdPLUk?oc=5",
       "published": "2026-11-21T04:47:20+00:00",
       "rss_summary": "FIIs pump Rs 1,11,950 crore into Indian stock markets this month to date &nbsp;&nbsp; SME Times",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Economy",
-      "source": "Google News India Economy",
-      "title": "SEBI Proposes Removal of Additional Disclosure Framework for FPIs - TaxGuru",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMmFNLVEteEQxd0VYWTk5QWpLR2VDX1lGdUx5SVoxQ1FsZEpwdW9BbjE5UWRNRlExNjhIZkpyVGdoZWhIY3M3NUhDMGpHLTVUc1NCa1ZtYjFPSk1tdWsyNE5CTDN0bGJkVnZfWEZ0NmhVYVpsRnRTV0tKR2ZiOGVCOFJBZkJreURxVTZ4bHdMWnRJOFlwV1lybzF6dUFBMDR5elNyejFKQkVSSzQ0SDlFdnhjcjY3Slk2RWlrM1Q1U0VKRHVmbXFB?oc=5",
-      "published": "2026-11-21T03:31:29+00:00",
-      "rss_summary": "SEBI Proposes Removal of Additional Disclosure Framework for FPIs &nbsp;&nbsp; TaxGuru",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -220,16 +220,6 @@
       "rss_summary": "Markets Nov 20: Sensex gains 900 pts; Nifty closes above 25,800 while Bank Nifty scales fresh record high &nbsp;&nbsp; The Indian Awaaz",
       "hinglish_title": "Markets Nov 20: Sensex 900 Points Chadha, Bank Nifty Ne Banaya Naya Record",
       "explanation": "20 November ko bazaar me zabardast rally dekhne ko mili jisme Sensex 900 points ucchla. Nifty 25,800 ke paar band hua aur Bank Nifty ne ek naya record high chu liya. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Why is the Stock Market Up Today? Sensex Soars Close to 700 Pts, Nifty Surpasses 25,700: Reasons for Market Rally - Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
-      "published": "2026-11-20T16:49:56+00:00",
-      "rss_summary": "Why is the Stock Market Up Today? Sensex Soars Close to 700 Pts, Nifty Surpasses 25,700: Reasons for Market Rally &nbsp;&nbsp; Kotak Neo",
-      "hinglish_title": "Stock Market Me Tezi: Sensex Kareeb 700 Points Aur Nifty 25,700 Ke Paar",
-      "explanation": "Stock market me aaj acchi rally dekhne ko mili hai jisme Sensex kareeb 700 points chadh gaya. Wahin Nifty ne 25,700 ka level paar kar liya hai. Tezi ke peeche ke mukhya kaaran janne ke liye original report dekhein."
     },
     {
       "category": "Markets",
@@ -302,16 +292,6 @@
       "explanation": ""
     },
     {
-      "category": "Economy",
-      "source": "Google News India Economy",
-      "title": "Centre to host data users’ meet on new series of GDP, CPI and IIP in Mumbai on Monday - The Hawk",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFNqOWJRVE9JY0xNd3RDcnFjWmlQa0o3Sk1vNEpZMTIyZHpWTTBienhLai1oYlpRbGRqaXNSb3hRaWNFMGpienhza3FYN25pUEhfNjRyQUY3Y3NVTFktS0p3bTluRktHUkZucl80cUZ3dU1TZlFKRTUwRzFLQ040UGRkajY1OTZtRHEtNS1FS1pYNnVTSlkwNFc2VHpDSkNmbkl2TW9fc2RnTm9WaFpRdzh0WUhMZzQ3NENKRzd2NVFfOVdiN18wdjVLRXo?oc=5",
-      "published": "2026-11-20T14:08:01+00:00",
-      "rss_summary": "Centre to host data users’ meet on new series of GDP, CPI and IIP in Mumbai on Monday &nbsp;&nbsp; The Hawk",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Markets",
       "source": "Business Standard Markets",
       "title": "Markets gain 2.6% on FPI inflows, rupee rally and cooling crude oil prices",
@@ -320,16 +300,6 @@
       "rss_summary": "The NSE Nifty 50 ended at 25,800.60, up 1.12 per cent on Friday and 2.61 per cent for the week. The Sensex gained 2.85 per cent over the week, and 1.08 per cent on Friday, closing at 83,919.71",
       "hinglish_title": "Weekly Basis Par Sensex Aur Nifty Me Zabardast Tezi",
       "explanation": "NSE Nifty 50 Friday ko 1.12% chadhkar 25,800.60 par band hua aur poore hafte me 2.61% badha. Sensex Friday ko 1.08% tezi ke sath 83,919.71 par close hua. Poore hafte ke dauran Sensex me kul 2.85% ka munafa darj kiya gaya."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Markets gain 2.6% on FPI inflows, rupee rally and cooling crude oil prices - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSktmSjNaMEFCRGluQXh5d0Vwelc4WlRWTGxUX0gxeTdYZ2RMak9jWWJUMTlZQ3JIbndfZDVaa0FHNGhwZG9SaElBZURXcDlLaHBxTkhHMEhtSHlZRVNuX0xKQWwwSmFid2tVczhFdl9pMGNISkR2UnMtTl9GUWhROUQ4S3YtYTZUek5jalo5QU5Da09PODZIY2ExYlZOQjdnU2I4elVtZnRIZ2RvNHZpOVE4UlYzaklkZHN4RVp2Nk5PS0VQZEtObjhFcXlHbkpjNF9RNGNR0gHbAUFVX3lxTE1VOENVNy1sVGptdDNOaldpanYxNkpndmQ2Q3RNVnVmcy1NVkNGdDFpRHlTN1o1MnM3RVI1VUg3Q3hlWnIzLTVhdFhMY29UZ2xSZFZ4bnlWZGItNERZdEhyUnpLd05tSnBvLXB3bmRmY3EwZmY0YTV3OWRxUjctb2s1dFlQZW1SeWNhcFJzYUZtbDlSNVVxV1hyOEh1Vm1QNGEzVnJxYkJyblpFZXhVRGxhZ0xScFBDMWVjR19fUjFaVEFYMWtUZFR6ME1sX0VxNXRQdWZWRmcxYjN0bw?oc=5",
-      "published": "2026-11-20T13:54:39+00:00",
-      "rss_summary": "Markets gain 2.6% on FPI inflows, rupee rally and cooling crude oil prices &nbsp;&nbsp; Business Standard",
-      "hinglish_title": "Markets Me 2.6% Ka Uchhal, FPI Inflow Aur Kacche Tel Me Rahat",
-      "explanation": "FPI inflows badhne, Rupee me mazbooti aur crude oil prices me girawat se market 2.6% chadha hai. Market ko foreign investment aur cooling oil prices se support mila. Zyada details ke liye original report dekhein."
     },
     {
       "category": "Economy",
@@ -400,6 +370,36 @@
       "rss_summary": "Sir Dorabji Tata Trust approved philanthropic grants, including ₹50 crore for Jehangir Hospital, but kept Tata Sons' proposed listing and restructuring plans off its agenda.",
       "hinglish_title": "Sir Dorabji Tata Trust Ki Baithak Me Jehangir Hospital Ko Mile ₹50 Crore",
       "explanation": "Sir Dorabji Tata Trust ki routine meeting me philanthropic grants ko manzoori di gayi. Isme Pune ke Jehangir Hospital ke liye ₹50 crore ka grant shamil hai. Tata Sons ke proposed listing aur restructuring jaise muddo ko is meeting ke agenda se bahar rakha gaya."
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex surges 898 points, Nifty reclaims 25,800 as bank stocks, foreign inflows lift markets - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEhpb0pqS1hrREZBWVRCRkVDQkJLU2JxdENURGpCN28wWGhWMExuczdEXzk4T3U3T2xSS0tNQjVnMjgybmZyd1ZjVjZrSXQ5NWhaQU4yalEyZWRXTHNiV3UzZHQxdXV0UHFtVWIxdnAyWGVtYmtHMUhLUmotaXdQdVgzS0F0Nk90YVNkQktvWWVRNjV0Z3ljMklJRHgzRnJ6cGJKbjdjQ1dJX0xRcDdaMjJfaGprRXpVN28xR2p3TEJCa2ZjUy1GY1JkUjJSenctSWs5VHdvNzRDeG_SAegBQVVfeXFMTTJhUXBzWkVUQkY0V2x4YmtRYVd1MzZEc0kyZXdZT1g5Z2VMWlp3VUJYb3hiUk1WZTJoQnN6YkJaR0x3SkdYQmZSMEJScTNJaVpyOFA5UjRRQ0lPdHJGdFdfSnZpNGlTRk91VWlMeklYRTFjYlZ0bUlsc0VIRHlMbWE5a0RuMG9PNlRQTzhMQVNCejFCVlFIWW9zcGQ3bWF0SFY0a2JfS05pS01TYV9qRTAyUkhmRTZDTWxockxjeGJJSWJVcWtWdWZaSnRmbXQtRFRlbFFsUi1KY0UwSXA0VDg3UTRSV1BzZQ?oc=5",
+      "published": "2026-11-20T12:24:22+00:00",
+      "rss_summary": "Sensex surges 898 points, Nifty reclaims 25,800 as bank stocks, foreign inflows lift markets &nbsp;&nbsp; The New Indian Express",
+      "hinglish_title": "Sensex 898 Points Chadha, Bank Shares Aur Foreign Inflows Se Sahare Nifty 25,800 Par",
+      "explanation": "Stock market me bhari tezi aayi jisme Sensex 898 points badha aur Nifty ne 25,800 ka aakda fir chhu liya. Banking stocks aur foreign capital inflows ne bazaar ko oopar kheenchne me madad ki. Zyada details ke liye original report dekhein."
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Bitcoin nears USD 60,000: What traders should watch, according to WazirX",
+      "link": "https://www.business-standard.com/content/press-releases-ani/bitcoin-nears-usd-60-000-what-traders-should-watch-according-to-wazirx-126112000892_1.html",
+      "published": "2026-11-20T12:05:24+00:00",
+      "rss_summary": "Mumbai (Maharashtra) [India], November 20: Bitcoin has lost roughly 21% since the October close and is trading below USD 62,000 and faces sustained US spot ETF outflows. November is often associated with strong gains for the cryptocurrency, but this year its price has moved in the opposite direction. From an October close near USD77,474, Bitcoin fell into the 62,000-64,000 range. By November 20, it was around USD 61,445, roughly one-fifth below the October close and more than 50% below its 2025 peak near USD 126,000.",
+      "hinglish_title": "Bitcoin Me Girawat, October Ke Baad Price Lagbhag 21% Fhisla",
+      "explanation": "Bitcoin lagbhag 21% girkar USD 62,000 ke neeche trade kar raha hai aur US spot ETF outflows ka samna kar raha hai. October me lagbhag USD 77,474 par rehne ke baad, 20 November ko ye kareeb USD 61,445 par aa gaya. WazirX ke mutabiq ye level iske 2025 ke peak USD 126,000 se 50% se zyada kam hai."
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Corporate bond issuers rush to raise funds before further rate hikes",
+      "link": "https://www.business-standard.com/industry/banking/corporate-bond-issuances-november-rbi-repo-rate-mpc-meeting-126112000867_1.html",
+      "published": "2026-11-20T11:55:14+00:00",
+      "rss_summary": "Corporate bond issuances crossed Rs 58,000 crore in November as major borrowers tapped the debt market ahead of an expected increase in interest rates at the RBI's December policy meeting.",
+      "hinglish_title": "Rate Hikes Ke Darr Se Corporate Bond Market Me ₹58,000 Crore Uthaye Gaye",
+      "explanation": "November me corporate bond issuances ₹58,000 crore ke paar nikal gaye hain. RBI ki December policy meeting me interest rates badhne ki sambhavna ke chalte companies ne debt market ka rukh kiya hai. Major borrowers mehenge karz se bachne ke liye pehle hi funds raise kar rahe hain."
     }
   ]
 }
