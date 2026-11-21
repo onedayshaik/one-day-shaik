@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-21T10:31:48.746533+00:00",
+  "updated": "2026-11-21T11:27:40.199702+00:00",
   "items": [
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Noel Tata's salvo sets stage for stormy Tata Sons board meet next week",
+      "link": "https://www.business-standard.com/companies/news/noel-tata-tata-sons-board-recording-chandrasekaran-reappointment-listing-126112100507_1.html",
+      "published": "2026-11-21T10:19:37+00:00",
+      "rss_summary": "In a Nov 20 letter, the Tata Trusts chairman challenged the minutes of the Sep 17 meeting, raised conflict-of-interest concerns and questioned Tata Sons' communication with the RBI on listing",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Economy",
       "source": "Business Standard Finance",
@@ -80,6 +90,16 @@
       "rss_summary": "Market weekly wrap: NIFTY50, SENSEX extend winning streak to 4 weeks with 3% gains; NIFTY Smallcap 100 underperforms &nbsp;&nbsp; Upstox",
       "hinglish_title": "Weekly Wrap: NIFTY50 aur SENSEX lagatar chauthe hafte badhe, Smallcap 100 piche chhoota",
       "explanation": "Is hafte share market me achhi tezi dekhne ko mili hai. NIFTY50 aur SENSEX ne 3% ki badhat ke sath lagatar chauthe hafte apni tezi barkarar rakhi. Dusri taraf, NIFTY Smallcap 100 ka performance thoda kamzor raha aur usne underperform kiya. Zyada details ke liye original report dekhein."
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "FIIs pump Rs 1,11,950 crore into Indian stock markets this month to date - SME Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbGtQVVJaN3lVa1lmRVdmSmJ0amtGZ1JuN1ZIZ2UwcjdfYzAwQkNFdFkzUktEWWpNWW1sUHNFbUZSVVluS2d2VmRBemp6WVRIV2hWbHpCNVB1UklGdERwZjNPVGpQTTVCTFYtYm1Ec1M4Y09XY3JBOE5Dc0Y5ejZjNzQwQWVJVGNabW53VjFRU3ZLWFplRUVFWkdPLUk?oc=5",
+      "published": "2026-11-21T04:47:20+00:00",
+      "rss_summary": "FIIs pump Rs 1,11,950 crore into Indian stock markets this month to date &nbsp;&nbsp; SME Times",
+      "hinglish_title": "",
+      "explanation": ""
     },
     {
       "category": "Economy",
@@ -380,26 +400,6 @@
       "rss_summary": "The healthcare-focused venture capital firm plans to launch its third fund between March and June 2027, with a focus on deep-tech startups, preventive medicine and innovation",
       "hinglish_title": "Alkemi Growth Capital 2027 Me Launch Karega $125-150 Million Ka Naya Fund",
       "explanation": "Healthcare venture capital firm Alkemi Growth Capital March se June 2027 ke beech apna teesra fund launch karne ki yojana bana rahi hai. Is fund ka target size $125-150 million hoga. Is fund ka main focus deep-tech startups, preventive medicine aur innovation par rahega."
-    },
-    {
-      "category": "Economy",
-      "source": "Business Standard Finance",
-      "title": "RBI clarifies ₹10 lakh EDF threshold applies to each inward remittance",
-      "link": "https://www.business-standard.com/finance/news/rbi-clarifies-10-lakh-edf-threshold-applies-to-each-inward-remittance-126112000851_1.html",
-      "published": "2026-11-20T11:47:00+00:00",
-      "rss_summary": "The central bank says non-individual service exporters must file an Export Declaration Form only when an individual inward remittance exceeds ₹10 lakh, not on aggregate receipts",
-      "hinglish_title": "RBI Ka Niyam: ₹10 Lakh Se Zyada Ke Inward Remittance Par Hi Bharein EDF",
-      "explanation": "Reserve Bank of India ne service exporters ke liye inward remittance par clarification diya hai. Non-individual exporters ko Export Declaration Form tabhi bharna hoga jab single inward remittance ₹10 lakh se upar ho. Yeh limit aggregate receipts par nahi, balki har individual transaction par lagu hogi."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Today Highlights: BSE Sensex closes above 83,900, Nifty50 tops 25,800 - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPamhPcXNTTk00M2VXUjVwSXhMZjlrTE5Edk5PV2p3cEZzSlRvNlprTDdrV3BrcUIyS2NUMm1YdkFNX2FNM3lPcWdpMkdKQnA2WXZiMGl5UzhGQWd2SmJrY29qWHBNZ294Z2haZjlnWUNPeUNsTEctUUhUaTlSXzNLRktjM3ItTzZMNWo2X3VVRGdkZGtqY0JGWmlnckM0QWpOZzdKRHZsMTBnU2Zjb2ZWSHpIa2ZsX25ySk95bVVkLVdYU004RTBjWHBMVjJBOUlmN3BFRlNHdzA4aW4xZXZKNS1yeG1iZ2YyTTZjMHhEZWQ3bXJaTmE5N2xRZ0JGZ1poWmZnaG1KSjBVUFM3aDIxMGFPNFI4bGI5Z3htV0dpMUlmNUlHTVVoLU1nb1pLc01aZE16bDlR0gG7AkFVX3lxTFAtcEx6R01tVzdsVDVlSmVscnMtUHljT1lJRFRfSHNXcmpkRWx2UW1nOG1kRzdmdUJnN2ZqeWJueUtEdnJYQzZfZnR3T1UycGNzbXEzd1dhLXg4M0lDRGR5eWNWZS1WSTJPMkE0a3pPeDZQYTNrTmNFTWZIUjZvTXhyUFpXY1FXRG9EWWYtWVJGeXpqS3dROWhVTUk4RWxxR3o3ald1a3ZDWUQyTllKa1k1N1NNNlV5ZGFJNFVqa3ZlQVc1cXBGbVhJb1AxMkZLLVc4X1pUMmdURzdxUHMwYXpUTHFYSTdza202U2pib0lXSGxZclNTM09fb3VJeGJKR3dvNjVEZ1dZdFluR0xFQkplVmZJSG55aHh1QjQxaTJZUmtOelQtbTl2Q05ZdTZjSHR0QmlwNDh2UWhMZw?oc=5",
-      "published": "2026-11-20T11:41:53+00:00",
-      "rss_summary": "Stock Market Today Highlights: BSE Sensex closes above 83,900, Nifty50 tops 25,800 &nbsp;&nbsp; The Times of India",
-      "hinglish_title": "Market Highlights: Sensex 83,900 Ke Paar, Nifty 50 Bhi 25,800 Par Hua Band",
-      "explanation": "Stock market me zabardast rally ke baad BSE Sensex 83,900 ke upar band hua aur Nifty 25,800 ke paar pahuncha. Banking aur auto shares ne market rally ko lead kiya jisse indices me shandar tezi aayi. Rupee me bhi ek mahine ka sabse bada single-day gain dekha gaya."
     }
   ]
 }
