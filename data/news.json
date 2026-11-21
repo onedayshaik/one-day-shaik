@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:30:46.011459+00:00",
+  "updated": "2026-11-21T20:27:31.576621+00:00",
   "items": [
     {
       "category": "Economy",
@@ -332,6 +332,16 @@
       "explanation": "NSE Nifty 50 Friday ko 1.12% chadhkar 25,800.60 par band hua aur poore hafte me 2.61% badha. Sensex Friday ko 1.08% tezi ke sath 83,919.71 par close hua. Poore hafte ke dauran Sensex me kul 2.85% ka munafa darj kiya gaya."
     },
     {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Markets gain 2.6% on FPI inflows, rupee rally and cooling crude oil prices - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSktmSjNaMEFCRGluQXh5d0Vwelc4WlRWTGxUX0gxeTdYZ2RMak9jWWJUMTlZQ3JIbndfZDVaa0FHNGhwZG9SaElBZURXcDlLaHBxTkhHMEhtSHlZRVNuX0xKQWwwSmFid2tVczhFdl9pMGNISkR2UnMtTl9GUWhROUQ4S3YtYTZUek5jalo5QU5Da09PODZIY2ExYlZOQjdnU2I4elVtZnRIZ2RvNHZpOVE4UlYzaklkZHN4RVp2Nk5PS0VQZEtObjhFcXlHbkpjNF9RNGNR0gHbAUFVX3lxTE1VOENVNy1sVGptdDNOaldpanYxNkpndmQ2Q3RNVnVmcy1NVkNGdDFpRHlTN1o1MnM3RVI1VUg3Q3hlWnIzLTVhdFhMY29UZ2xSZFZ4bnlWZGItNERZdEhyUnpLd05tSnBvLXB3bmRmY3EwZmY0YTV3OWRxUjctb2s1dFlQZW1SeWNhcFJzYUZtbDlSNVVxV1hyOEh1Vm1QNGEzVnJxYkJyblpFZXhVRGxhZ0xScFBDMWVjR19fUjFaVEFYMWtUZFR6ME1sX0VxNXRQdWZWRmcxYjN0bw?oc=5",
+      "published": "2026-11-20T13:54:39+00:00",
+      "rss_summary": "Markets gain 2.6% on FPI inflows, rupee rally and cooling crude oil prices &nbsp;&nbsp; Business Standard",
+      "hinglish_title": "Markets Me 2.6% Ka Uchhal, FPI Inflow Aur Kacche Tel Me Rahat",
+      "explanation": "FPI inflows badhne, Rupee me mazbooti aur crude oil prices me girawat se market 2.6% chadha hai. Market ko foreign investment aur cooling oil prices se support mila. Zyada details ke liye original report dekhein."
+    },
+    {
       "category": "Economy",
       "source": "Business Standard Finance",
       "title": "DFS Secy urges banks, NBFCs to collaborate on cyber security amid AI risks",
@@ -390,16 +400,6 @@
       "rss_summary": "Strong order inflows and revenue growth support Siemens' outlook, but commodity inflation, forex volatility and weak segment margins could weigh on profitability in the near term.",
       "hinglish_title": "",
       "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Tata Trusts meet 'routine', ahead of likely faceoff at Tata Sons board",
-      "link": "https://www.business-standard.com/companies/news/tata-trusts-meet-routine-ahead-of-likely-faceoff-at-tata-sons-board-126112000966_1.html",
-      "published": "2026-11-20T12:40:31+00:00",
-      "rss_summary": "Sir Dorabji Tata Trust approved philanthropic grants, including ₹50 crore for Jehangir Hospital, but kept Tata Sons' proposed listing and restructuring plans off its agenda.",
-      "hinglish_title": "Sir Dorabji Tata Trust Ki Baithak Me Jehangir Hospital Ko Mile ₹50 Crore",
-      "explanation": "Sir Dorabji Tata Trust ki routine meeting me philanthropic grants ko manzoori di gayi. Isme Pune ke Jehangir Hospital ke liye ₹50 crore ka grant shamil hai. Tata Sons ke proposed listing aur restructuring jaise muddo ko is meeting ke agenda se bahar rakha gaya."
     }
   ]
 }
