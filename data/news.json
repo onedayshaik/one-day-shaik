@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T23:21:04.376868+00:00",
+  "updated": "2026-11-22T00:06:06.645547+00:00",
   "items": [
     {
       "category": "Economy",
@@ -30,16 +30,6 @@
       "rss_summary": "The RBI Governor said his appeal was based on the gains achieved through banks' efforts to extend services to rural communities and economically weaker sections",
       "hinglish_title": "Chhote Businesses Loans Se 100 Guna Zyada Asar Dikha Sakte Hain: RBI Chief",
       "explanation": "RBI Governor ne kaha hai ki chhote businesses ko diye gaye loans se 100 guna zyada asar dekhne ko mil sakta hai. Unka kehna hai ki ye appeal banks dwara rural communities aur kamzor vargo tak pahunchai gayi services ke faydon par aadharit hai. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Economy",
-      "source": "Google News India Economy",
-      "title": "SMC Global Securities Currency Derivatives: Indian Authorisation, KYC, Costs, Settlement and Tax - TaxGuru",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFFGSW5hSWRWRVh5T0NYbXhwYmlnbHdVRzREZ3FlZjRRTW5FazRZLVIwSUhwLW9SbEhkUC0tZ2NEamVHUk1relFVakNQRERTZ2RycXZjcDlEVktYYTlLcUx1VkQ4WGlxenFTUER6QUdmZjZUWHBjbXItZk1BdWFOVDFZbGE4WmQ3OXhkZy1iQkJodnFTcnFKbVluNkE2cjFicHJ0Smd0VklOQzFRbUFwLThGSjZtdGNNTEoxdQ?oc=5",
-      "published": "2026-11-21T17:19:12+00:00",
-      "rss_summary": "SMC Global Securities Currency Derivatives: Indian Authorisation, KYC, Costs, Settlement and Tax &nbsp;&nbsp; TaxGuru",
-      "hinglish_title": "",
-      "explanation": ""
     },
     {
       "category": "Companies",
@@ -400,6 +390,16 @@
       "rss_summary": "The All India Gem and Jewellery Domestic Council (GJC) on Friday said it alerted the Bureau of Indian Standards (BIS) about reports of the alleged use of Rhenium- and Iridium-based alloys to increase gold's weight, and urged the industry and consumers to remain vigilant. \"While there have been media reports from certain quarters regarding the possible misuse of materials such as Rhenium and Iridium in gold, we want to assure the entire jewellery industry and all gold buyers that there is absolutely no reason to panic. The Bureau of Indian Standards is treating the matter with utmost seriousness,\" GJC Chairman Rajesh Rokde said in a statement. According to media reports, Rhenium- and Iridium-based alloys were allegedly used to increase gold's weight without a corresponding increase in purity. GJC appealed to all jewellers and consumers to immediately report any instance of suspected adulteration, fraudulent activity or malpractice. \"Such complaints can be lodged with GJC as well as",
       "hinglish_title": "Sone Me Milawat Ko Lekar GJC Ne BIS Ko Kiya Alert",
       "explanation": "All India Gem and Jewellery Domestic Council ne BIS ko gold me Rhenium aur Iridium alloys milane ki reports par alert kiya hai. Is tarike se sone ki purity badhaye bina sirf uska wazan badhane ka arop hai. GJC ne industry aur buyers ko satark rehne aur kisi bhi shaqi mamle ki complaint darj karne ko kaha hai."
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Margins to remain under pressure for Siemens in near term amid volatility",
+      "link": "https://www.business-standard.com/markets/news/margins-to-remain-under-pressure-for-siemens-in-near-term-amid-volatility-126112000992_1.html",
+      "published": "2026-11-20T13:03:37+00:00",
+      "rss_summary": "Strong order inflows and revenue growth support Siemens' outlook, but commodity inflation, forex volatility and weak segment margins could weigh on profitability in the near term.",
+      "hinglish_title": "Siemens Ke Margins Par Rehega Dabaav, Inflation Aur Forex Volatility Bani Wajah",
+      "explanation": "Strong order inflows aur revenue growth ke chalte Siemens ka outlook mazboot bana hua hai. Lekin commodity inflation, forex volatility aur weak segment margins ki wajah se nazdeeki samay mein company ki profitability par asar pad sakta hai. Inhi wajahon se short term mein margins par dabaav rehne ki sambhavna hai."
     }
   ]
 }
