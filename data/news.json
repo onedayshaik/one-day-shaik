@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T19:24:40.128351+00:00",
+  "updated": "2026-11-22T20:16:38.085823+00:00",
   "items": [
     {
       "category": "Companies",
@@ -382,16 +382,6 @@
       "explanation": ""
     },
     {
-      "category": "Economy",
-      "source": "Google News India Economy",
-      "title": "RBI simplifies foreign payment rules for freelancers: Who is exempt from export declaration filing? - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcko2bzlrNS02QWxDOGhRUGNBeWpYV2lTM0dSQUs5VmFYUHBxRGFqZ09QZTVWRTM5UUtzeGw4VHFMR2dwa05wa3BURmlzWU01bG81cFFYTklBZU5jS2RnTEY2QXJhNWtFQnhsaGxIdFJlNmdkS2dEaGJWajcyRW9uSG9OSFZEYkhaZ2IzNkROUy1FcGxmMUUyX1BCLUtIQjVCTWg2Q2JzanNuYU4ya05RVHVfYTlfdTRYYU5ZazVwMVhJMnhRanZiWFN6czU0ZEJOMFloY1RublVPUjMzbV9HaEEtdk8tUW1mUWgyakVnTXJaRU4xMC1qLdIB_gFBVV95cUxPckg0VzVRN2NBazE1cjUxclYzbkVsdVp5RTdGa0xVdXo4QnBEWXBDdmxtNTE2SEJJcnQxbThJY29QaXJrN0xaaHJ3bE1RN1FsTjctd2R3U19wX0N1QmM0U05RWDVoUzdWZ3ZJd3MzUVFYRTFSSFBCM2NBY1ZwSVdYRnF1OVZWaXRPYVZweE8yM1hVTlFBV0lnUGU4ZWZtcVFOMGR6WFhXenh2cEJsNnhQLUxDTk5oNUo3RTc2WGctdmhTNld6TDhwTGUyNXhyZzZIRzE5YXVJRVQ1TkF0TEF2SWpfQW5jSERuc21GYlhjOUpVUVQyU0p4YXRpc1VGQQ?oc=5",
-      "published": "2026-11-21T01:40:03+00:00",
-      "rss_summary": "RBI simplifies foreign payment rules for freelancers: Who is exempt from export declaration filing? &nbsp;&nbsp; Business Today",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Markets",
       "source": "Google News India Markets",
       "title": "Indian Stocks Rally as Sensex Surges Nearly 900 Points, Nifty Closes Above 25,800 - INDIA New England News",
@@ -400,6 +390,16 @@
       "rss_summary": "Indian Stocks Rally as Sensex Surges Nearly 900 Points, Nifty Closes Above 25,800 &nbsp;&nbsp; INDIA New England News",
       "hinglish_title": "Indian Stocks Me Zabardast Tezi, Sensex Kareeb 900 Points Chadha",
       "explanation": "Indian stock market me shandar tezi dekhne ko mili hai. Sensex kareeb 900 points chadh gaya aur Nifty 25,800 ke upar band hua hai. Zyada details ke liye original report dekhein."
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "IndusInd Bank invokes clawback provisions against Kathpalia from 2020",
+      "link": "https://www.business-standard.com/companies/people/indusind-bank-invokes-clawback-provisions-against-kathpalia-from-2020-126112001445_1.html",
+      "published": "2026-11-20T17:53:25+00:00",
+      "rss_summary": "The bank's board has terminated Sumant Kathpalia's employment with immediate effect and invoked malus and clawback provisions following an enquiry into accounting discrepancies",
+      "hinglish_title": "IndusInd Bank Ne Sumant Kathpalia Par Lagaya Clawback Niyam",
+      "explanation": "IndusInd Bank ke board ne Sumant Kathpalia ki job turant prabhav se khatam kar di hai. Accounting discrepancies ki enquiry ke baad bank ne malus aur clawback provisions lagaye hain. Ye niyam saal 2020 se lagu kiye gaye hain."
     }
   ]
 }
