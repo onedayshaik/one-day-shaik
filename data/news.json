@@ -1,13 +1,73 @@
 {
-  "updated": "2026-11-23T13:05:51.862320+00:00",
+  "updated": "2026-11-23T14:32:14.856090+00:00",
   "items": [
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Sebi asks market players to stop publishing grey market premiums for IPOs",
+      "link": "https://www.business-standard.com/markets/news/sebi-asks-market-players-to-stop-publishing-grey-market-premiums-for-ipos-126112301145_1.html",
+      "published": "2026-11-23T14:11:28+00:00",
+      "rss_summary": "Regulator cautions investors against treating unofficial grey market premiums as indicators of IPO listing prices or returns, warning that such transactions lack protection.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR2NzQkc5LXB3TzFwb1N0X2ZxcWdYSjhZT3hIVDBLMVVqeVVGb1dnNUdpRzR2OHA4T0VNWTdPbE9UOWNBcC1pTjUtNHpnMzhteW1WY1VZcUIwRlhOLWJWTGtsR3dZcEF6VmdXbjhJUzVpbXloOFNiTEt5bkNVQmp3a2JrWkJVMklqSG1HOHI1QjNZdzdLVkhHWWIwTk12WlZCc0FfbDRpMVRTSEJWYzRvTUNiUVNiQldFaEp3dW40TFU0dlFXb3I1MGtodTVGNWZ0Z2Z2dWJ4dXJva0V4MVJsYl95Mk11dlI4eE9DaGdiYw?oc=5",
+      "published": "2026-11-23T14:09:14+00:00",
+      "rss_summary": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling &nbsp;&nbsp; Equitymaster",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Nvidia reinstates Jensen Huang as CEO, board director with immediate effect",
+      "link": "https://www.business-standard.com/companies/news/nvidia-reinstates-jensen-huang-as-ceo-board-director-with-immediate-effect-126112301137_1.html",
+      "published": "2026-11-23T14:08:41+00:00",
+      "rss_summary": "Nvidia shares surged on the news, jumping more ‌than 25% in premarket ​trading",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Rupee snaps five-day winning streak amid strong corporate dollar demand",
+      "link": "https://www.business-standard.com/finance/news/rupee-snaps-five-day-winning-streak-amid-strong-corporate-dollar-demand-126112301109_1.html",
+      "published": "2026-11-23T13:50:32+00:00",
+      "rss_summary": "The rupee settled at 92.91 per dollar as importer demand erased early gains, while foreign equity inflows and RBI intervention remained key factors shaping the currency's outlook.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "RBI proposes greater customer control over digital payments to curb fraud",
+      "link": "https://www.business-standard.com/finance/news/rbi-proposes-greater-customer-control-over-digital-payments-to-curb-fraud-126112301054_1.html",
+      "published": "2026-11-23T13:21:25+00:00",
+      "rss_summary": "Draft norms propose customer-set transaction limits, a Stop Switch to block outward debits and trusted-person authentication for high-value transfers to prevent digital fraud",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Economy",
       "source": "Google News India Economy",
-      "title": "MoSPI briefs data users on new series of GDP, CPI and IIP - MorungExpress",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXVsdXlvd1QwQzMzOS1tXzE2aVN3ZXJBWnhyNkR4OXhlWV83UktpVnVsa1JhOGVUOVlWeW8tdk5jLUUxeG9Tek9Id0tOUXFDZVNiNmpvRmNjaUI4QUN2NmVwWXZNSjJjY3JqYVlPWGlFLXJSVE9lSGhFS3ZWb29Hd0JMNmdnMGFkSXJlSEJUdw?oc=5",
-      "published": "2026-11-23T12:59:52+00:00",
-      "rss_summary": "MoSPI briefs data users on new series of GDP, CPI and IIP &nbsp;&nbsp; MorungExpress",
+      "title": "MoSPI briefs data users on new series of GDP, CPI and IIP - Eastern Mirror",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkR4bzAwV0NoTXZzTlIteHN0aVNuUlFBWGF4dHJMSWNmRkYtRUl2UVJPR0szRkpERFdnd28tTEZHd0szM1hWZUVkR05PcWJ1cGcwTjZvSlR5MXVrZVo2Mk1felhTU1dSc2cyc3Y0WGVwZnBOd0p1WHVtU1BkdGtIanZvZk5iQzFTZHRZaUR4ZzVKZDlGRV9MS21n?oc=5",
+      "published": "2026-11-23T13:17:41+00:00",
+      "rss_summary": "MoSPI briefs data users on new series of GDP, CPI and IIP &nbsp;&nbsp; Eastern Mirror",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Adani Airport Holdings raises nearly ₹2,790 crore from 360 ONE Asset",
+      "link": "https://www.business-standard.com/companies/news/adani-airport-holdings-to-sell-1-55-stake-to-360-one-for-2-790-cr-126112300937_1.html",
+      "published": "2026-11-23T13:00:20+00:00",
+      "rss_summary": "The latest $300 million investment from 360 ONE Asset takes AAHL's planned equity fundraising to $1.35 billion, supporting airport expansion and its target of doubling passenger capacity.",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -46,7 +106,7 @@
       "source": "Business Standard Companies",
       "title": "DRDO taps Pune startup olee.space to develop jam-proof drone laser links",
       "link": "https://www.business-standard.com/companies/start-ups/drdo-taps-pune-startup-olee-space-to-develop-jam-proof-drone-laser-links-126112300967_1.html",
-      "published": "2026-11-23T12:30:33+00:00",
+      "published": "2026-11-23T12:30:43+00:00",
       "rss_summary": "The contract to develop optical communication terminals comes after radio jamming in the Russia-Ukraine war forced drones to rely on fibre-optic tethers for secure communication",
       "hinglish_title": "",
       "explanation": ""
@@ -92,6 +152,16 @@
       "explanation": ""
     },
     {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock market holiday tomorrow Tuesday, 24 Nov: BSE, NSE open or closed for Guru Nanak Jayanti? Check exchange calendar - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRkNkRkI5WFprRzNWaGg5MDJDNHNlOGJtNGRhbnhpUUliUm9VWTFWWXhXdUh5TklMM1liWWZ4WVQyTy1HUzVDSndLaUlvMGNETFBURTNHQUdhM29GekF4bmRJbEZGN05MclFwNGtZc2tnZ3ZaSEw3VS05TGlaMjNTZGFfR2RwWGtkZGdoczVteUYtakFvaWhRbTVFcVBMUFR2c0ZHNlJXN2pMeUl3N0NjR3NZSXRHcXczZU9TWml4SlZ3QzJ1UE9PTUVac3BKcmxESWlTQTVoN0FqNG5hZFFLUVdub1RGaGNQZ3MxTjZvM0xfRjVoWXRWeWlHZDZSd05XUjhXV2duVnpPWmVqRDdCUFhB0gGXAkFVX3lxTFBLaEhQRHpFbU45VFJHdjdKWElZcG1mQzNrSkJWYWFUankydUljcjBhZVF0OFA0aUlhWjdCakk3bHp4ZXVCbmFzUmVhemEtcWVCT2Z3NWNMTEt5UnJVWGh5aXU1NE9BV0RmdTR3TXBkVnJCU2pGaFFtRWdQT0d4eTBocXNSeDVYaW95ejc0TU1lQm1UZzhvbmhVV1Y1dDFrN3JHdU1qUFQ3QkU4eFhSY3BQZVJ2REltbGd1ODhqZVNYZXluUTRRSHpycTg2aEFRUnZaUzRNY1Aybmd1RE5URDZJTS1wWlFZTlVidnN0al9xekdpUloyU1hHejhWZE4wTXB2eHo1Q0M5YVU4T3NBTFF1T2lrZjBfcw?oc=5",
+      "published": "2026-11-23T12:04:04+00:00",
+      "rss_summary": "Stock market holiday tomorrow Tuesday, 24 Nov: BSE, NSE open or closed for Guru Nanak Jayanti? Check exchange calendar &nbsp;&nbsp; Livemint",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Flipkart doubles EV fleet to 42,000 in a year on quick commerce growth",
@@ -108,6 +178,26 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWks5WDVwWE9ULWNmYVItRHFralBSMTNFeEFBWXlTaFNBWnUxVkxPQnVQUTgzTlVEOE5hSzF5OUhTR1ozblZIUndqZXRCcWxJN05nd1NocTZmMVFKZGZ3emRkSXoteTlrMVB3b2FWNUpkRkc0VTRPcUZnc05ZV1o0VnR0QUdXWGJPcl8zYlBJQ1cyT2VaX19GNmZkNVpiMmxSb09hdC1hcUcwLWNMLUhQZl9rblZBX01H?oc=5",
       "published": "2026-11-23T11:50:04+00:00",
       "rss_summary": "Sensex sheds 1,484 points, Nifty drops below 25,400 amid heavy selling in banking, metal stocks &nbsp;&nbsp; DD News",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex plunges 1,484 points, ₹6.39 lakh-crore wiped out - DhanamOnline",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb3FHaXo5RnRzTHB0bDBjMHBaVl9VeDJuUHlXU2hTQTgwWVBVRC1iWUtzQkl1bkYyOHoycUVlalBmMEt2SFdXR1pGREFoT0YwdUV3N21uQTNOT2tkb1VKTXNKcjNGdXlsejBFVXUwSVNHQVktZWtYd090SnVSVS0wX0FuWjZITVg5LTA1RkhsOG9rcXVZTmRjUEtSWF9FYkpZR25RRF9yeEtoUdIBtwFBVV95cUxOMVpkTnFNZ1pqSkdfYmkzekFUQm1BTF9QVm1GOFZDNEdlRThBVWs1Q0dTWnQzZnBsanJYNGoxUUV0Yng5a1NocUJGbDFZMEFmeF96MGJOZGwyRU5YNFExWGk0TENOeTkzZktUSW5Eaks1WjVyV0luWkpYLURWRGZPM05YWl84Skp3dDZHR0hiWUNrZHdiaU5CcVdnV3FtdGlsMzRuNlFXcmdCNXR5TkVXdVZlUkRBM1E?oc=5",
+      "published": "2026-11-23T11:38:43+00:00",
+      "rss_summary": "Sensex plunges 1,484 points, ₹6.39 lakh-crore wiped out &nbsp;&nbsp; DhanamOnline",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Market Highlights: Sensex Crashes 1,484 Points, Nifty 50 Ends Below 25,350 As Banks, Metals Bleed; Tata Steel Top Loser - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTFowWHhQRENndnV1dGJVYmVPaFJFZVlCU3Q5SGhWNnEydHhFbUxNYjBqTHpfSmhMdGQtc2VGdTRqd2otRW4xcnJlQnNKNTVMMzBoeFpzdHphanVJeGFMN1MyZ01rTzdTZExEWWdxNGd3dzI4aHBtQlhOV3dJM0duZjd5M3NHQW03TGxxZ0ZyTl9ramFGOHgxVnRfam1wbUdEaEJQd1Y0S1FlYklPRHQtRDJSQjEwaFpnMXBKRFZuVHVGRVRySzJWSW9BZmFGSWxPX2FNOTlmV2liWmZ3LWJ5VWJaN1Z0UWNiN29LSGxUQUpWdzhBREk3M3ZR0gGCAkFVX3lxTE5OQTZ1MUlnZ3dBb01MX2hYdGV1VFZuU0dIOWZXZUQ2T1NwMUxRejl3NDNHVUIzUzQtZVdYVkRkREpmRnhpZGY5bGVzcnFoTnBkTEhBanlGTmdBRERZNk5WNndJOVdpb1VJNWZQdWcwMkZrLWcteFBwTlpURmVqbWdBdi04emx5UTM4WjIzTDhEay1udWVJUUJFdXpNOGRJYTlmQjd5eEtFd01BaW54R3JqSEx0OVB0MFlXWjZMeF9yOXdPZkdLUmk0eURscTlYN0RHSC1aa2hBSThpWXJTanBleEdFaF9iUW1KSFU5amFpbVA0RzRHSnlsSTY1cHdnblZ6Zw?oc=5",
+      "published": "2026-11-23T11:36:46+00:00",
+      "rss_summary": "Market Highlights: Sensex Crashes 1,484 Points, Nifty 50 Ends Below 25,350 As Banks, Metals Bleed; Tata Steel Top Loser &nbsp;&nbsp; NDTV Profit",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -254,30 +344,10 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR2NzQkc5LXB3TzFwb1N0X2ZxcWdYSjhZT3hIVDBLMVVqeVVGb1dnNUdpRzR2OHA4T0VNWTdPbE9UOWNBcC1pTjUtNHpnMzhteW1WY1VZcUIwRlhOLWJWTGtsR3dZcEF6VmdXbjhJUzVpbXloOFNiTEt5bkNVQmp3a2JrWkJVMklqSG1HOHI1QjNZdzdLVkhHWWIwTk12WlZCc0FfbDRpMVRTSEJWYzRvTUNiUVNiQldFaEp3dW40TFU0dlFXb3I1MGtodTVGNWZ0Z2Z2dWJ4dXJva0V4MVJsYl95Mk11dlI4eE9DaGdiYw?oc=5",
-      "published": "2026-11-23T10:38:33+00:00",
-      "rss_summary": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling &nbsp;&nbsp; Equitymaster",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
       "title": "Sensex and Nifty Retreat Amid Broad Sector Weakness; Metal Sector Leads Losses - MarketsMojo",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQam40Z0s5UmYxcUFJMks3bkphNjkwVGhRT3h2anllTkU1MFg0ekpEMmducE85QWlyd0piZmRSbHktZmlQdEN3WGlPR2Z1dG42OU9oWV9jOXJtM1h5U1FYR3p0X01QWENOdnUxN3k3Rk5SVkNnc2ZaRGxzc1A4Wko0VkN0ZXlfTHdXUXcwTTE3YnEyWmdGMDRNZjczbVJyWlZyX2lHQ2h1N01yNVQ3enR4Y1VmejJ1TE5POWNPbWswV0pOZDZoc1QtZDF5U3E0RXJTREE?oc=5",
       "published": "2026-11-23T10:33:01+00:00",
       "rss_summary": "Sensex and Nifty Retreat Amid Broad Sector Weakness; Metal Sector Leads Losses &nbsp;&nbsp; MarketsMojo",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex tumbled nearly 1,500 points: Why stock market fell today? - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSTl1RjdHZ0VJbzQwYjZpZkJYMzFvOVlFZm9hbXdyN19XQTA5N3NmRmhlQzR1aEF4TklrMVdHX2tvd3QyU3IyckVBaEhvUHBoUGxPU0V4WWJNTWVmTEFodExYSjRIeUVWTC1Gc2VlOERZSEJqNnhXRnZyQk14NGpkNDZrWjhLWTNibk9OYUtLcEw5aVRWTDktd3JHN3hHZTRBYklVeE1CTGlCaC1DangyTGRtVWJ3Q3I1b2JhM08yWThXZ3ZaOG10Y25BWFFQM0hRMlRUQmFGRXJLTmVzUlo2cHdtYm1uWEnSAewBQVVfeXFMTjlNQkJtMHN2TVFzdHQzQkpycWFWTjduUzlVelJSOXZMTWZ4LWI5cXZibkVLNlRzeWVNQ21wTDdMZkdvb0J6SGw3czB6bEtpcXJQVnZILVYwSGMyZHdMNnRwVmotV3U5S0ZaTGlzY1FFa3Jmb3Fxa3luajExVGJMSE05NkNnRDhFUUNYb3RLdkRrbElYYmk3TmQxdlVYQ2c3YkNIVDlpTzNfalhyLWlMMWt3WWtzaE80UFJxb2V1VXFCZ2M1RExKeUMxLWdBVVdaYldISzdpZXRtT2hpeTJOWkU0T2NzeTBXUHF4RFM?oc=5",
-      "published": "2026-11-23T10:29:33+00:00",
-      "rss_summary": "Sensex tumbled nearly 1,500 points: Why stock market fell today? &nbsp;&nbsp; India Today",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -304,20 +374,10 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "News by CNBC TV18 on TradingView, 2026-11-23 — cnbctv:43d687d89094b:0 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hRjNqY0MyeFY3QXZQODNkdnhTd2laa0Q2c0hHb2xGcjhWMzRMSTE4UDJpSDhnVHBJVklrcktHZkJaSnFkaE5pbVIxbk5DeUZwNWp4VXNFd1V0M1dBckduOVh2aTc3Mnc?oc=5",
+      "title": "Stock Market Crash: Over ₹5 lakh crore investor wealth wiped out as Nifty falls 435 points; Here’s why - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX3RKNl9RR05oaG95UExpYWxJQkNFalp5dDBfSnNMc1d1MEVFdXVzb09aQzg2bmdKQ284TXNfZnZjVDdnVXRVaXNWNWRLS050SFFhRmNEODFCbnNubmVQdk96bjJvc1ZSZVpDd3U1SEZsS05vNzEzeEE1MFZ5eWlZOHNST1R3X1VlT0xlMVliMkNoN0NFVjNDNkpWaDBUU253eVZDQnA5SFc3MkNBaXItQXFYMThaVTBVUDhLajlpUEg0YVYtS2dhcjBJdk81SS1Eb1Q1Q0JEONIB3AFBVV95cUxNS3hmWHQtVnBwU3htNENuNEZsWmV2X3I0QXNzZVU1R3pVSEs4MGMxOV93WF9Cb2w3dFBtdHlQalNPNWFfdnREaHVpZUxQU1hReDJpckNPZ1ozaTJ1YU0zVXBfN3BkR1R6aVlYd3JXQnE1WlV3YjZNSFpFY19TSmN4X185Ym9RX3p6NU05ak1sRjh1RHJqektycUp0MGpURWpIVFAzSFVzb0oyOWdQaFhkVEFkUzVSeWRRdHJkY0NUME1iRnc5NTdNMjRjWV9RbHNaU1pyeDBVN3BiUkNZ?oc=5",
       "published": "2026-11-23T10:10:02+00:00",
-      "rss_summary": "News by CNBC TV18 on TradingView, 2026-11-23 — cnbctv:43d687d89094b:0 &nbsp;&nbsp; TradingView",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex settles 2,200 pts lower from day's high, Nifty closes below 25,350: Three key reasons behind... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRFRXcmptRWprS2FlamlpelBIblhtWlRhQjZkaHpkSllxVzlDTlBnUldpUnIwa3psakd5YXlaV0hLelZoNnZvclF2TnhGOGlYaUszQWU4aGZEMzhsckdaZGN4V2RBTXdMQ1d2amNTdVZvaU9PM1RsMFVWOW9OR01IOVZzUjZaTmpDdl9BcXh0azk2SkptQWFybmxyOFA2TDJUUDNoaUI2ZXJQYTBrTVVTQkpNUGRIbXltYUdJeXF6ak4ycWNnTDNoeXhlRVFyU3YyNlFlc3BoWXJ2NG95cE11cDh0d2FlOVdXS2FVTzFaSks5NWdYeGZzYldPR05hUEIwN25CUkNWc9IBjAJBVV95cUxQNks1SmJJd3hkaGNNNTlTaWJDUjB6TG9MNkF2YWE5MlNlTUFSZlhBUDBaWmg0NXJ1ZmxubVNWZFljdTFFWUQ4c1pGZUctX2NMZk9Sd2Q0UW5qcllQZmpPSmRXdjUyN3ZtejFwZXg0TWg3Y29qckhCYXlsb3duUHFvWnEwTW9fX2dGLTgyTE90QjVxZlpwSThBZ3BDMlVub0pSQklhdkp0b0QtdVZHSmRHQWFMMDViSmdBOU85ZFhTelhqQ1JFOWllOTZVcUotY2t2dTREaUJpaGRQS29yd0VCakVZN21jVlRPUXRvYllaSDhVcDF3UUxlclNWZ1lmd2F3aEEyM2kzdV9DSlZR?oc=5",
-      "published": "2026-11-23T10:08:48+00:00",
-      "rss_summary": "Sensex settles 2,200 pts lower from day's high, Nifty closes below 25,350: Three key reasons behind... &nbsp;&nbsp; Moneycontrol.com",
+      "rss_summary": "Stock Market Crash: Over ₹5 lakh crore investor wealth wiped out as Nifty falls 435 points; Here’s why &nbsp;&nbsp; CNBC TV18",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -338,66 +398,6 @@
       "link": "https://www.business-standard.com/markets/news/ratnaveer-precision-surges-10-on-huge-volume-zooms-215-thus-far-in-fy27-126112300644_1.html",
       "published": "2026-11-23T09:51:57+00:00",
       "rss_summary": "Ratnaveer Precision said it secured long term supply agreements and orders for nearly 50% of planned copper clad laminate (CCL) capacity.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Economy",
-      "source": "Business Standard Finance",
-      "title": "RBI plans to tap broker apps to boost retail trading in government bonds",
-      "link": "https://www.business-standard.com/finance/news/rbi-plans-to-tap-broker-apps-to-boost-retail-trading-in-government-bonds-126112300528_1.html",
-      "published": "2026-11-23T09:47:57+00:00",
-      "rss_summary": "The Reserve Bank of ​India's move is designed to broaden the investor base for the $2.3 trillion sovereign debt ‌market, which remains largely institutional",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Market Highlights: Sensex Crashes 1,484 Points, Nifty 50 Ends Below 25,350 As Banks, Metals Bleed; Tata Steel Top Loser - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTFowWHhQRENndnV1dGJVYmVPaFJFZVlCU3Q5SGhWNnEydHhFbUxNYjBqTHpfSmhMdGQtc2VGdTRqd2otRW4xcnJlQnNKNTVMMzBoeFpzdHphanVJeGFMN1MyZ01rTzdTZExEWWdxNGd3dzI4aHBtQlhOV3dJM0duZjd5M3NHQW03TGxxZ0ZyTl9ramFGOHgxVnRfam1wbUdEaEJQd1Y0S1FlYklPRHQtRDJSQjEwaFpnMXBKRFZuVHVGRVRySzJWSW9BZmFGSWxPX2FNOTlmV2liWmZ3LWJ5VWJaN1Z0UWNiN29LSGxUQUpWdzhBREk3M3ZR0gGCAkFVX3lxTE5OQTZ1MUlnZ3dBb01MX2hYdGV1VFZuU0dIOWZXZUQ2T1NwMUxRejl3NDNHVUIzUzQtZVdYVkRkREpmRnhpZGY5bGVzcnFoTnBkTEhBanlGTmdBRERZNk5WNndJOVdpb1VJNWZQdWcwMkZrLWcteFBwTlpURmVqbWdBdi04emx5UTM4WjIzTDhEay1udWVJUUJFdXpNOGRJYTlmQjd5eEtFd01BaW54R3JqSEx0OVB0MFlXWjZMeF9yOXdPZkdLUmk0eURscTlYN0RHSC1aa2hBSThpWXJTanBleEdFaF9iUW1KSFU5amFpbVA0RzRHSnlsSTY1cHdnblZ6Zw?oc=5",
-      "published": "2026-11-23T09:47:57+00:00",
-      "rss_summary": "Market Highlights: Sensex Crashes 1,484 Points, Nifty 50 Ends Below 25,350 As Banks, Metals Bleed; Tata Steel Top Loser &nbsp;&nbsp; NDTV Profit",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Milky Mist gains 5% on JM Financial's bullish call, up 140% from IPO price",
-      "link": "https://www.business-standard.com/markets/news/milky-mist-gains-5-on-jm-financial-s-bullish-call-up-140-from-ipo-price-126112300622_1.html",
-      "published": "2026-11-23T09:36:05+00:00",
-      "rss_summary": "The recently-listed stock has multiplied investors' wealth over a short span of time. Milk Mist's shares, which debuted in August this year, are up 142 per cent over the IPO price of ₹₹140 apiece.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Live: Markets snap 2-day rally amid expiry swings; Bank Nifty slips from record high | Closing Bell - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMGszQnV6MkJNc1Y5S2RmeHNySFhmdjRwSFlVMUJlOTg2VlhLX2lqZzVlZUh5SndwTXFlVGJZUUotQmdFbmZ4bVdfcHF2ajREdVNDS3ZqZnN6U21QaEh5WDhlbmJWUU1fdFRtNUhZS1VKaFhsSlBDWmRfSnEtekZ6QU82bHp6SldqOUVnTk9ITjF1ZW9vUlBrcWtrbHpJYVVzYW05cE43cGdZVklqQXFZV0lNaFctak1DTUQxeWk2OFo0VzRPRVNhZ3JnRTFVY3RYR0swcTByemdGSDRYcC1faUVHdmhHcDUxNHN6bDFVRXFtVTRjOWN0VXJOWUvSAYICQVVfeXFMUDRtcGVNY0pfc0IzaEN5dEh6MUJadVBXSDMtN2ZaNmJ4VVBFMlNLeEd4T0pLdU03Q0pweHpmUjU2NVAwTDlYbU41amxjUmFYM09TODZ1NGF6b0VqaWEwNGUycDFvSVp3NVV6NUhxUHZiNXZLNmhKbUpsUzZid0lsc0ZCdWpTWGtRQkQxekVrSXg1bFdyUXN6T0kxdjRXZ1N6Ym9EX3NjeExJbDdEUEtNODRyLVpsdF9VQkQ1Z201bkQ3TWNsZXF5RkpicWNsR3hXam9SeHN2RGZTR09HRTUtVW9YNWxuYTBvZ3VMaGJyWHRCLUlORTcyM0RHN1lRNDNUZEpn?oc=5",
-      "published": "2026-11-23T09:32:55+00:00",
-      "rss_summary": "Live: Markets snap 2-day rally amid expiry swings; Bank Nifty slips from record high | Closing Bell &nbsp;&nbsp; Moneycontrol.com",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Stocks at 52-week low: Tata Power, Cochin Shipyard, APL Apollo, Aadhar Hsg",
-      "link": "https://www.business-standard.com/markets/news/stocks-at-52-week-low-tata-power-cochin-shipyard-apl-apollo-aadhar-housing-126112300552_1.html",
-      "published": "2026-11-23T09:07:54+00:00",
-      "rss_summary": "APL Apollo Tubes crashed over 20%; Tata Power, Inox Wind and Cochin Shipyard declined 3-4%, hitting fresh 52-week lows in Monday's intraday deals on the BSE.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Dalmia Bharat pares losses to trade flat after ₹700-cr buyback announcement",
-      "link": "https://www.business-standard.com/markets/news/dalmia-bharat-pares-losses-to-trade-flat-after-700-cr-buyback-announcement-126112300559_1.html",
-      "published": "2026-11-23T09:01:19+00:00",
-      "rss_summary": "Dalmia Bharat, the country's fourth-largest cement maker, has announced a share buyback programme, worth ₹700 crore via open-market route.",
       "hinglish_title": "",
       "explanation": ""
     }
