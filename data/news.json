@@ -1,12 +1,32 @@
 {
-  "updated": "2026-11-24T14:28:48.350615+00:00",
+  "updated": "2026-11-24T15:37:59.305636+00:00",
   "items": [
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Axis Bank leads credit card additions in October as HDFC Bank slows",
+      "link": "https://www.business-standard.com/finance/news/axis-bank-leads-credit-card-additions-in-october-as-hdfc-bank-slows-126112401005_1.html",
+      "published": "2026-11-24T14:43:55+00:00",
+      "rss_summary": "Axis Bank added 281,705 cards during the month, while industry-wide additions crossed 1.4 million; HDFC Bank added just 52,478 cards, down sharply from September.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Tata Motors, Audi India raise vehicle prices following Maruti Suzuki's move",
+      "link": "https://www.business-standard.com/companies/news/tata-motors-audi-india-raise-vehicle-prices-following-maruti-suzuki-s-move-126112400984_1.html",
+      "published": "2026-11-24T14:27:47+00:00",
+      "rss_summary": "Tata Motors Passenger Vehicles will raise prices by an average of 0.5 per cent from December 1, while Audi India will increase prices by up to 2 per cent from January 1",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Sisley Paris expands India portfolio with skincare, eyes haircare entry",
       "link": "https://www.business-standard.com/companies/news/sisley-paris-expands-india-portfolio-with-skincare-eyes-haircare-entry-126112400976_1.html",
-      "published": "2026-11-24T14:16:54+00:00",
+      "published": "2026-11-24T14:16:14+00:00",
       "rss_summary": "The French luxury beauty brand has signed an exclusive partnership with Shoppers Stop's subsidiary and plans to introduce its haircare brand in India within the next 18 months.",
       "hinglish_title": "",
       "explanation": ""
@@ -38,6 +58,16 @@
       "link": "https://www.business-standard.com/finance/personal-finance/don-t-let-non-disclosure-of-information-sink-your-family-s-death-claim-126112400848_1.html",
       "published": "2026-11-24T12:49:52+00:00",
       "rss_summary": "Disclose existing policies and medical history, check the proposal form before signing, and get written proof of corrections made in the policy",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex Today Ends 417 Points Lower | Nifty Below 23,900 | ITC & Trent Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQXRPYkVZZXU0OU11VkRTLXVWYTMzVnRxYU1QZXU0bDNBMkQ3NzZBd1VGUExpMUh0LS1fZWJOT0dKcGV4SkNwLWVZMnFVN2hlbFZyM2JmcGtBZXlTSzV5TzVUQklMbk00ZUdDbEhYR3M0X0tvQm51TEdMNlIzOXFQdjc3eEdiRzJ3Vy1xVXJoa0JGTG1Rbk9yVi1tbUUxTWc5LXJnVTNyaHhfU1RNRjdGSC1wYXRCMXVGUnhUTnM3QmdPNU9fZ20wTGY5VUNBUQ?oc=5",
+      "published": "2026-11-24T11:57:32+00:00",
+      "rss_summary": "Sensex Today Ends 417 Points Lower | Nifty Below 23,900 | ITC & Trent Losers &nbsp;&nbsp; Equitymaster",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -78,16 +108,6 @@
       "link": "https://www.business-standard.com/industry/news/mp-developers-buys-iconic-pilot-theatre-in-chennai-plans-200-cr-project-126112400630_1.html",
       "published": "2026-11-24T10:44:19+00:00",
       "rss_summary": "MP Developers has acquired Chennai's iconic Pilot Theatre property in Royapettah to develop an ultra-luxury residential project featuring 45 homes starting at ₹2.99 crore",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex and Nifty Slip Sharply as Metal Sector Drags Market Down - MarketsMojo",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlZIbkdJdThUcFJ1Um8yXzQ1clBkellkZGpQWG9tM3h4emF2ckVIMmtCbWFGTW16b2JmVUlWNWtNR3J6akduZ1pjdVNzaGhWdmExSmh1VjBjLU5WcXdGOENvOFhDRHE2bjBHUGc1U2I4dGZIUkNOWm5KZGZJN09kVHk4ZFZPUEViZzV1dWlJSmFNejRFSmxHdkIyTy1OZzlzN0pLY1BmbmhBSmtYNWZnVW51bDV4b2MzYnNBZ2ZSaw?oc=5",
-      "published": "2026-11-24T10:31:46+00:00",
-      "rss_summary": "Sensex and Nifty Slip Sharply as Metal Sector Drags Market Down &nbsp;&nbsp; MarketsMojo",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -172,22 +192,22 @@
       "explanation": ""
     },
     {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex and Nifty Retreat Amid Broad Market Weakness; Metal Sector Leads Losses - MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0dwbTB4LVJTVGd2endkZWRYd3JMZHlYN2lGdXhITXEzZTRBbzV5UjU4WWx4MjZDanNkUC0xUFlISHdnTEw0M1U5djQ0UnJZaWdpQ1d3enBjMzd4Q2FvMkNTcnVMcGh5Z3k3UDUxU2tubUZVWDVlOWxjRUlTVW5MN0o0X1hON00xSVFjSTUzaXcwQzlhaEpQMTNfQnJESExlOHRWeWlRb2hjMmJzZnB6Nlo1dXZCRXhvdHozUVhUaTJzVVBvNWR6WGNGd05rdUt1Q1E?oc=5",
+      "published": "2026-11-24T08:56:12+00:00",
+      "rss_summary": "Sensex and Nifty Retreat Amid Broad Market Weakness; Metal Sector Leads Losses &nbsp;&nbsp; MarketsMojo",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Adani Group planning $120 bn in capex over next 5-6 years: Jefferies",
       "link": "https://www.business-standard.com/companies/news/adani-group-plans-120-billion-investment-over-next-5-6-years-jefferies-126112400462_1.html",
       "published": "2026-11-24T08:52:32+00:00",
       "rss_summary": "Adani Group plans to invest more than USD 120 billion over the next five to six years across infrastructure, energy and data centres while seeking to keep net debt below 3.5 times earnings (EBITDA), according to a Jefferies research note on the group's annual conference. The group is leaning on its financial record as it expands in power, ports, transmission and data centres. At its annual investor conference, the group said its net debt-to-EBITDA ratio had declined from a peak of around 3.6-3.8 times during 2019-23. Group Chief Financial Officer Jugeshinder Singh highlighted lower borrowing costs, improving asset returns and a diversified funding base as evidence of stronger financial resilience, according to a Jefferies research note on the event. However, Jefferies' forecasts for six listed Adani companies put their aggregate net debt-to-EBITDA ratio at 3.7 times in FY27 and FY28, before declining to 3.4 times in FY29 and 3.1 times in FY30. Including debt associated with the Ambu",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex and Nifty Retreat Amid Broad Market Weakness; Metal Sector Leads Losses - MarketsMojo",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0dwbTB4LVJTVGd2endkZWRYd3JMZHlYN2lGdXhITXEzZTRBbzV5UjU4WWx4MjZDanNkUC0xUFlISHdnTEw0M1U5djQ0UnJZaWdpQ1d3enBjMzd4Q2FvMkNTcnVMcGh5Z3k3UDUxU2tubUZVWDVlOWxjRUlTVW5MN0o0X1hON00xSVFjSTUzaXcwQzlhaEpQMTNfQnJESExlOHRWeWlRb2hjMmJzZnB6Nlo1dXZCRXhvdHozUVhUaTJzVVBvNWR6WGNGd05rdUt1Q1E?oc=5",
-      "published": "2026-11-24T08:32:23+00:00",
-      "rss_summary": "Sensex and Nifty Retreat Amid Broad Market Weakness; Metal Sector Leads Losses &nbsp;&nbsp; MarketsMojo",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -378,26 +398,6 @@
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWF9nM2JrbWx1dUhLTlM5ZnhrMk9INEJ2NVotcGF1X0gyYlRYNnlsSS14MFlBbWNkYjRfQ1lOLVdEU2hkakNyUDR6eWItZWFOM2tEVnRPMUYtWm9KcWVOaEFiRl9lS2tSdE5jZWxNenlDLWhDUHFxeVJnYUh6YlFKcXNqMXc5clpTdEpyZDJ3aXktSC1aZUpXUkxSZWxNNFJEUWswZXpnWlo5ZTVSZnFpUS1pWk44WTVBXzVzUTJPYlNzWHY5bGwzbFhQdUtkbzhvNnVuOFNySjlIc3hRd0QzSF9DTWFlNS03aUxFakJVSHFuMEF5dnIyNUd0anFMd9IBgwJBVV95cUxPUkZHS2w0dzNDRTlGNjhhcmtuVmUwNmpSdVU2STlqcE1hVTlGdXV1dXpITzJjNnpuLUg0cjBwbU1KZEtZWEl0MFFfeFh2cVZZcWI5NnM3QUp3d2V3ZEY1RFZkRWRITFRaNnFHTnEweHJFVjlOeEtaYS1jaHF2UU55MEZJczE0Z0ZjeG90M2xJU2wwa18tRUV5QkNPZWcwb2ROclhCTnUtN0xTcjhnRVpYQmVfZ0ZrVm91Mm1aM3dwVlRwNDgySi0xcE9jNndHTVlKci1lMlUxbmo5UFh6MlJjdm1iTVV0SloyeXJzUlhTMlIwelZ2cnVhNURaalVuVDVpb244?oc=5",
       "published": "2026-11-24T03:39:00+00:00",
       "rss_summary": "Stock market holiday today: Are BSE, NSE closed on November 24 for Guru Nanak Jayanti? &nbsp;&nbsp; The Times of India",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "No 9:15 AM opening bell today: What's keeping Dalal Street shut on Tuesday, November 24? - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEZiZE4wa1VoYkdQSXA4amVqbGVFaU5HaWd2V0pYd09nMDdJSU5WcVBWRGZqVTlpMFc3VElkVlpncUlPM21VUk55X0J2OXl5NXFYcGZLN3BpVWk1TVR6UTFaMXdGMGZoNDdyVTVzcnU4Zlg0blZpTnhrNUxHNi0yd0gwektEWkhHdS1ZaUEzYzVVYTN6UzE4a3BwVUJUY2twYVFsZ281azg5Y2hmZ2g2QVBMMklwUGdLZFBYSmgxckwxQU1neW1henRsTHluOU5TajZXbzEwLWJ2aXdmdDRvcw?oc=5",
-      "published": "2026-11-24T03:31:12+00:00",
-      "rss_summary": "No 9:15 AM opening bell today: What's keeping Dalal Street shut on Tuesday, November 24? &nbsp;&nbsp; Upstox",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Nvidia shares soar 31% as Jensen Huang's return sparks Wall Street rally",
-      "link": "https://www.business-standard.com/markets/news/nvidia-shares-soar-31-as-jensen-huang-s-return-sparks-wall-street-rally-126112400047_1.html",
-      "published": "2026-11-24T03:11:15+00:00",
-      "rss_summary": "Nvidia's rally lifted the Nasdaq 100 by 6.5% and the S&P 500 by 4.7%, while shorter-dated Treasury yields and the dollar climbed on bets of a more hawkish Fed",
       "hinglish_title": "",
       "explanation": ""
     }
