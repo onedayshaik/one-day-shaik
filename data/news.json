@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-24T13:04:32.122489+00:00",
+  "updated": "2026-11-24T14:28:48.350615+00:00",
   "items": [
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Sisley Paris expands India portfolio with skincare, eyes haircare entry",
+      "link": "https://www.business-standard.com/companies/news/sisley-paris-expands-india-portfolio-with-skincare-eyes-haircare-entry-126112400976_1.html",
+      "published": "2026-11-24T14:16:54+00:00",
+      "rss_summary": "The French luxury beauty brand has signed an exclusive partnership with Shoppers Stop's subsidiary and plans to introduce its haircare brand in India within the next 18 months.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Rupee gains despite dollar strength; SBI warns against sharp depreciation",
+      "link": "https://www.business-standard.com/finance/news/rupee-gains-despite-dollar-strength-sbi-warns-against-sharp-depreciation-126112400965_1.html",
+      "published": "2026-11-24T14:13:46+00:00",
+      "rss_summary": "SBI Research says excessive rupee depreciation could amplify economic shocks, while a 25 basis point rate hike by the RBI would be sufficient given the inflation outlook",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "FSSAI scrutiny limited to one Goa batch, now out of circulation: Bisleri",
+      "link": "https://www.business-standard.com/companies/news/fssai-scrutiny-limited-to-one-goa-batch-now-out-of-circulation-bisleri-126112400907_1.html",
+      "published": "2026-11-24T13:29:10+00:00",
+      "rss_summary": "Bisleri said FSSAI's action was limited to one batch manufactured in September 2025, which is no longer in circulation, and that subsequent bromate testing found levels within permissible limits.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Economy",
       "source": "Business Standard Finance",
@@ -166,7 +196,7 @@
       "source": "Business Standard Finance",
       "title": "Cashfree launches wallet that lets AI agents make payments for users",
       "link": "https://www.business-standard.com/finance/news/cashfree-wallet-ai-agents-payments-bill-payments-agentic-commerce-126112400451_1.html",
-      "published": "2026-11-24T08:25:10+00:00",
+      "published": "2026-11-24T08:25:28+00:00",
       "rss_summary": "Users can set budgets and spending rules for personal AI agents, which can currently use the prepaid wallet for bill payments without accessing underlying banking credentials",
       "hinglish_title": "",
       "explanation": ""
@@ -244,40 +274,10 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "NSE and BSE Holiday Notice: Trading Segments Closed on 24 November 2026, Markets Resume on 25 November - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZkRuQ21JWHI2c0RmLWFWLURkM0h3SWM2NzNmLUlMVURvR2FySUVNMFBJbUZRT1o2Q3hZVmR1Q1dNZVhzazByak1FdXZXaWFYQzd6czJ6V25XYk1XWF93T2tmcXhnd29ycHVYRFJsSmpodmh0c3V0VnJVejE3djBVY0FuNlV3bUNld2k3T2NMQUhzMWpUaWdyU3R3ZjZscUd5eWVaQTNYRl9jQmtTVHNMUUVHa2ViZGNjTi10Z1NQZTN4VUp4RnhLaThnUDhkV090WUZqVXVIR3REVGZrbldsQg?oc=5",
-      "published": "2026-11-24T06:38:00+00:00",
-      "rss_summary": "NSE and BSE Holiday Notice: Trading Segments Closed on 24 November 2026, Markets Resume on 25 November &nbsp;&nbsp; Kalkine Media",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
       "title": "FIIs Invest ₹5,672.99 Crore as 16-Session Buying Streak Continues Despite Sensex and Nifty Decline - Kotak Neo",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWEFCN1VkNFBaZjNLOHJuY05jY25kRDJaYWRDa0QwMkVlX3VRZXhJczdnRklOLWhlUlM3SEFTWjl0MkpHRXZzcmFzd0pUZjNUeVYxWGp5aEhRMW54RFVkbzlydXVzRGtrMWV0TWpiRUMwck1NckptUi02NUNYT1g1OE8xMmFZUk5heWMyS01kV1RMVk1uUmpDVmIwQ2YyNEs3VGQ5R0VrMmtaZ1NORGRuc1lCVW8xTmd1RXpFSHVqNXUyV1NCOW03QmNLSUg?oc=5",
       "published": "2026-11-24T06:37:20+00:00",
       "rss_summary": "FIIs Invest ₹5,672.99 Crore as 16-Session Buying Streak Continues Despite Sensex and Nifty Decline &nbsp;&nbsp; Kotak Neo",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex and Nifty Retreat Amid Broad-Based Sector Weakness; Metal Sector Leads Losses - MarketsMojo",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb3E2YTdBdml4MXVBRmZ6RTJqeUs3c1FqLWVyZEZ4SFVWeVNNNFpfaTN3Wm1EQmt0NDZYdC1uRXFGV0JUSlhaLUxCdTMzRmZSNlFSWlVNWHFvNVJsS2dMclVFMkNoLWtXQ0FkWU9vM3FMUDFaNG1JcnlaZkgxNW5sUjROZGkxQmcxQ3hKRW5IdHZ2SGZzRnRwSmlVSjZDYjlfcjZVeWNadG1TalM2TVc3bVpRaEs4TXlOby1vRllManEwUTR1NjJ2bW1HOWo5Zm12QXY3eWRxRXQxdw?oc=5",
-      "published": "2026-11-24T06:35:46+00:00",
-      "rss_summary": "Sensex and Nifty Retreat Amid Broad-Based Sector Weakness; Metal Sector Leads Losses &nbsp;&nbsp; MarketsMojo",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex and Nifty Slip Sharply as Metal Sector Drags Market Down - MarketsMojo",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlVmbldHVnBLQjVEalJLR3MzTmVtNW5YT1ZaZUx3MDg2bngyTHJPT2lHNUNwcVNtdmFSSmc5TGl2RTFOdFJlSGRqbGlSYjF6c1Npb2hDcUdPMXc0R3FvdWRLVWJMenVLNld6eEhwSk5fN1NVV2NiWXlYQXVXSVNHRkRVSWI2QzRDN0hHeXFkNlMzRE5LMEdsbnhxU0t3clNJeXAwQTZzSTdIb2dCOG42YWFWVHprVXYzZ09qM01idw?oc=5",
-      "published": "2026-11-24T05:50:40+00:00",
-      "rss_summary": "Sensex and Nifty Slip Sharply as Metal Sector Drags Market Down &nbsp;&nbsp; MarketsMojo",
       "hinglish_title": "",
       "explanation": ""
     },
