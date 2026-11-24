@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-24T10:52:11.118252+00:00",
+  "updated": "2026-11-24T11:53:10.117340+00:00",
   "items": [
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR2NzQkc5LXB3TzFwb1N0X2ZxcWdYSjhZT3hIVDBLMVVqeVVGb1dnNUdpRzR2OHA4T0VNWTdPbE9UOWNBcC1pTjUtNHpnMzhteW1WY1VZcUIwRlhOLWJWTGtsR3dZcEF6VmdXbjhJUzVpbXloOFNiTEt5bkNVQmp3a2JrWkJVMklqSG1HOHI1QjNZdzdLVkhHWWIwTk12WlZCc0FfbDRpMVRTSEJWYzRvTUNiUVNiQldFaEp3dW40TFU0dlFXb3I1MGtodTVGNWZ0Z2Z2dWJ4dXJva0V4MVJsYl95Mk11dlI4eE9DaGdiYw?oc=5",
+      "published": "2026-11-24T11:28:18+00:00",
+      "rss_summary": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling &nbsp;&nbsp; Equitymaster",
+      "hinglish_title": "Sensex 1,484 Points Toota, Nifty 25,350 Ke Neeche Aaya",
+      "explanation": "Indian stock markets mein bhari girawat aayi hai jisme Sensex 1,484 points gir gaya hai. Iske sath hi Nifty index 25,350 ke neeche chala gaya hai. Is girawat ke peeche 4 mukhya reasons bataye gaye hain. Zyada details ke liye original report dekhein."
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Ionic Wealth raises ₹177 crore from Angel One, Anil Kapoor and others",
+      "link": "https://www.business-standard.com/companies/news/ionic-wealth-raises-177-crore-from-angel-one-anil-kapoor-and-others-126112400658_1.html",
+      "published": "2026-11-24T11:03:21+00:00",
+      "rss_summary": "The wealth management firm plans to strengthen its global and technology capabilities, expand its ultra-high-net-worth client proposition and build a portfolio-led approach.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "IKEA India revenue rises 14% to ₹2,100 crore in FY26; eyes FY29 profit",
+      "link": "https://www.business-standard.com/companies/quarterly-results/ikea-india-revenue-rises-14-to-2-100-crore-in-fy26-eyes-fy29-profit-126112400653_1.html",
+      "published": "2026-11-24T10:59:12+00:00",
+      "rss_summary": "The Swedish furniture retailer plans to expand its network to 30 stores by FY30, with around 20 of them expected to be smaller city stores, while strengthening its ecommerce business",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "MP Developers buys iconic Pilot Theatre in Chennai, plans ₹200 cr project",
+      "link": "https://www.business-standard.com/industry/news/mp-developers-buys-iconic-pilot-theatre-in-chennai-plans-200-cr-project-126112400630_1.html",
+      "published": "2026-11-24T10:44:19+00:00",
+      "rss_summary": "MP Developers has acquired Chennai's iconic Pilot Theatre property in Royapettah to develop an ultra-luxury residential project featuring 45 homes starting at ₹2.99 crore",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Companies",
       "source": "Business Standard Companies",
@@ -113,16 +153,6 @@
     },
     {
       "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR2NzQkc5LXB3TzFwb1N0X2ZxcWdYSjhZT3hIVDBLMVVqeVVGb1dnNUdpRzR2OHA4T0VNWTdPbE9UOWNBcC1pTjUtNHpnMzhteW1WY1VZcUIwRlhOLWJWTGtsR3dZcEF6VmdXbjhJUzVpbXloOFNiTEt5bkNVQmp3a2JrWkJVMklqSG1HOHI1QjNZdzdLVkhHWWIwTk12WlZCc0FfbDRpMVRTSEJWYzRvTUNiUVNiQldFaEp3dW40TFU0dlFXb3I1MGtodTVGNWZ0Z2Z2dWJ4dXJva0V4MVJsYl95Mk11dlI4eE9DaGdiYw?oc=5",
-      "published": "2026-11-24T08:17:27+00:00",
-      "rss_summary": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling &nbsp;&nbsp; Equitymaster",
-      "hinglish_title": "Sensex 1,484 Points Toota, Nifty 25,350 Ke Neeche Aaya",
-      "explanation": "Indian stock markets mein bhari girawat aayi hai jisme Sensex 1,484 points gir gaya hai. Iske sath hi Nifty index 25,350 ke neeche chala gaya hai. Is girawat ke peeche 4 mukhya reasons bataye gaye hain. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Markets",
       "source": "Business Standard Markets",
       "title": "Investors become richer by ₹34.61 trillion as Sensex surges in November",
       "link": "https://www.business-standard.com/markets/news/investors-become-richer-by-34-61-trillion-as-sensex-surges-in-november-126112400402_1.html",
@@ -174,6 +204,16 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
+      "title": "Sensex and Nifty Retreat Amid Broad Market Weakness; Metal Sector Leads Losses - MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ3EwQmFGdGhHbnlFUFcxNHlpdXBieEpJRlBzcUlmNmltbTdDUlVUZkRoZTJIQ0ZQYm9TdTRhTzZSS3JpM1pQa0V5RnpUeTdWVkY2TVhFUFNBbzg1OXdQVlZMNmRQcDdmX2ZVb2NIX25meDl2VUMtNXJ0eE1odmxLaHcwQk9Sbnd2T015d1Ria29QNnBtbEpyUmg1anlVOUl0OXMwSThqYmxyblRLbE5Da0pwRnNXNVJrOC1NZ29uYzVxMmtJaW9jWDVCcXFMWWY2N1E?oc=5",
+      "published": "2026-11-24T07:30:57+00:00",
+      "rss_summary": "Sensex and Nifty Retreat Amid Broad Market Weakness; Metal Sector Leads Losses &nbsp;&nbsp; MarketsMojo",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
       "title": "Stock market holiday today: What to expect when markets reopen? - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcXk4bkY0WmpzUnpNS08wX015Z0l4cE02c3JoRThtc0g2V3dJS1JEVjkzSE00VndINDV5S3F1TjVRS2xoUHl6VjBIZ0prTlNITTMzVEIyNEdNTzdvNURlbGozdUwxXzFLcTNHWHFZNnRsVGd4Y2JWcENyYmZmdEFXTjRuOTB5X042OWNnYkM1cjJ3VTdlQjJsVTE2UFItVnM2TzhsVl9YeWIzTlZrd0RGbU10MDJBTUxJZ2VQRVRIV0x6a0JhQnZLZm9uUjUzNlNRTTdTZzBTUHlFOVhMS1IxaDhnb2pzZjVmczE3a0JRbGJsZ9IB-AFBVV95cUxNNF9BcXlIOHdvSnNKVXJtQTNMSDgwbDZnbkJ1RDhhbmQ4U21YelJodkJhNFBpaTBldzlkOUJIb1ZNUW5Db1V1OTNSRkdOTnRONlFBX0Nwa3FrUEY1OWhIX2k3RUpoODAtNFJydmdxdFBXbTUzOUZLQnBLVElVVmhfTW14b0NoeGNYSnZWMzYwMGUzQW83Y2hKLUk0MEpWdGVxWldnTTZWWHZuenU5eXlhNERJRlBwYXhHTTFMUFVLeUVjcXc4MWRzNmtQbWxIdFdtWkhjOUIyZEJFZE5yaUN6VVV6Zk82b1kxWWVzSkNYcHRrRjZUQ3E1Uw?oc=5",
       "published": "2026-11-24T07:11:39+00:00",
@@ -208,16 +248,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2xCV2l1QlFEbnFMdzJEU1YxQVFUQ1pPUG1Ja2FZbC1ST0tkT1FFOXl2V1Naa284QkRSZ3JwbUV3R21Vd0d2bjFCMjR6U1o2aVZEd1FoV2hIcDVFU3VDMS1idEtwRFVxU2tJdUYzZ3dZR1hRYXRrang2Q2l5R3p0cm5uUVNKeDltR2tnWDRXTVJCT0Y0Y1E?oc=5",
       "published": "2026-11-24T05:49:36+00:00",
       "rss_summary": "BSE, NSE closed today for Guru Nanak Jayanti stock market holiday &nbsp;&nbsp; FlipItMoney",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex and Nifty Retreat Amid Broad Market Weakness; Metal Sector Leads Losses - MarketsMojo",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFhfM2l4WDU0TFU0RDJidHVxb0lmMTZPSXlqaE5kZTh4NTQwMmt0YmhPY0tuZ0hmVnNjUTJ4Z19zMDRuUjN5NW55TW9yRkg3b0s4MHBteW9sNHFaVGFVcktxa3dFajJtU2dMdlpvY0EwZnZTUldqd2JXdExNMXc2NFpIUkRSejE0OGVFVFNpMURCVDJ0WnBaT2xzbVc0Ti13SXFyeFoyNHNXQ3JkZ0FTQTdndmFrdEpUeWduNkxGMlJHU2tCYV8zeVk5aWpRZGU0YWc?oc=5",
-      "published": "2026-11-24T05:36:09+00:00",
-      "rss_summary": "Sensex and Nifty Retreat Amid Broad Market Weakness; Metal Sector Leads Losses &nbsp;&nbsp; MarketsMojo",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -368,36 +398,6 @@
       "link": "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-closed-for-trading-on-gurpurab-2026-126112300598_1.html",
       "published": "2026-11-24T02:20:58+00:00",
       "rss_summary": "Stock market holiday today: The markets are closed for trading on account of Guru Nanak Jayanti, also called Prakash Gurpurab, the birth anniversary of the first Sikh Guru.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock market holiday: NSE, BSE shut today for Guru Nanak Jayanti - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMi1vRGt2cUdzRmhvUjZBblpUOExDV1F4a1BCWnplRUt5bzlsNXBMUVhnVC1hRi02UUlsYVRET0FzYjkxdkZlNDBwOWpXc0RZWU5EdnlDMV96WmstdVNxR1MwS28tTFY1X29Fd041TWlKaHRPZmZBZ29BWHZVOGhhczA1RHB3cVhRMmFOY243TFNlUU9SX2gtX255T3p6WVQ1OFRBVzZSdmdxa1JjcE5na3c2c0lfZVhXS0pCMHZYWTZXYlllZWQ2UGRQY1VEbkl1bGVV0gHYAUFVX3lxTFBUY0ZZQVpMTTJ1NktjMFFvUlZRV3FlSjJaNXhrT1J2QW1nTFMzOElUUWl2ZFRtMS1ObThMeW5BcHB0RTdCQW5GNHgtNzZDeFE2R2pMTnRlTlhYVmltT3g2YW5vakpvZWZ6YzRtOGlUWjJHdmNqUXk5QlhFcFJaNFBvdkh2NTNHeDlZVGgwOHhYOTJZODlHcjNUWUJCLXpKVnB4Q3dRNGVOMERpV2lRQkh0ODhaVUFrbkVyWTdSczlkMUFZUHg1VnpvQVJURzREMGxOX0pEU1Q2Zw?oc=5",
-      "published": "2026-11-24T02:20:00+00:00",
-      "rss_summary": "Stock market holiday: NSE, BSE shut today for Guru Nanak Jayanti &nbsp;&nbsp; Business Standard",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock market holiday November 24: NSE, BSE shut for Guru Nanak Jayanti; MCX evening trade open - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZmpGMjNBdDR3dEZZNkp0cVNzeTJ6MXd4alNPZEVzV095c29iTmNUZy1wTjNxUVlBYmFfRUMwcDJwYWhlazlseHJ6WmpOSnpUUkFVcVBuSFlvd19iaVo0Q0puTmctVmdkakJuS3d3OTY5Zm5JUHYyRUZCM3VLRFpDN0RidWQ3SVRjMkFYdnVTMHpSUjZZSGJzWW9XQUVFRVpjUXR5ajV2dFlZdzhvZHptZkJKdlBFeWY3UnhvZHZvS0NQUTZHYll5dnRHNzBxMnRZN1dibU5R0gHbAUFVX3lxTE9BOHRnNEhuSzYySFhNa2pwM1VocHV0SklpQ0ZMWWNUMFhQcU8yNlZxb3l2OGxRb0FPZm9fVzRPYTNGWmVQZVlsdmQtbUNrYUs3U1JGb0haVmhBM2pKTUgtUFFJY3BJTWtLSWRrTmtrMkppWElZN3JCYTJOLTc3S3dkR19ad2NrN2NFd1N5MEQ4UHdnS194ckwtOTZaakU0T3FKbXcxR0dwbXZuNW1BTVY0RTdpX1VCNGZZRGZoZmxOYl9ZcTBFdkhuVm90XzJQWmFsREEzWnZpSTVJaw?oc=5",
-      "published": "2026-11-24T02:16:28+00:00",
-      "rss_summary": "Stock market holiday November 24: NSE, BSE shut for Guru Nanak Jayanti; MCX evening trade open &nbsp;&nbsp; CNBC TV18",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Asian shares rally as Huang returns to Nvidia, sparking Wall Street rebound",
-      "link": "https://www.business-standard.com/markets/news/asian-shares-rally-as-huang-returns-to-nvidia-sparking-wall-street-rebound-126112400069_1.html",
-      "published": "2026-11-24T02:06:57+00:00",
-      "rss_summary": "Asian markets rebounded sharply after Nvidia shares surged 31.5% on Wall Street, restoring nearly $1 trillion in market value and lifting technology stocks amid easing fears over the AI trade",
       "hinglish_title": "",
       "explanation": ""
     }
