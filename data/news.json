@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:39:26.984782+00:00",
+  "updated": "2026-11-25T20:36:49.629046+00:00",
   "items": [
     {
       "category": "Companies",
@@ -262,16 +262,6 @@
       "explanation": ""
     },
     {
-      "category": "Economy",
-      "source": "Google News India Economy",
-      "title": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding - The Hawk",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc0ZreHZ5OHdkTTJtWXlkRVQ2b1NmTncwZk9GSmt2RjV1OHk5QW9VY3ZfN19pWGt6cjhuREtrSXZ0Y0FsM1VEWWhELWh0Yk5mYzlReEFEbU93TElDZkpJVVc1Q05WTzVVdHFaV211UnNDU003Q01YUDNma1pZeDFaRGRGTTVCWkxFaVFqMFhzbmFBLWdYOWJWY2ZleFhGUVNERy1zeHJEMXVXd1RJZS0wcFFodlByQk5qdW96MU9heTM5S0VFanV2VW1GemNBalVBY1FZNA?oc=5",
-      "published": "2026-11-25T13:10:55+00:00",
-      "rss_summary": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding &nbsp;&nbsp; The Hawk",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Markets",
       "source": "Business Standard Markets",
       "title": "AI stocks slide as investors weigh rising costs of infrastructure buildout",
@@ -394,10 +384,20 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "Sensex and Nifty Rally as FMCG Leads Gains; Media Sector Faces Sharp Decline - MarketsMojo",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEpRWE5ER3hwUTVXenNTV3F2V21YQlpLNEFQZ3I2Y2o1RmppczdkZjVYY3VxYXM4Rm0zeTF0N2JvazRsZ2NnSEJpMm9Fb3Y0Q2tIcmR2c1JzcHQtVXlSLTI5U1M4RDF2UTgzS3N3a1J1c2ZUakhtUzJwVi1UZW1OYWZYLWZwNVRCWFpZM25POWRVSEZ0SmZIbTF0TklZX1E0bll3Y2VVVGU1cTcwWHJTSnNOTTUxdFpHcXhJWVUwZUZ2YmpBTnJLczFlZHFwMXM?oc=5",
-      "published": "2026-11-25T11:00:38+00:00",
-      "rss_summary": "Sensex and Nifty Rally as FMCG Leads Gains; Media Sector Faces Sharp Decline &nbsp;&nbsp; MarketsMojo",
+      "title": "Indian Equities Defy Asian Trend, Sensex Jumps 1,502 Points - Rediff.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUh6R1VPN1N0UXkteEdRNWtxbzE4dFBKdkJmWXh2VHlHU0ZuUFg0NEljcWIwS3lmZG82N2NTNEZ5S014c1pmbl82Yy1hS0FCVDJJNEJyaVdyVzhCMUZxRG5IbnQ5RUloT0FYWHlYbjBYNmN3aXBGc3ZVMEs3ZmVHa0F0eFhRLU1jS3BnZVlsdE52Z21CT1BGU2NNbUJnWVJlX21GaHl1OUhXWDJBRWZ3b1ExSDByNDh4Ri1hOHdHY9IBwgFBVV95cUxOWkFhYmVxbndEbUNSWEZtZGRWTGlnYjJVR3ZzckVSVEczbVNaSnVRTllUcVZhaE53ODRoRkRGS3RSMUplYVF1VVN0Sm9yaDRLYm16dll6YUFqS1pwN3l6blhrdjNQaHZZSkZ1eTlHUHhqLVExeDNKdjdpZko3NHZtMXJiQjIzSDdmYllnR2lkRGpnX1ZsN0lzYy1lY3FTX0tGUEJyRFFUbGdCNmhEcy1Xa2wzbDZOTFF4ckQtd1FNNC13dw?oc=5",
+      "published": "2026-11-25T10:55:34+00:00",
+      "rss_summary": "Indian Equities Defy Asian Trend, Sensex Jumps 1,502 Points &nbsp;&nbsp; Rediff.com",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Individual investor count at two-year high, but trading share slips",
+      "link": "https://www.business-standard.com/markets/news/individual-investor-count-hits-two-year-high-but-trading-share-declines-126112500745_1.html",
+      "published": "2026-11-25T10:44:49+00:00",
+      "rss_summary": "The number of individual investors trading in the cash segment rose to nearly 14.3 million in October, while their share in cash market turnover fell to a seven-month low",
       "hinglish_title": "",
       "explanation": ""
     }
