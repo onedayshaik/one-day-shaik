@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-25T16:46:02.866926+00:00",
+  "updated": "2026-11-25T17:45:08.684111+00:00",
   "items": [
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Bharti Airtel to invest ₹1,200 crore in three data centres in Assam",
+      "link": "https://www.business-standard.com/companies/news/bharti-airtel-to-invest-1-200-crore-in-three-data-centres-in-assam-126112501173_1.html",
+      "published": "2026-11-25T16:57:32+00:00",
+      "rss_summary": "The three data centres in Guwahati, Jorhat and Silchar will have a combined capacity of 40 MW and could be operational by 2028, with land already available for all three facilities",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Working on issues raised by both stakeholders, says Tata Steel CEO",
+      "link": "https://www.business-standard.com/companies/news/working-on-issues-raised-by-both-stakeholders-says-tata-steel-ceo-126112501216_1.html",
+      "published": "2026-11-25T16:39:17+00:00",
+      "rss_summary": "Management discussions focus on easing concerns over APL Apollo's post-deal debt burden as both stocks face a sharp selloff",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Rupee bucks Asian trend, hits nearly nine-month high of 92.24 per dollar",
+      "link": "https://www.business-standard.com/economy/news/rupee-hits-nearly-nine-month-high-of-92-24-against-dollar-on-fpi-inflows-126112501164_1.html",
+      "published": "2026-11-25T16:33:17+00:00",
+      "rss_summary": "FPI flows and cheaper oil lift rupee 0.73% to 92.24/$",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Companies",
       "source": "Business Standard Companies",
@@ -304,6 +334,16 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
+      "title": "Closing Bell: Sensex Surges 1,500 Points, Nifty 50 Gains 1.85% as FMCG and Banking Stocks Lead Market Recovery - Dalal Street Investment Journal",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOelp3a3FCUVVnMVd5V2JSeGR0bXJEYmI1cEp4Wm5CUllmV0R2cmYwa2VMZ3A3b0c1YXFBRThtUWh1bUIyNHYwMkFmZzFybDBZX2M3aXJscmluRERkMXEtVWV2WTQ4SGVJUEFNVXdNYW9KdXhIbzN0ck1ENEV6V0tuREVDc045ZjhkdmZnczNJV21yekhkQkl6eW1SQ2ZfMFlUbmFZOFh5ZFhHbHltbkVuNV9LNzhjWVdGSEVPMDViYXFGV0JNNzZhd1l4b0w4YW5VRzl6MnU4QjEtUFdNeFZIaVR0eldKdjJYTFE?oc=5",
+      "published": "2026-11-25T11:06:36+00:00",
+      "rss_summary": "Closing Bell: Sensex Surges 1,500 Points, Nifty 50 Gains 1.85% as FMCG and Banking Stocks Lead Market Recovery &nbsp;&nbsp; Dalal Street Investment Journal",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
       "title": "Bull run on Dalal Street: Key factors behind Sensex’s 1500-point rally - The Week",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSF90WXNlUjF3YzdUYU5WckFtNlN4R0wtTjRGbFJ1MU1RakxmYnI2ZGlmV0s4TnB4WXpMQkgxSmo0V1ZvdEI2VmdRMFlSMjF4WUFaZndrSlhSU2ZpaHVCLUs4OWcxekhzX3k4MGV4U1VzUW9zOS1GeVNFd3JhSE1Eb0VSMlFIcnAxa1pFVWkyVWZnc29OcnRIV1hpd29jM3B5Si1FNHlsZTNKSkpzTmZlNXRkR1FtalJaXzFpb0RB0gHDAUFVX3lxTE80MVl4RWpQWm1QdE1FVXp2U203dVRydWdNWllYdXd6b3VWSWR5SldkV3c4VXliTlRhWFYxZVFvQ3BHRjBHMEdfQUh5eVBzQ2hTTVFOOVYtVXZuVk9VRDNRSm5WSlktZlpLdkdISld2RDJVYUVQaVV5VXpYMnVPMXhlV1RnT2c2aXdVTXlYaVlVb3pzOEE2UE14V0ZGUnlNMU15SldmLTZrbS0xNjZGOUdKNnY5MUt2UG9pR3lJb2o5TWltRQ?oc=5",
       "published": "2026-11-25T11:05:00+00:00",
@@ -314,20 +354,20 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "Indian Equities Defy Asian Trend, Sensex Jumps 1,502 Points - Rediff.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUh6R1VPN1N0UXkteEdRNWtxbzE4dFBKdkJmWXh2VHlHU0ZuUFg0NEljcWIwS3lmZG82N2NTNEZ5S014c1pmbl82Yy1hS0FCVDJJNEJyaVdyVzhCMUZxRG5IbnQ5RUloT0FYWHlYbjBYNmN3aXBGc3ZVMEs3ZmVHa0F0eFhRLU1jS3BnZVlsdE52Z21CT1BGU2NNbUJnWVJlX21GaHl1OUhXWDJBRWZ3b1ExSDByNDh4Ri1hOHdHY9IBwgFBVV95cUxOWkFhYmVxbndEbUNSWEZtZGRWTGlnYjJVR3ZzckVSVEczbVNaSnVRTllUcVZhaE53ODRoRkRGS3RSMUplYVF1VVN0Sm9yaDRLYm16dll6YUFqS1pwN3l6blhrdjNQaHZZSkZ1eTlHUHhqLVExeDNKdjdpZko3NHZtMXJiQjIzSDdmYllnR2lkRGpnX1ZsN0lzYy1lY3FTX0tGUEJyRFFUbGdCNmhEcy1Xa2wzbDZOTFF4ckQtd1FNNC13dw?oc=5",
-      "published": "2026-11-25T10:55:34+00:00",
-      "rss_summary": "Indian Equities Defy Asian Trend, Sensex Jumps 1,502 Points &nbsp;&nbsp; Rediff.com",
+      "title": "Sensex and Nifty Rally as FMCG Leads Gains; Media Sector Faces Sharp Decline - MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEpRWE5ER3hwUTVXenNTV3F2V21YQlpLNEFQZ3I2Y2o1RmppczdkZjVYY3VxYXM4Rm0zeTF0N2JvazRsZ2NnSEJpMm9Fb3Y0Q2tIcmR2c1JzcHQtVXlSLTI5U1M4RDF2UTgzS3N3a1J1c2ZUakhtUzJwVi1UZW1OYWZYLWZwNVRCWFpZM25POWRVSEZ0SmZIbTF0TklZX1E0bll3Y2VVVGU1cTcwWHJTSnNOTTUxdFpHcXhJWVUwZUZ2YmpBTnJLczFlZHFwMXM?oc=5",
+      "published": "2026-11-25T11:00:38+00:00",
+      "rss_summary": "Sensex and Nifty Rally as FMCG Leads Gains; Media Sector Faces Sharp Decline &nbsp;&nbsp; MarketsMojo",
       "hinglish_title": "",
       "explanation": ""
     },
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "Closing Bell: Sensex Surges 1,500 Points, Nifty 50 Gains 1.85% as FMCG and Banking Stocks Lead Market Recovery - Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOelp3a3FCUVVnMVd5V2JSeGR0bXJEYmI1cEp4Wm5CUllmV0R2cmYwa2VMZ3A3b0c1YXFBRThtUWh1bUIyNHYwMkFmZzFybDBZX2M3aXJscmluRERkMXEtVWV2WTQ4SGVJUEFNVXdNYW9KdXhIbzN0ck1ENEV6V0tuREVDc045ZjhkdmZnczNJV21yekhkQkl6eW1SQ2ZfMFlUbmFZOFh5ZFhHbHltbkVuNV9LNzhjWVdGSEVPMDViYXFGV0JNNzZhd1l4b0w4YW5VRzl6MnU4QjEtUFdNeFZIaVR0eldKdjJYTFE?oc=5",
-      "published": "2026-11-25T10:47:09+00:00",
-      "rss_summary": "Closing Bell: Sensex Surges 1,500 Points, Nifty 50 Gains 1.85% as FMCG and Banking Stocks Lead Market Recovery &nbsp;&nbsp; Dalal Street Investment Journal",
+      "title": "Indian Equities Defy Asian Trend, Sensex Jumps 1,502 Points - Rediff.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUh6R1VPN1N0UXkteEdRNWtxbzE4dFBKdkJmWXh2VHlHU0ZuUFg0NEljcWIwS3lmZG82N2NTNEZ5S014c1pmbl82Yy1hS0FCVDJJNEJyaVdyVzhCMUZxRG5IbnQ5RUloT0FYWHlYbjBYNmN3aXBGc3ZVMEs3ZmVHa0F0eFhRLU1jS3BnZVlsdE52Z21CT1BGU2NNbUJnWVJlX21GaHl1OUhXWDJBRWZ3b1ExSDByNDh4Ri1hOHdHY9IBwgFBVV95cUxOWkFhYmVxbndEbUNSWEZtZGRWTGlnYjJVR3ZzckVSVEczbVNaSnVRTllUcVZhaE53ODRoRkRGS3RSMUplYVF1VVN0Sm9yaDRLYm16dll6YUFqS1pwN3l6blhrdjNQaHZZSkZ1eTlHUHhqLVExeDNKdjdpZko3NHZtMXJiQjIzSDdmYllnR2lkRGpnX1ZsN0lzYy1lY3FTX0tGUEJyRFFUbGdCNmhEcy1Xa2wzbDZOTFF4ckQtd1FNNC13dw?oc=5",
+      "published": "2026-11-25T10:55:34+00:00",
+      "rss_summary": "Indian Equities Defy Asian Trend, Sensex Jumps 1,502 Points &nbsp;&nbsp; Rediff.com",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -358,46 +398,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBlcTZmTV9DRlhaSnUxWkU3bzhrUVpzb2YyRWtLVFpwYXBVZjMzUG5Jb3NsU0x3akRfd1pWQ2N3T1FXeU5haDMtZmMwZHE4Z3NOdkY2em9BNi14cE5hNG9zOU9xbmtiSk5SUHlJRWJJME1iU2REaFU5bFBnRWhDclNib2xfSlpuNEpKSzczRDhib1J3bWFRN1Jta0t5eTBlWGw5dnhVZ3cxRkZCLTN1M2RPTjdzekxPYWNoTUtwbHZMQXB1TWx0MGxlLWVLUWZhU3lzVm5Xci02QdIB5wFBVV95cUxQU25YTFJQVmM0cXZ3N25kb2NMbDljMkI3R3ltbzRhWVFoRGZQX3hqcG9lUi10VzN2b3F0bi1pNHlualZTbDhtaHhSZVdDcjUzQzRxX2dFZzRCbmtwVFZWLXBsSUNOQmpTcjRuRlQ2cEZYbkNhcUpaa0JCN1AzbVdoYXlpM1BlRV9TS3V3TFUxS1ljT0ZWWXJKS3Q4VXQzTW5jVkZ0MHRGUGRONGNfUDZDaF96eTNkMnpYNEVQalFXZVVsVDZtNnFuSmYxeUpLLUxmYlVsRW5kdG5jU0dxaXlFRHBxd2x3eUk?oc=5",
       "published": "2026-11-25T10:39:31+00:00",
       "rss_summary": "Sensex jumps 1,500 points, Nifty reclaims 25,800 as FMCG, private banks lead rally; broader markets lag &nbsp;&nbsp; Fortune India",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex and Nifty Rally as FMCG Leads Gains; Media Sector Faces Sharp Decline - MarketsMojo",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEpRWE5ER3hwUTVXenNTV3F2V21YQlpLNEFQZ3I2Y2o1RmppczdkZjVYY3VxYXM4Rm0zeTF0N2JvazRsZ2NnSEJpMm9Fb3Y0Q2tIcmR2c1JzcHQtVXlSLTI5U1M4RDF2UTgzS3N3a1J1c2ZUakhtUzJwVi1UZW1OYWZYLWZwNVRCWFpZM25POWRVSEZ0SmZIbTF0TklZX1E0bll3Y2VVVGU1cTcwWHJTSnNOTTUxdFpHcXhJWVUwZUZ2YmpBTnJLczFlZHFwMXM?oc=5",
-      "published": "2026-11-25T10:35:58+00:00",
-      "rss_summary": "Sensex and Nifty Rally as FMCG Leads Gains; Media Sector Faces Sharp Decline &nbsp;&nbsp; MarketsMojo",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "PhonePe prepares to restart IPO process amid improving market conditions",
-      "link": "https://www.business-standard.com/markets/ipo/phonepe-prepares-to-restart-ipo-process-amid-improving-market-conditions-126112500725_1.html",
-      "published": "2026-11-25T10:31:00+00:00",
-      "rss_summary": "The Walmart-owned fintech firm is expected to seek a listing valuation of ₹1.2 trillion to ₹1.5 trillion, with the timing of the IPO dependent on prevailing market conditions",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Taking Stock: Markets bounce back; Sensex rises 1,502 pts, Nifty closes above 25,800 - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYnFHNzAteFdIb2gtVEZnVXNkMDd4ZnZTeHVmUEUxbXlWZEhZdEhrek1YWF80LVZvY09waVhNMjlnN19LZXktVy1UZkRzZzZvNUVsd3RGVWNhU0Uzc2hnQkptZlk2UWducm5ubURpeXpPamgzOGNQRkN3a3JVaHJaenRJU083YWlLNmNCZVc5a214LWc5NWVVUlZEMkFlMjF1OEU0RlV1c3IxVnc1aDl0QmljOFN6azZsTUN2Z0JVTURYT0tudWtneWo5ajcxQnFkWnlqNURzbTZtVFBGVlU00gHkAUFVX3lxTFBnSlZTSWFfb2NEWjVuYVllQWRpYmFlT0JxMnVxb1Q3MElVUTdXTTlITlNGTjR1SXdKcFFka1N5ZGp1bE9PWmVUUzd2VGJOcUVnLVJUc2pVSk9lamd3MTkxYkNPZUJ4Q24xaUtKV3QxanVRVjRHa0JfQXNzZEhZSnhRQi1qc1RVOHhUejVyZ0Rad3R0TXZTUWREemJPZzJ1QS0tYXlELXAwLVh4ZGhZVmV1RS1EZGRrc3J6akxTU2k2QTlRQTEtblVBMkhDYlVfMVRYc1BSYy1wM1N5MmJzVUJJNlU2cA?oc=5",
-      "published": "2026-11-25T10:22:54+00:00",
-      "rss_summary": "Taking Stock: Markets bounce back; Sensex rises 1,502 pts, Nifty closes above 25,800 &nbsp;&nbsp; Moneycontrol.com",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Vendor failed to meet contractual obligations: Foxconn on payment dispute",
-      "link": "https://www.business-standard.com/companies/news/vendor-failed-to-meet-contractual-obligations-foxconn-on-payment-dispute-126112500647_1.html",
-      "published": "2026-11-25T10:13:36+00:00",
-      "rss_summary": "Taiwanese electronics giant Foxconn on Wednesday alleged that a certain vendor in India has failed to meet agreed contractual obligations. BCD Emprassa, a vendor of Hon Hai Technology Group (Foxconn), has reportedly moved the National Company Law Tribunal (NCLT) to recover alleged dues of around USD 15 million from the company. \"Foxconn clarifies that the dispute arises from the supplier's failure to meet agreed contractual requirements and quality standards. Despite repeated requests for corrective action, the outstanding issues remain unresolved,\" the company said. BCD Emprassa has reportedly filed a claim regarding 700 residential units for female employees working at its Bengaluru facility. Foxconn said that as the matter is now subject to legal proceedings, the company will take appropriate steps to safeguard its legitimate rights and interests through the legal process and will refrain from commenting further on the specifics of the case. \"Foxconn values its long-standing ..",
       "hinglish_title": "",
       "explanation": ""
     }
