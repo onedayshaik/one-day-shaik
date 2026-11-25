@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-25T18:33:41.320597+00:00",
+  "updated": "2026-11-25T19:39:26.984782+00:00",
   "items": [
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Cognizant in talks to take over parts of S&P Global's Capital IQ operations",
+      "link": "https://www.business-standard.com/companies/news/cognizant-in-talks-to-take-over-parts-of-s-p-global-s-capital-iq-operations-126112501155_1.html",
+      "published": "2026-11-25T18:43:54+00:00",
+      "rss_summary": "Cognizant is in talks to take over data and operations staff from S&P Global's India GCC, with around 1,500 employees potentially moving to the IT services firm's payroll.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Now, Noel wants revision of Tata Sons board agenda, pushes restructuring",
+      "link": "https://www.business-standard.com/companies/news/now-noel-wants-revision-of-tata-sons-board-agenda-pushes-restructuring-126112600003_1.html",
+      "published": "2026-11-25T18:41:05+00:00",
+      "rss_summary": "After seeking a change in the board meeting date, Noel Tata has asked Tata Sons to prioritise discussions on an alternative restructuring plan to keep the holding company privately held",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Too silent? Built to whisper, EVs look to mimic the growl of gas engines",
+      "link": "https://www.business-standard.com/industry/auto/too-silent-built-to-whisper-evs-look-to-mimic-the-growl-of-gas-engines-126112501273_1.html",
+      "published": "2026-11-25T18:39:29+00:00",
+      "rss_summary": "Automakers are using customised sounds to give EVs a distinct identity, from sporty engine-like growls to quieter cabin experiences.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Markets",
       "source": "Business Standard Markets",
@@ -66,7 +96,7 @@
       "source": "Business Standard Finance",
       "title": "NRI deposit inflows jump to $125.6 billion in April-September period",
       "link": "https://www.business-standard.com/finance/investment/nri-deposit-inflows-jump-to-125-6-billion-in-april-september-period-126112501222_1.html",
-      "published": "2026-11-25T15:40:52+00:00",
+      "published": "2026-11-25T15:40:48+00:00",
       "rss_summary": "FCNR(B) deposits attracted inflows of $123.75 billion in the first half of FY27, aided by the RBI's concessional swap window and attractive interest rates offered by banks",
       "hinglish_title": "",
       "explanation": ""
@@ -94,20 +124,20 @@
     {
       "category": "Economy",
       "source": "Business Standard Finance",
-      "title": "Economy resilient; passthrough of oil price shock limited, says RBI",
-      "link": "https://www.business-standard.com/finance/news/indian-economy-stands-out-amid-uneven-global-performance-rbi-bulletin-126112501211_1.html",
-      "published": "2026-11-25T15:23:49+00:00",
-      "rss_summary": "Strong credit demand, robust exports and foreign portfolio inflows supported India's economic resilience in October, even as headline inflation rose on higher food prices",
+      "title": "RBI study urges caution as NBFCs' reliance on bank borrowings rises",
+      "link": "https://www.business-standard.com/finance/news/nbfcs-rising-reliance-on-bank-borrowings-needs-monitoring-rbi-bulletin-126112501212_1.html",
+      "published": "2026-11-25T15:23:10+00:00",
+      "rss_summary": "Bank loans accounted for 39.6% of NBFC borrowings at end-March 2026, up from 35.3% four years earlier, while debenture funding lost share",
       "hinglish_title": "",
       "explanation": ""
     },
     {
       "category": "Economy",
       "source": "Business Standard Finance",
-      "title": "RBI study urges caution as NBFCs' reliance on bank borrowings rises",
-      "link": "https://www.business-standard.com/finance/news/nbfcs-rising-reliance-on-bank-borrowings-needs-monitoring-rbi-bulletin-126112501212_1.html",
-      "published": "2026-11-25T15:23:13+00:00",
-      "rss_summary": "Bank loans accounted for 39.6% of NBFC borrowings at end-March 2026, up from 35.3% four years earlier, while debenture funding lost share",
+      "title": "Economy resilient; passthrough of oil price shock limited, says RBI",
+      "link": "https://www.business-standard.com/finance/news/indian-economy-stands-out-amid-uneven-global-performance-rbi-bulletin-126112501211_1.html",
+      "published": "2026-11-25T15:23:04+00:00",
+      "rss_summary": "Strong credit demand, robust exports and foreign portfolio inflows supported India's economic resilience in October, even as headline inflation rose on higher food prices",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -254,10 +284,10 @@
     {
       "category": "Companies",
       "source": "Business Standard Companies",
-      "title": "BP hands over finance operations of 3,000 staff across 3 countries to Wipro",
+      "title": "Wipro bags finance transformation deal from bp, to absorb 3,000 employees",
       "link": "https://www.business-standard.com/companies/news/bp-hands-over-finance-operations-of-3-000-staff-across-3-countries-to-wipro-126112500802_1.html",
-      "published": "2026-11-25T12:55:17+00:00",
-      "rss_summary": "Partnership will see finance employees move to Wipro as BP uses AI and automation to streamline back-office operations",
+      "published": "2026-11-25T12:55:05+00:00",
+      "rss_summary": "The multi-year deal will see around 3,000 bp employees in India, Hungary and Malaysia move to Wipro, with the new operating model expected to take effect in 2027",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -276,7 +306,7 @@
       "source": "Business Standard Companies",
       "title": "ONDC takes on quick commerce with NearU, bets on local stores for delivery",
       "link": "https://www.business-standard.com/technology/tech-news/ondc-takes-on-quick-commerce-with-nearu-bets-on-local-stores-for-delivery-126112500939_1.html",
-      "published": "2026-11-25T12:12:50+00:00",
+      "published": "2026-11-25T12:12:18+00:00",
       "rss_summary": "ONDC will pilot NearU in parts of Delhi in December, targeting four-hour mobile phone deliveries through neighbourhood retailers without the need for dedicated dark stores",
       "hinglish_title": "",
       "explanation": ""
@@ -368,36 +398,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEpRWE5ER3hwUTVXenNTV3F2V21YQlpLNEFQZ3I2Y2o1RmppczdkZjVYY3VxYXM4Rm0zeTF0N2JvazRsZ2NnSEJpMm9Fb3Y0Q2tIcmR2c1JzcHQtVXlSLTI5U1M4RDF2UTgzS3N3a1J1c2ZUakhtUzJwVi1UZW1OYWZYLWZwNVRCWFpZM25POWRVSEZ0SmZIbTF0TklZX1E0bll3Y2VVVGU1cTcwWHJTSnNOTTUxdFpHcXhJWVUwZUZ2YmpBTnJLczFlZHFwMXM?oc=5",
       "published": "2026-11-25T11:00:38+00:00",
       "rss_summary": "Sensex and Nifty Rally as FMCG Leads Gains; Media Sector Faces Sharp Decline &nbsp;&nbsp; MarketsMojo",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Indian Equities Defy Asian Trend, Sensex Jumps 1,502 Points - Rediff.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUh6R1VPN1N0UXkteEdRNWtxbzE4dFBKdkJmWXh2VHlHU0ZuUFg0NEljcWIwS3lmZG82N2NTNEZ5S014c1pmbl82Yy1hS0FCVDJJNEJyaVdyVzhCMUZxRG5IbnQ5RUloT0FYWHlYbjBYNmN3aXBGc3ZVMEs3ZmVHa0F0eFhRLU1jS3BnZVlsdE52Z21CT1BGU2NNbUJnWVJlX21GaHl1OUhXWDJBRWZ3b1ExSDByNDh4Ri1hOHdHY9IBwgFBVV95cUxOWkFhYmVxbndEbUNSWEZtZGRWTGlnYjJVR3ZzckVSVEczbVNaSnVRTllUcVZhaE53ODRoRkRGS3RSMUplYVF1VVN0Sm9yaDRLYm16dll6YUFqS1pwN3l6blhrdjNQaHZZSkZ1eTlHUHhqLVExeDNKdjdpZko3NHZtMXJiQjIzSDdmYllnR2lkRGpnX1ZsN0lzYy1lY3FTX0tGUEJyRFFUbGdCNmhEcy1Xa2wzbDZOTFF4ckQtd1FNNC13dw?oc=5",
-      "published": "2026-11-25T10:55:34+00:00",
-      "rss_summary": "Indian Equities Defy Asian Trend, Sensex Jumps 1,502 Points &nbsp;&nbsp; Rediff.com",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Individual investor count at two-year high, but trading share slips",
-      "link": "https://www.business-standard.com/markets/news/individual-investor-count-hits-two-year-high-but-trading-share-declines-126112500745_1.html",
-      "published": "2026-11-25T10:44:49+00:00",
-      "rss_summary": "The number of individual investors trading in the cash segment rose to nearly 14.3 million in October, while their share in cash market turnover fell to a seven-month low",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex Today Rallies 1,502 Points | Nifty Above 25,800 | 3 Reasons Why Indian Share Markets Are Rising - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeUdLYkFGQ0RMRWdCS0Z4X2RvYTJMeDhZYUVpMnZGWURWaFkxT0JFdDBDa1prQ0NyTDhIRmZjNkl5NE9tQjh6THdOUTBUWjhTbldaWkNCT3hXUmZrelZhTlVnS3YxTk9VTmlnU0JPYkRPUFhWZHROZk43WUxsbjBSblotbTNXOURhQ3c5YjZ3YjJ2LWpZZUJlWW9Pd3RSamV5WHBCOUVWeXJfOVpXa2FHRS1zN3RBRWtjcXV3d1NvNXhMWFJxTDExZk0wNFRXMVNIamEyZGtMaWoxT09FMnNFN1BfdGVfRVNYLUZzTTJGbU4?oc=5",
-      "published": "2026-11-25T10:44:44+00:00",
-      "rss_summary": "Sensex Today Rallies 1,502 Points | Nifty Above 25,800 | 3 Reasons Why Indian Share Markets Are Rising &nbsp;&nbsp; Equitymaster",
       "hinglish_title": "",
       "explanation": ""
     }
