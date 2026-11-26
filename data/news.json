@@ -1,16 +1,6 @@
 {
-  "updated": "2026-11-26T22:50:10.826334+00:00",
+  "updated": "2026-11-26T23:49:04.514835+00:00",
   "items": [
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Today: Sensex Jumps 390 Points, Nifty Closes A… - theopenpress.in",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVFYeU03Zk0xVDUtZ3pnaE5xVHBtb1dKcVBRcWpJVXRvMnU4cVZaejktaGpjY2xDOHpuazVqYXJVbEplNk1vOEhiOFl1Q2JOMERlUTA1bUxqc0tUSXBvRUdGV0JGOTN2alNuelRsdlpta01fbHhfTV9PWW9LY09RUlozbGR6a0FnZVhianY2QkpsZHFt?oc=5",
-      "published": "2026-11-26T22:44:38+00:00",
-      "rss_summary": "Stock Market Today: Sensex Jumps 390 Points, Nifty Closes A… &nbsp;&nbsp; theopenpress.in",
-      "hinglish_title": "",
-      "explanation": ""
-    },
     {
       "category": "Markets",
       "source": "Google News India Markets",
@@ -98,6 +88,16 @@
       "link": "https://www.business-standard.com/companies/news/urban-company-enters-ac-market-with-units-designed-for-indian-summers-126112601340_1.html",
       "published": "2026-11-26T14:37:23+00:00",
       "rss_summary": "The home-services platform launches Native Ultra and Ultra Air with a five-year unconditional warranty, including gas refills, and a 10-year compressor warranty.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Google News India Economy",
+      "title": "NSE gets RBI approval to launch corporate bond index futures - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN3RmNkNxamJHUFhWU1FoT0I3aUVJWWF1d01QX0hyc0MzMlN3dUVSeF94V01jN0lKUGJ4dERvSDNWTUFPaUpWc3RzVUZnZmJlMl93YjFkc3JuLVFlUkZhR0lDVVJFSVEtMzVrNHZLaTNIUlhfeEZTdUhZZGxZdVE4V29MQXpBRVI4bW9HMWx5ZF9zSnh4czVRaDJBcHBBZjlFY0pJeWhmaXZLTG9MZEJGY2dXZXdMOGw0VWRNQjVVVWZQcGRJTDVn0gHMAUFVX3lxTE9pbXlBU3oxRFluVnVsR0U1SXI4SjFPdUphMkN2X056aVAxc2taM0VZR193WkRDUHdWelBLREVDY19GM1FFQUVuR3VxOXU4MThpZERhbzBOZEd6QzRtaExGQlJxTHpoTmdLeEJiVHpKdXp3RzlfZFVqUkR4aC1ib2taVjdNU252dC1MM2dIV2pIMjFGTi1DZURtRHNheXl2ZEkzTTg4dUdVdDNxdDExdHJnRHBULWhGanFiWkYxaDdmZU8yNDZNMlRVdjdtcw?oc=5",
+      "published": "2026-11-26T14:33:01+00:00",
+      "rss_summary": "NSE gets RBI approval to launch corporate bond index futures &nbsp;&nbsp; The Economic Times",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -224,6 +224,16 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
+      "title": "Top gainers and losers, Nov 26: HCLTech, BSE surge 6%, TCS rises 5%, Asian Paints falls 3%; check list - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWHZza2l3dE9qMWJGSkRWeW1admgwakRUeWx1V29rUGtkVU9RWDAtYU5pRzVfU3M2aHNPU1RYQWRYbklGY0FBREo1aExZbmwzZV9aRFM3N3I2WnFQQ202SFJ3enVLZUV1anVpWnNDSkRlUk9pZUhQT3NSVjlRMWh0X0tvVWMzN09Mam1XQ3M1bGRuTWhtTlI5ZXlmWWg3U1h0Rnk1TkRXMFJlaDFiUzNqZmJ6ekZxSmVWdGxPc09PZjFyeGt2M3RhdHpSVG9abkhHM3k2Nno3YkJyQWt0LTROaXJITmpiTURC?oc=5",
+      "published": "2026-11-26T11:04:28+00:00",
+      "rss_summary": "Top gainers and losers, Nov 26: HCLTech, BSE surge 6%, TCS rises 5%, Asian Paints falls 3%; check list &nbsp;&nbsp; Upstox",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
       "title": "Closing Bell: Nifty 50, Sensex Extend Gains for Second Session; IT Index Surges 3.66%, Realty Gains 3.27% - Dalal Street Investment Journal",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTVhfYTBpRHVoZTk3N0k0ejhFVUFac21qYTY1VGhQTmVJaVgyck8zREFCSlN3bkJ6TEswaENYSUNlanVpRnVYY0g4ZUQ4d2dJekp0NVd2elVKbmQycFNVLTBKSGZsMWttRUZkZTN1X2RkVWZWOFowY3pMNmpFcWtjZFdadzFheDBoVGRmWmNYVFY5ajhhRm5DWGEyV1RzNXNZTTJjYUhfaVlZWFhxUmR3bVpBMFZlRVJVWHlGQWNlU0VpVXIzVmtkOUhoYzQwSmZ2c0RGcWo5NHpORlJ0Nzcw?oc=5",
       "published": "2026-11-26T11:00:45+00:00",
@@ -238,6 +248,26 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmlGU0tPZ3NQenZzTXlMOHllZkdPZHp2U0NqVXBNdHc4ZnN0UnI0Z2ZNMWFmMlZGRXdxbXAzVFo4YzZ0cGI1eXVjdTg5bjNoY1A2NEQxLVVFamVSeDNwMnIweHZXLWd0YlRyOWd3R29EN2xjdWlFdjVMTFJNV0RTeHkxaE8xUHFKQ3VWaTVoY0JwbjV4OFI1QUtyeURFUFJyam5nZlZ2emR5NFk?oc=5",
       "published": "2026-11-26T11:00:25+00:00",
       "rss_summary": "Stock Market Today: Nifty gains 1.85%, Sensex up 1,502 points &nbsp;&nbsp; Multibagg AI",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Highlights: Sensex rises 390 points, Nifty nears 25,900; IT, realty stocks gain up to 3%, HDFC Ba - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObVhpeWd2RDVRdEh1clhWQnRlWnhkU0toS3VZOWIwS21CRzR4MEFnUWVIM1BoVUVuNWFpRmlmcFNyZTZMZUs2ajA5N2RPMEVvTFh5SmFtXzVEeGc1akg1bUJBSU9XMkJIRncyR1IzaW9aaE5KeWl1WmFXS1ZRV3JzdGpBX1l3U21mNC0yN3RCazlDbFdWYmFLSzdzU25BR1pRYWV6eHQzOGNSQ1Bxdk9YbXcxb0NyUmFlWUlFRm90a1I5YkpMRUdqZ211QUpPbnpMR1RfNkJxUHZsZXhwaTlmbm9PN2VpSmp5RXl5MkNtanlqZEtjVkFTQlhJMGFBWWlEbmJ30gGIAkFVX3lxTE8zNTRUa2RZNUdoM1lEak1VYm83RjJBRXhHRkV4dHdUdjYzekZMemJ4Sm9xdWxORzVBVF85c2FwbWloVWlWWkY3c29vY1hDaFZkeE03WUdGNmptZHphek41dEI1Vk5JN3QzRURMeDN6elNHQ1JoNXVxMEUyV3NNODdYQmRKSjNTQVhYc0wyUmFtUFlkSG9jZTJOSkxTMDhZRl9wbUwzR2pPRUY0WnpwOVZyRHVidXB4eEk3czdNRm44ZEhFZndscE1vR3hyYk9mZ0lEaHhHQVlvclVMTzY0bl9UNnRRLW9UTjZGeW5hWVhDUktDT0xSZnU2RTZjZG5rdWszU1ZXQ1AySA?oc=5",
+      "published": "2026-11-26T10:58:30+00:00",
+      "rss_summary": "Stock Market Highlights: Sensex rises 390 points, Nifty nears 25,900; IT, realty stocks gain up to 3%, HDFC Ba &nbsp;&nbsp; CNBC TV18",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Today Highlights: Sensex jumps ends over 350 points; Nifty tops 25,850 despite tariff concerns - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQYU5Yam5fQllmNHJfQmZpN3Y3dWlVYWZVUEtMS29KYjltcHB3a0N4U01mSFdqejA4NEEtaWd2SDcwY2s4UVdwU1JPYVVKeW5hWll1U0hyUkRHb1hWS0FkVGNrQmtjWW1CSkI0WUM2elhTc2tKTmNBQnZ5TWlrYmdVS1pLbkx0cUMxRTVvbWJacUhnMDlvLWZQY2ZTQlE5SGQtX0xGc2R5ZTNWSVpqVTlmSTZyM2pDbkN3S0RybUtIcGgzNUwxbWtqUHdGNUthSDVOMG1LU3gweUhJdVdFVGFmMXN4SlhSQXhhT0NFMU9PREZVTzB4Y3lhYlE5aHROODNBSFVtRk5Sc3pHbUNlNDNYdGtEVjFCdkt3TGpBcFhjQ28wc0NZWWRMWHF0V1FyQWFNNjM3RDZ30gG7AkFVX3lxTE9hM0VsVGdwbU9MNl9Ccjk4dG93LWlGTi02MmxTRHVjaVhWc0hOZ0d3aW1kaHVmVDhZcmpPbk40UVBxZ2NBQXMtTGJDeXJtX2dvQnBqcmladVl1M3d3cVFTb1ppbFR3TlVHSTRpeEoza0xZdzIzdHZQUUdxSHNNa2dsLVQ3U2FaZzc0MWdOOWNNWklFOGpmc2t1YnB2c244NDBTX1EtSUlzamJQTnBBVmw4c3JfNU9QM1pSczh4ZGtMYlg4Z0kzM3F0cW1kMVlWZmZRNHNtVVRDMmpUSC1NSU1KS20tZDV0MmpFa0JBaVVkV2hTOTNrWnZKcmdiNzBZU0VmWkhST2Y3UEhHQjlEdnVLOEt0SDFscTJsdjlxc3luNVhnTzN5NGE1MDAyeE53R1hTTDhlM2ZfaHkxSQ?oc=5",
+      "published": "2026-11-26T10:42:33+00:00",
+      "rss_summary": "Stock Market Today Highlights: Sensex jumps ends over 350 points; Nifty tops 25,850 despite tariff concerns &nbsp;&nbsp; The Times of India",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -292,6 +322,16 @@
       "explanation": ""
     },
     {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex Today | Stock Market Highlights: Sensex ends 390 pts higher, Nifty near 25,900; IT, realty jump up to 3%; HDFC Bank leads - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPLUJyQ1VlYWNNT295UDJHbmRXSzJCa1BSYnpYcmx3RXpCamp5dVlHQXRGOTFoRjYwek9uV1RLNEdXWjVNb1hPYTU0Z2tuUzF2aWdZLVZrY1B5b0NxbTBHNXhncldGRE1qTVZ5c2J3NXRPVXNNRnNpU1BLNFhOaHlSdUtwNWFiTVc4a28yY3l3SGd1M250OUl3OG5kV2ZRcDIyaU1GaUh6T1daQmtZYnNDbzRNbzZMVTVQY3o5end1MVBDUmZaUjRYanBiaGdZdUFUcnRVMlUyYXBOa1VROEo1Q3RFeWZWUDUtMmZRVkhxUy16UXFvWGpWN1kxMXI4QjJnRzVzY29xTm4yQ2J3N3BvVUF0d05qRjlwWmFqWS1taHlDc0dwaTZCcEd3YjYwSGU3RWtLMkJHVzZuTEEzcTd5b2lRVWhyMk9Gcms0OEZWZWI5Mk5zZTRIVmRqX2hrcUp1OEFvSjdiaVhRX1h5OFAtaDEtYmhQUkdydG9VRnJkSlZIX19fSTZ3OE9WYjl0WUJvd2fSAZcDQVVfeXFMT1FEblg4aVJqYmZ3UXJaczZvN0xwbXBMM1U3WnkxODRXd0s5NUkyUzB3ZV9CcXZYUk4teEdTRjFTaTUtX2tUYzN1Unh5Z0p0SXRVcVc2bFUxYjBPeGxhNDNlZ1BMU2FIdkZoVGhoTGJCQlNyLTdiQlo3S0w5VG1Tc2FTVEUtckhYOG15QUcwQ0NNenR6ME83RE5jejBma05DZEF0X1NYb0tDRll1bDBlejRlYWxkYjhiOTl5N1ZOZWM2a0ptdHR5dHJSZEQ5Y1IzSVkzVDdDLUhhUWpDcU80dE1zVGQzZ2Vnd0R4Q0tXSmN3dzdWZy1HTXJTdE5sbHRNZ3JqbUVJdV9pSm04Y1dlWlg4Q0ZKZmt0czRrcGpzLUdfNTQyTncwV3dONUI1Tm43T01adUlfMDE0RmpFcHptcVEzZXFoMVRqQjlMM0htNDFiclVNSnlLMndKdjl4MVFIeG56T245bk9NZzY4TWtjMWZTNzRNekV6TGs4OXFmb1RTeDU4NV9UU1I5VW5yZjhBeTI4UTFrdnc?oc=5",
+      "published": "2026-11-26T10:14:33+00:00",
+      "rss_summary": "Sensex Today | Stock Market Highlights: Sensex ends 390 pts higher, Nifty near 25,900; IT, realty jump up to 3%; HDFC Bank leads &nbsp;&nbsp; Moneycontrol.com",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "HC to hear Tata Trusts' plea against Chandra's reappointment on Friday",
@@ -322,6 +362,16 @@
       "explanation": ""
     },
     {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Highlights: Sensex ends 390 pts higher, Nifty above 25,850; HCL Tech, BSE jump 6% each - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQLXpIdGtGRXJuZFVrbHYxa1dzQm14ek5KT2I2U2pKVFFxdjAzOUFXam1DMXpKT0dsbW5Hdml4MW1URWRjWTRadkVaNmpfNW9IWE9oQW1oV2FWdDZDTkNkSUdmNVIxeVdUSVBRNlJsX0N5Y1dzaG1aQ0d6bl9zSUhqZmZoejl1bEZYUno1N2w4NDc2TVhQSWNkREYxSlEtSlpLNHRXc2luNHc4U0tFakJIOE9fWWxWcENlZHF2WXhDd0hPS2pCUWlUWjIzb2dJTzlnSlUtaXBVejJ2LVhMbzF6TWJWTDgydXM2eUFMVzFPYllKcnUyQ1BRel9aLUU2S0N1ekdoVkZaRDlBaVRuSno2N01uQmVBclExOWlz0gGgAkFVX3lxTE9zTEtfbjBfV2FBa2J6NFE2NUNzcFptWTJ1Y2JZRVc0TTJ2Mk5QTzk2Y0tldVkwdktpa1BuSVlzZ0F3YXlnelZ5VjNOdjN4ME13ZzloaUxzZ1IzSk0tSEQzNGU3cmg5eThfWjhrNGZkUWVzNHVPZGtTTk4xTHQ5Tk1Nc0U1MUdCaTZQQTBEN0Q4ZHl0clJ6NVFGT2ZBdHhyYVpxRm5zWkFudm95RF9OMm9YcWhudzhRVUE3djJtNVpMcG9ieS15MkxRNU1qM1Z6Q0t1Zl9fQmJ1T1ZDdFpPRUwxYWdZbHRla1QwNS1PMUZXdUY5eVpoeHhrYnpBY1BZUjRPdWc3cjRYTVhsOFJ3VWdESG9kazJOa0tSay1EelRLTQ?oc=5",
+      "published": "2026-11-26T10:03:56+00:00",
+      "rss_summary": "Stock Market Highlights: Sensex ends 390 pts higher, Nifty above 25,850; HCL Tech, BSE jump 6% each &nbsp;&nbsp; The Economic Times",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
       "category": "Economy",
       "source": "Business Standard Finance",
       "title": "Fund Review: ICICI Prudential Short Term Plan",
@@ -348,56 +398,6 @@
       "link": "https://www.business-standard.com/finance/personal-finance/married-daughter-can-claim-motor-accident-compensation-even-if-earning-hc-126112600710_1.html",
       "published": "2026-11-26T09:26:33+00:00",
       "rss_summary": "The Delhi High Court ruled that financial dependency is not a prerequisite for claiming compensation under Section 166 of the Motor Vehicles Act, but remains relevant in determining the amount",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Nifty Realty hits 52-wk high, up 3% led by Prestige, Brigade Enterprises",
-      "link": "https://www.business-standard.com/markets/news/nifty-realty-hits-52-week-high-up-3-led-by-brigade-enterprises-prestige-estates-126112600658_1.html",
-      "published": "2026-11-26T09:10:01+00:00",
-      "rss_summary": "At 02:05 PM on Thursday, the Nifty Realty index was the top gainer among sectoral indices up 3% compared to a 0.14% decline in the Nifty 50.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "LCC Projects hits 10% upper band on order win; but 40% below IPO price",
-      "link": "https://www.business-standard.com/markets/news/lcc-projects-hits-10-upper-band-on-order-win-but-40-below-ipo-price-126112600648_1.html",
-      "published": "2026-11-26T09:03:47+00:00",
-      "rss_summary": "LCC Projects' stock listed on the Indian bourses on September 17. However, it remains 6.40 per cent below the initial public offering (IPO) price of ₹146 and 40 per cent off the all-time high of ₹191.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Economy",
-      "source": "Business Standard Finance",
-      "title": "Gold loans grow 60.6% to ₹2.33 trillion, ticket size up 32.7%: Report",
-      "link": "https://www.business-standard.com/finance/personal-finance/gold-loans-grow-60-6-to-2-33-trillion-ticket-size-up-32-7-report-126112600652_1.html",
-      "published": "2026-11-26T08:55:46+00:00",
-      "rss_summary": "Gold loan demand is expanding across larger-ticket borrowers and smaller cities, even as lenders see a sequential uptick in early-stage delinquencies and a growing share of high-risk borrowers",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Order win impact: Multibagger stock Welspun Corp rises 5%, up 180% YTD",
-      "link": "https://www.business-standard.com/markets/news/order-win-impact-multibagger-stock-welspun-corp-rises-5-up-178-ytd-126112600592_1.html",
-      "published": "2026-11-26T08:27:36+00:00",
-      "rss_summary": "Multibagger stock: Welspun Corp is one of the standout performers on Dalal Street this year. According to NSE data, the smallcap stock has zoomed 180 per cent in 2026 so far.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Sebi appoints auditor to probe Coffee Day Enterprises' fund diversion",
-      "link": "https://www.business-standard.com/companies/news/sebi-appoints-auditor-to-probe-coffee-day-enterprises-fund-diversion-126112600553_1.html",
-      "published": "2026-11-26T08:02:35+00:00",
-      "rss_summary": "Markets regulator SEBI has appointed a forensic auditor to assist in a probe into the affairs of Coffee Day Enterprises Ltd, following directions from the Securities Appellate Tribunal (SAT). The SAT had on November 5 directed the Securities and Exchange Board of India (SEBI) to conduct a fresh, independent and comprehensive investigation into the alleged diversion of Rs 3,535 crore from seven subsidiaries of Coffee Day Enterprises Ltd (CDEL) to Mysore Amalgamated Coffee Estates Ltd (MACEL), an entity linked to the company's promoters. Pursuant to the order dated November 5, 2026 passed by the appellate tribunal, CDEL, in a regulatory filing on Thursday, said \"SEBI has, vide its letter dated November 25, 2026, informed the company that CLA Indus Value Consulting has been appointed as the forensic auditor to assist the investigating authority.\" The company said its board of directors would take further steps as may be necessary in the matter. On November 5, SAT set aside an order ..",
       "hinglish_title": "",
       "explanation": ""
     }
