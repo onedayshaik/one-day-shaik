@@ -1,12 +1,62 @@
 {
-  "updated": "2026-11-26T09:25:04.008318+00:00",
+  "updated": "2026-11-26T10:31:35.272414+00:00",
   "items": [
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "HC to hear Tata Trusts' plea against Chandrasekaran's reappointment Friday",
+      "link": "https://www.business-standard.com/companies/news/hc-to-hear-tata-trusts-plea-against-chandrasekaran-s-reappointment-friday-126112600676_1.html",
+      "published": "2026-11-26T10:13:46+00:00",
+      "rss_summary": "The Sir Dorabji Tata Trust (SDTT) and the R.D. Tata Trust (RDTT) on Thursday filed suits in the Bombay High Court against Tata Sons and six of its directors, challenging the reappointment of N Chandrasekaran as executive chairman for a third five-year term. The court will hear the matter on Friday. The SDTT has sought Rs 50 crore, while the RDTT has sought Rs 15 crore in damages, with 18 per cent annual interest. As per the suits, the September 17 Tata Sons board resolution to reappoint Chandrasekaran was invalid because it did not receive the affirmative vote required under Article 121 of the company's Articles of Association (AoA). Senior counsel Janak Dwarkadas, appearing for the two trusts, mentioned the suits on Thursday before a single bench of Justice Arif Doctor, seeking an urgent hearing. Justice Doctor, however, recused himself without assigning any reasons, following which the suits were mentioned before Justice Abhay Ahuja, who was sitting on the alternate bench. Dwar",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "FD rates up to 8.25%: Which banks offer the highest returns in India now?",
+      "link": "https://www.business-standard.com/finance/personal-finance/fd-rates-up-to-8-25-which-banks-offer-the-highest-returns-in-india-now-126112600797_1.html",
+      "published": "2026-11-26T10:12:37+00:00",
+      "rss_summary": "Small finance banks lead the FD rate chart, with Suryoday offering up to 8.25 per cent. Check how private and public sector lenders compare and what depositors should consider",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Fund Review: ICICI Prudential Short Term Plan",
+      "link": "https://www.business-standard.com/finance/personal-finance/fund-review-icici-prudential-short-term-plan-126112600748_1.html",
+      "published": "2026-11-26T09:48:42+00:00",
+      "rss_summary": "Fund Review: ICICI Prudential Short Term Plan",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "IndiGo up 22% in a month; Anand Rathi sees macro tailwinds aiding recovery",
+      "link": "https://www.business-standard.com/markets/news/indigo-up-22-in-a-month-anand-rathi-sees-macro-tailwinds-aiding-recovery-126112600733_1.html",
+      "published": "2026-11-26T09:44:58+00:00",
+      "rss_summary": "Anand Rathi has maintained a 'Buy' rating on IndiGo stock and raised the target price to ₹6,600 from ₹5,550. The target implies an upside of nearly 16 per cent from the previous close of ₹5,720.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Married daughter can claim motor accident compensation even if earning: HC",
+      "link": "https://www.business-standard.com/finance/personal-finance/married-daughter-can-claim-motor-accident-compensation-even-if-earning-hc-126112600710_1.html",
+      "published": "2026-11-26T09:26:33+00:00",
+      "rss_summary": "The Delhi High Court ruled that financial dependency is not a prerequisite for claiming compensation under Section 166 of the Motor Vehicles Act, but remains relevant in determining the amount",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Markets",
       "source": "Business Standard Markets",
       "title": "Nifty Realty hits 52-wk high, up 3% led by Prestige, Brigade Enterprises",
       "link": "https://www.business-standard.com/markets/news/nifty-realty-hits-52-week-high-up-3-led-by-brigade-enterprises-prestige-estates-126112600658_1.html",
-      "published": "2026-11-26T09:10:53+00:00",
+      "published": "2026-11-26T09:10:01+00:00",
       "rss_summary": "At 02:05 PM on Thursday, the Nifty Realty index was the top gainer among sectoral indices up 3% compared to a 0.14% decline in the Nifty 50.",
       "hinglish_title": "",
       "explanation": ""
@@ -36,7 +86,7 @@
       "source": "Business Standard Markets",
       "title": "Order win impact: Multibagger stock Welspun Corp rises 5%, up 180% YTD",
       "link": "https://www.business-standard.com/markets/news/order-win-impact-multibagger-stock-welspun-corp-rises-5-up-178-ytd-126112600592_1.html",
-      "published": "2026-11-26T08:27:14+00:00",
+      "published": "2026-11-26T08:27:36+00:00",
       "rss_summary": "Multibagger stock: Welspun Corp is one of the standout performers on Dalal Street this year. According to NSE data, the smallcap stock has zoomed 180 per cent in 2026 so far.",
       "hinglish_title": "",
       "explanation": ""
@@ -52,42 +102,12 @@
       "explanation": ""
     },
     {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Today Live Updates: Sensex jumps over 300 points; Nifty tops 25,850 amid tariff concerns - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQYU5Yam5fQllmNHJfQmZpN3Y3dWlVYWZVUEtMS29KYjltcHB3a0N4U01mSFdqejA4NEEtaWd2SDcwY2s4UVdwU1JPYVVKeW5hWll1U0hyUkRHb1hWS0FkVGNrQmtjWW1CSkI0WUM2elhTc2tKTmNBQnZ5TWlrYmdVS1pLbkx0cUMxRTVvbWJacUhnMDlvLWZQY2ZTQlE5SGQtX0xGc2R5ZTNWSVpqVTlmSTZyM2pDbkN3S0RybUtIcGgzNUwxbWtqUHdGNUthSDVOMG1LU3gweUhJdVdFVGFmMXN4SlhSQXhhT0NFMU9PREZVTzB4Y3lhYlE5aHROODNBSFVtRk5Sc3pHbUNlNDNYdGtEVjFCdkt3TGpBcFhjQ28wc0NZWWRMWHF0V1FyQWFNNjM3RDZ30gG7AkFVX3lxTE9hM0VsVGdwbU9MNl9Ccjk4dG93LWlGTi02MmxTRHVjaVhWc0hOZ0d3aW1kaHVmVDhZcmpPbk40UVBxZ2NBQXMtTGJDeXJtX2dvQnBqcmladVl1M3d3cVFTb1ppbFR3TlVHSTRpeEoza0xZdzIzdHZQUUdxSHNNa2dsLVQ3U2FaZzc0MWdOOWNNWklFOGpmc2t1YnB2c244NDBTX1EtSUlzamJQTnBBVmw4c3JfNU9QM1pSczh4ZGtMYlg4Z0kzM3F0cW1kMVlWZmZRNHNtVVRDMmpUSC1NSU1KS20tZDV0MmpFa0JBaVVkV2hTOTNrWnZKcmdiNzBZU0VmWkhST2Y3UEhHQjlEdnVLOEt0SDFscTJsdjlxc3luNVhnTzN5NGE1MDAyeE53R1hTTDhlM2ZfaHkxSQ?oc=5",
-      "published": "2026-11-26T08:01:46+00:00",
-      "rss_summary": "Stock Market Today Live Updates: Sensex jumps over 300 points; Nifty tops 25,850 amid tariff concerns &nbsp;&nbsp; The Times of India Stock Market Today Live Nov 26: Nifty at 26-week high, Sensex in volatile trade; HDFC Bank, IT stocks lead, FMCG lags &nbsp;&nbsp; BusinessLine Stock Market Rally, Sensex Today: Sensex Closes 1,500 Points Higher. Infosys, TCS, HDFC Bank Shares Jump &nbsp;&nbsp; NDTV Sensex Today | Stock Market Live: Sensex extends recovery, up over 400 pts, Nifty near 25,900; IT, realty rally; smallcaps gain 1% &nbsp;&nbsp; Moneycontrol.com Stock Market Close: Sensex surges 1,502 pts, Nifty ends at 25,819; Nifty FMCG rises 3.8% &nbsp;&nbsp; Business Standard Big boom in stock market today; ₹2.2 lakh cr wealth for investors! Sensex up 1,400 points, Nifty 600 | 3 main reasons &nbsp;&nbsp; Livemint Stock market today: Sensex jumps over 2000 points; Nifty50 tops 25,900! Investors richer by Rs 3.84 lakh &nbsp;&nbsp; The Times of India Stock Market Today Highlights: Dalal Street ends in green - BSE Sensex surges 1,500 points, Nifty50 tops 25,800 &nbsp;&nbsp; The Times of India Stock Market Highlights, November 25: Sensex surges 1,502 points, Nifty reclaims 25,800 as rupee hits eight-month high &nbsp;&nbsp; BusinessLine",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Indian Stock Market Rises, Sensex Gains 200 Points - jeevanutsahnews.in",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2RDWTU2RzYteUJVak91b2huVUVKSVlDa2xueUJ1OW1rMlVuRXVSeU5ZSGd2eUxWU1dKRFk5UEVrdF9CbjJqQmVZcW1xLTR5bWNwSUNIYU1EdGpVVDJ6T084eDZRMXRkUmFoNUtKQUhxZlowaDZGM2gyMl9kOHFRMDQ0c2hzTXFfZUFQaHBRQzVQVUhjWHYzd2JqMEdOSndEUFIwVldHMkI?oc=5",
-      "published": "2026-11-26T07:54:26+00:00",
-      "rss_summary": "Indian Stock Market Rises, Sensex Gains 200 Points &nbsp;&nbsp; jeevanutsahnews.in",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "India Inc built websites for people. AI bots are struggling to read them",
       "link": "https://www.business-standard.com/technology/artificial-intelligence/india-inc-built-websites-for-people-ai-bots-are-struggling-to-read-them-126112600498_1.html",
       "published": "2026-11-26T07:39:44+00:00",
       "rss_summary": "An audit of 951 brands found that 80% fall below healthy readability levels, while 82% fail to meet good consumption readiness standards",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "NIFTY trades above 25,850, SENSEX jumps over 370 pts; Wipro, HZL, Siemens Energy among buzzing stocks - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLThDZS1oM1lEUE02OUhjWDBxTW11SEY5VTI4YW1SNzhfcjJMUnp3WDNlVkxiVGF4aFFXUVJkdVZTUzVEZEdfeGpqcWdQcHFRamx0bC1KalRDSWh6dlJ3TW9pOHY4Zm8zTU16X0RaQXNGM2o5eVFpUHV4UmltdjFEZE9USXluWWlyNUx1TldUV3FjcUkyYVk5Z3FzcjJ6RENxandjT3JZaGprOTMwcjRNZDN5VUF2amhqanBPcXdkM0xxajhybHNzRDZmT1FCY0QxSFI1TjJpVU9MdG51Z05pNXVXX1RTa2J1eUFWRw?oc=5",
-      "published": "2026-11-26T07:32:41+00:00",
-      "rss_summary": "NIFTY trades above 25,850, SENSEX jumps over 370 pts; Wipro, HZL, Siemens Energy among buzzing stocks &nbsp;&nbsp; Upstox",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -142,16 +162,6 @@
       "explanation": ""
     },
     {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Wipro shares jump 4% on partnership with BP, emerges top Nifty IT gainer - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQazZVd1psMW9kZ3hFTTZaanl1NVpkM3BFRGFXSTVnU3ZfaDJqaGx4bjNTdjhOb2FoWkZWUWQwMTg3eEVlOU40UXpITFlBQnRWZzNXaGh1aDJQNV9rWm1kYVA3UXZNNmhIZ1JrRG1iOHRfRkk0a3I1cG1qaFpDcmZSbWF1T1FmT01UZEtwY3ZvNDBFUzhOaVNLZGhDdXlJci0wWUUtNmkyTmF4VjFzTnV2UjQwcXRxajVRTXN5LXRmUDZrc2k3VGNuYWRUVWRlS3B2Q2Nqa2dHUlQ3WThGQXpLZzBQTUnSAeoBQVVfeXFMUFF2QWg4QXAtNUtPa19hWkpXUS1PbDhHQ2NtZTV5VUFKN1paVEdORWFHMVp4cFNjVGVVdG1icTZHZXhKa29GWGtnZzNTY0xaWmpJbFJvWjZObkxtcFhQdklTZ2tiNFZlbWxtN2kyWDZLb3hPNGxRVnRlNFVwVmpoQkVHZTZIb3ZHUjBMeEl0eVZqNU5scTVnS2pZMzRLeE5DaVo1TTV0Uy1lOEhaZVd4R0JkUHVkakM5UVdma1NmaTY0d3lyay14ZzFZd0FFbmtucnJ2NjlKUFJ3RVdpOVFQWS01TlBjM2NNM0dn?oc=5",
-      "published": "2026-11-26T06:59:06+00:00",
-      "rss_summary": "Wipro shares jump 4% on partnership with BP, emerges top Nifty IT gainer &nbsp;&nbsp; Business Standard",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Hetero begins shipments of generic HIV prevention drug to 3 African nations",
@@ -168,16 +178,6 @@
       "link": "https://www.business-standard.com/finance/personal-finance/2-years-to-sell-a-home-inventory-pile-up-raises-warning-signs-in-delhi-ncr-126112600453_1.html",
       "published": "2026-11-26T06:48:01+00:00",
       "rss_summary": "Bengaluru's unsold homes surge 21% as new launches outpace buyers",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex Gains 508 Points, Nifty 50 Crosses 25,935 as IT Stocks Lead Market Gains - Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcWJKSVZDa2hWSXllVjdrQkUzNm9oSzlOS0pPTENIRU1WRXJKUVlHSnBJcnVGMDV0YXhCZ1Qyb055SmJyZG0zalpwNVVrejJxU3VIeFllTzE5VTRDOUtHNmpkTXgySzluU3dYbGhld3hUenZTNm9kMnBfakpBcDBRLUZUXzRnSXVBNl9mOHVpUG0yUF8xbVNRU1NxWXQwNEotT3pBaElCRWlTQVlPV1F0b0J4SU1SR21IeE1vUTlKWnFZZ1oz?oc=5",
-      "published": "2026-11-26T06:45:57+00:00",
-      "rss_summary": "Sensex Gains 508 Points, Nifty 50 Crosses 25,935 as IT Stocks Lead Market Gains &nbsp;&nbsp; Dalal Street Investment Journal",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -242,32 +242,12 @@
       "explanation": ""
     },
     {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "NSE share price rallies 9% in two days; market capitalisation nears ₹6 trn - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTJmNE5nd2g4YlpHNkpOSmlsUExoOWc5Z2VYUkI3TlJjcnd0UjdPZ2RBd3FtMlBBd0JubEk2ek9CTGNBZ3RFb25EUVdXd1pEaXhzV3B0c1Q1eEVGeVBsUlpqek1RWHh3T0ZBa1QzenF5Tldlc1l1Q2h4djlfS2xBdlNENlVlWE1VWUJ1RTJleXppUEctcmZUR0FuTmxPSmFRcWhGODlua2QwQWJFRjB4NWhsNy1rSjRGMWRQZEk0cDlDMDlBa2plQmxXbEZZNTlKWUFoZtIB2gFBVV95cUxObDhNd044Ympza25DTGNaWUVacF9ydTVNWjNBQ0ZCWkRZQ3B0UEgwa2JwSWg1em1oa29Yc3ljWGF5QXFkQlNxaHpFN2dlcExLS0JGb0l4QjlwZ2NESHpMZGFsaWQ4UXQzd190Wi1aczZLZk5MNkxUZEVUOHQ1TGpQYXQ5WWZjQVBxR0VVWmQyejlxdXM5NFk1SzBxVzc1Rm5EaTJwVlhTTU5iM3FjSjZxczFpOWllRk9wRGpPYndHZndoNjFDb2JUTDJpVzBuczJjbFpFVk1xY0lWUQ?oc=5",
-      "published": "2026-11-26T05:49:24+00:00",
-      "rss_summary": "NSE share price rallies 9% in two days; market capitalisation nears ₹6 trn &nbsp;&nbsp; Business Standard",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Reliance enters India's growing digital astrology market with JioAstro",
       "link": "https://www.business-standard.com/companies/news/reliance-enters-india-s-growing-digital-astrology-market-with-jioastro-126112600381_1.html",
       "published": "2026-11-26T05:45:13+00:00",
       "rss_summary": "JioAstro's entry comes as astrology apps see rising adoption in India, with the segment recording 150 million downloads in the first nine months of 2026",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "BSE up 50% in 2026; can it hit ₹5,000 in 2027? Here's what brokerages say - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeDgwVWpqaWdHbnJLeXUzRXB4R2JuVU91cE1hdjRGNGluazhENUlBQTgzcnphWl93NmxZTXJUZjBNT3lWc0FMMWM5UnkzRThjZ2JyZkVIdUo1bHNGcEszR1UxM3pncDFyNHhMY1VpLVlSbDJKYVhESzk5XzE3alQ3ZVFOYjBWbGFJM01qRWNKcDVWUVJBbnJlNjQ3TWVLd2xZSlFwdk9tcHdZRGprY0RjT2VUWjdLMEtKV2V5X3dvcTVfclJSa3hReEpnaWQtOWhma2YtS0IxTWpqVExraGkyV2JobnJjbE5S0gHuAUFVX3lxTE16Uk9sTWlONFlUbzdnQlV1X0VHd1BGc1ZGQXByMXh3MTBQMVpwUm1yNUMxNHZfbnZyUks0YjRqWGtkN19vd2hob3VDWDd0bThUQkdMb2RzSWpEMXBhZndHazRLQllPYXhHRFE0YURWc3lhTS1MYzRvYS1BdjJSZjdRa1FlV3pjY0RTTTlHenZqQ3hMblFYNVVIX2oyVGJVeVh6U3J3M0lwU2p6d2VRa2cydkZLNF9kaDA1RlJVYU55NHlKYWtBWXZqSHFmMEdrQlRaV2RkVmRsVFdYczVsdWVhX2otZDZBQWR4OFUyU0E?oc=5",
-      "published": "2026-11-26T05:34:58+00:00",
-      "rss_summary": "BSE up 50% in 2026; can it hit ₹5,000 in 2027? Here's what brokerages say &nbsp;&nbsp; Business Standard",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -312,32 +292,12 @@
       "explanation": ""
     },
     {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "BSE shares gain 3%, hit 4-month high on HDFC Securities' upgrade to 'Buy' - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDRncXRLLVFtTmRsWUhLWnFqQnlLa0g3MUUtNG5VakpWLTZNYUV1SUpETzdQNnJ0dmI1VUIzMC1nOTZvS0RDLTVDajR5R2FweGxQVVlfTHhIalFLOVJTZE5FY1I1c1JhamJLNk1pVVVQY1J3MjJBQ1k4ZGROX3d2dVdSM18td2NVWnZBZUNIckRPOG5zYUZKeGhaTmcxZ0xjN2lSTmV0REl5NDEyT1NYMXFKWFI5Rmk0MUQ3QWRheS1oN1ZkLUI5eHIxamxwX3pQ0gHWAUFVX3lxTE9KaERqNUxpcjFuZVJ3cUdkWWhCZmhiZkpJQU5zeEJ3a1VvVEU0LS1NaFJIaERLT29sLWNEV05HYzRCOTBEc1FhWjFMSWozcjlkMVZ0TW9ZQW1ieTgwTGU2WXFkb0I2UHpoUUFIaXRxay1MSEFKXzVPeFhkX2lTTllDaGdkWDJ1aFBNMWY0U0RJbkpudGVQUkstLVhKNUliYXczU3RiLVBpY3QyajkwTVhiUDExRUpENmJrbElaWGZVai00TDM5d3dlOFZNQTkzaE5JUGhlVmc?oc=5",
-      "published": "2026-11-26T05:19:36+00:00",
-      "rss_summary": "BSE shares gain 3%, hit 4-month high on HDFC Securities' upgrade to 'Buy' &nbsp;&nbsp; Business Standard",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Rakesh Ranjan to take charge as Uber India, South Asia prez from Jan 2027",
       "link": "https://www.business-standard.com/companies/news/uber-rakesh-ranjan-president-india-south-asia-january-2027-126112600197_1.html",
       "published": "2026-11-26T05:18:16+00:00",
       "rss_summary": "The former Zomato and Allen Online executive will take charge on January 4, 2027, nearly five months after Prabhjeet Singh left Uber to join OpenAI",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Markets Today: Sensex, Nifty Climb as Foreign Funds Pour in, IT Shares Lead Gains - Rediff.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjJ5TVF4dlIyWWpfWUNndHlXakNxcDdlaWF1dEZ1N0tqTE4yM3E5NDFQaHAtX09PQlh3SzY5ZjU3WVFJM2FHMl9JUkFOdDZkSjlCVXdodnh4MjFZdzY1RFQwZENPZWZya29XWXFKdkFLNGJ5NG5GNEJEa0FvUzV5cWFsUVR3eVZUa0tKSGNuenFkcEwyUzFISUNTYTE1R3dCaU80cnF3b1dlcFRMcWY5QjNGRFpaX3VEeFU5OVdVSU52amR4djVBNVh6dlAxaXM00gHTAUFVX3lxTFAxNlFtbWhvbFctRGFuTGN0U1M2Mlc5VkhKNzFRVnRHcTk4Rl80d0tfMGJBNUNybkp1YVFmSU5mbGVHV21aVjFZeUs5eTFGelMtTHFqMzdLQk4yejhjdjNnbUlCd1FzVWFqSVVjT1ZMRElwWDN6T0dPUkZtNEZybUJ5c2NYWU11NHRKRG42RVBPRGZ5dk91dnNiT2FiZWNOSE42ZWtSZGVlM2QzMy1kM1FicnNIeXZLOVVuZFMwamdXVC1ZN3hORm9FVjMySzF3MFA4NDA?oc=5",
-      "published": "2026-11-26T05:12:52+00:00",
-      "rss_summary": "Stock Markets Today: Sensex, Nifty Climb as Foreign Funds Pour in, IT Shares Lead Gains &nbsp;&nbsp; Rediff.com",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -358,16 +318,6 @@
       "link": "https://www.business-standard.com/companies/news/consumers-raise-the-bar-for-india-inc-as-corporate-credibility-gap-widens-126112600183_1.html",
       "published": "2026-11-26T05:06:27+00:00",
       "rss_summary": "72% of Indians want businesses to put community investment ahead of profits, while 63% favour local manufacturing despite higher costs",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Today's Market: Sensex Today Trades Higher | Nifty Above 25,800 | Nifty IT Index Up 2.4% - Indian Stock Market News - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmU2THAtX0pJTjRqZURja2o1dFg4dzJ1VVFybUhQSk5seXJOVEVrVjlHNG03cjhXeFFjeHdzM2o3UzlXX2pFblhGeS1mMmVLMFl4UHpRVFVIbWZaMzZCZ0p6aDA5eUZpSXl5VXJybG9ObzdPMVg1eTFRYm5TcDFza0YxelQydmxFYThjV3NmV1ZacjBNRnBIZU1kV0o0VjVPZzdoczlTREtvZ0JuZ2tKd0ZQR1ptMnNlekpLTEVIUEtwSWp6NFBJ?oc=5",
-      "published": "2026-11-26T04:57:39+00:00",
-      "rss_summary": "Today's Market: Sensex Today Trades Higher | Nifty Above 25,800 | Nifty IT Index Up 2.4% - Indian Stock Market News &nbsp;&nbsp; Equitymaster",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -398,6 +348,56 @@
       "link": "https://www.business-standard.com/markets/news/multibagger-stock-diamond-power-gains-2-on-order-wins-from-adani-group-126112600174_1.html",
       "published": "2026-11-26T04:46:16+00:00",
       "rss_summary": "Diamond Power stock has delivered spectacular returns to investors, gaining 155 per cent on a year-to-date (YTD) basis and 3353 per cent over three years.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Dhampur, Balrampur, Renuka zoom up to 14%; here's why sugar stocks rallied",
+      "link": "https://www.business-standard.com/markets/news/dhampur-balrampur-renuka-zoom-up-to-14-here-s-why-sugar-stocks-rallied-today-126112600164_1.html",
+      "published": "2026-11-26T04:44:11+00:00",
+      "rss_summary": "According to reports, India's net sugar production is projected to decline to a decade low of 26.52 MT in the 2026-27 marketing year due to lower sugarcane output and poor monsoon rains.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Jyoti Structures shares spike 9% on ₹272-crore transmission line order win",
+      "link": "https://www.business-standard.com/markets/news/jyoti-structures-shares-spike-9-on-272-crore-transmission-line-order-win-126112600163_1.html",
+      "published": "2026-11-26T04:37:05+00:00",
+      "rss_summary": "The order is a continuation of an earlier EPC contract awarded by Sterlite Power Transmission in September 2022.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "SRF, Cipla, Thermax: Who's impacted by US tariffs and who's not; Jefferies answers",
+      "link": "https://www.business-standard.com/markets/news/srf-cipla-thermax-who-s-impacted-by-us-tariffs-and-who-s-not-jefferies-answers-126112600149_1.html",
+      "published": "2026-11-26T04:33:12+00:00",
+      "rss_summary": "However, the brokerage noted that a significant portion of India's $104 billion annual exports to the US remains outside the current tariff framework or is subject to sector-specific levies.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Siemens Energy jumps 9% as Sept qtr PAT rises 81%; ₹12 dividend declared",
+      "link": "https://www.business-standard.com/markets/news/siemens-energy-jumps-9-as-sept-qtr-pat-rises-81-12-dividend-declared-126112600125_1.html",
+      "published": "2026-11-26T04:16:24+00:00",
+      "rss_summary": "Siemens Energy India has posted an 81.5 per cent Y-o-Y rise in net profit to ₹653 crore in the September quarter, supported by higher export contribution and disciplined order execution.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "LG Electronics India falls 3% as parent launches ₹2,320-cr stake sale",
+      "link": "https://www.business-standard.com/markets/news/lg-electronics-india-falls-3-as-parent-launches-2-320-cr-stake-sale-126112600116_1.html",
+      "published": "2026-11-26T03:58:35+00:00",
+      "rss_summary": "LG Electronics Inc, launched a block deal to sell up to a 2 per cent stake in the company for as much as ₹2,320.5 crore.",
       "hinglish_title": "",
       "explanation": ""
     }
