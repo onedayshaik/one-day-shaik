@@ -1,12 +1,32 @@
 {
-  "updated": "2026-11-26T18:35:16.181763+00:00",
+  "updated": "2026-11-26T19:49:01.560434+00:00",
   "items": [
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Today: Sensex Jumps 390 Points, Nifty Closes A… - theopenpress.in",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVFYeU03Zk0xVDUtZ3pnaE5xVHBtb1dKcVBRcWpJVXRvMnU4cVZaejktaGpjY2xDOHpuazVqYXJVbEplNk1vOEhiOFl1Q2JOMERlUTA1bUxqc0tUSXBvRUdGV0JGOTN2alNuelRsdlpta01fbHhfTV9PWW9LY09RUlozbGR6a0FnZVhianY2QkpsZHFt?oc=5",
+      "published": "2026-11-26T19:45:13+00:00",
+      "rss_summary": "Stock Market Today: Sensex Jumps 390 Points, Nifty Closes A… &nbsp;&nbsp; theopenpress.in",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Financial goals, liquidity needs drive MF redemptions more than mkt falls",
+      "link": "https://www.business-standard.com/markets/news/financial-goals-liquidity-needs-drive-mf-redemptions-more-than-mkt-falls-126112601175_1.html",
+      "published": "2026-11-26T18:23:03+00:00",
+      "rss_summary": "A survey of 678 mutual fund distributors finds that 45% cite achievement of financial goals as a key reason for redemptions, followed by liquidity needs at 40%",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Economy",
       "source": "Business Standard Finance",
       "title": "Robotic surgery: How much will your health insurance policy actually pay?",
       "link": "https://www.business-standard.com/finance/personal-finance/robotic-surgery-how-much-will-your-health-insurance-policy-actually-pay-126112601572_1.html",
-      "published": "2026-11-26T17:19:48+00:00",
+      "published": "2026-11-26T17:19:20+00:00",
       "rss_summary": "Check policy sub-limits, exclusions and coverage for robotic-assisted surgery to avoid unexpected out-of-pocket expenses",
       "hinglish_title": "",
       "explanation": ""
@@ -28,16 +48,6 @@
       "link": "https://www.business-standard.com/economy/news/tariff-threat-likely-to-hasten-india-us-trade-deal-says-jefferies-report-126112601345_1.html",
       "published": "2026-11-26T17:03:10+00:00",
       "rss_summary": "Brokerage sees rate falling to 17% with a pact, says chemical, textile and capital goods exporters most exposed",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTl9iWUt2akZiaW9fQTEzdmc4ejRjeVBQUlZUQnVab3lqUXVjcnJ1a3c4TXhub1phbzdxRHhnQlp2MEdHdFdmUDMtOTVaRFlxbkFWWGFHaUoyX1J4VVRNZ2hLS0NuYU5uWVJ3VGdKTmwwYzROeTNjMDlkdGRLemN4ZlZmQ184ZEpFQlpCdnVTeld6bElxOGZWMDdETlJYSTR5TzJwMVloQVdVY2VmX0NhakJ6REc5SUtlNmRhdXZBcWtaY19NRFYzTHFvalVUNEJfbG40elR5N25wT0c3NFlr0gHkAUFVX3lxTE9RSU1Rb1VURzlleHZzaWQyajNBampRQVR1U1RMbk5lNlY1aXhBdGJpakhKNTdlQ2JKRnZBdExjdnhoZjFDN2dsUXMwR1FBMnB3aFJIMzdxYU5oRWpfV1poc1ZkUXQ4RjFrUWJGRGRpanJ3cERDV3g3Y0xHV2syYnpiUDFMODNDNEZ4QmFmNHJQRVdNRTJfNEM0OEx6TU5IWG5EaDJoQlVLREUtQThZVks2Q2VKOTNBU3FMQVlLTFI3VEpFY2hpdHVNWGNNb1huUTlMMEk2YlNFM3ZYbi00eXNWTlNENQ?oc=5",
-      "published": "2026-11-26T15:43:51+00:00",
-      "rss_summary": "Ahead of Market: 10 things that will decide stock market action on Friday &nbsp;&nbsp; The Economic Times",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -68,16 +78,6 @@
       "link": "https://www.business-standard.com/companies/news/urban-company-enters-ac-market-with-units-designed-for-indian-summers-126112601340_1.html",
       "published": "2026-11-26T14:37:23+00:00",
       "rss_summary": "The home-services platform launches Native Ultra and Ultra Air with a five-year unconditional warranty, including gas refills, and a 10-year compressor warranty.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Economy",
-      "source": "Google News India Economy",
-      "title": "NSE gets RBI approval to launch corporate bond index futures - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN3RmNkNxamJHUFhWU1FoT0I3aUVJWWF1d01QX0hyc0MzMlN3dUVSeF94V01jN0lKUGJ4dERvSDNWTUFPaUpWc3RzVUZnZmJlMl93YjFkc3JuLVFlUkZhR0lDVVJFSVEtMzVrNHZLaTNIUlhfeEZTdUhZZGxZdVE4V29MQXpBRVI4bW9HMWx5ZF9zSnh4czVRaDJBcHBBZjlFY0pJeWhmaXZLTG9MZEJGY2dXZXdMOGw0VWRNQjVVVWZQcGRJTDVn0gHMAUFVX3lxTE9pbXlBU3oxRFluVnVsR0U1SXI4SjFPdUphMkN2X056aVAxc2taM0VZR193WkRDUHdWelBLREVDY19GM1FFQUVuR3VxOXU4MThpZERhbzBOZEd6QzRtaExGQlJxTHpoTmdLeEJiVHpKdXp3RzlfZFVqUkR4aC1ib2taVjdNU252dC1MM2dIV2pIMjFGTi1DZURtRHNheXl2ZEkzTTg4dUdVdDNxdDExdHJnRHBULWhGanFiWkYxaDdmZU8yNDZNMlRVdjdtcw?oc=5",
-      "published": "2026-11-26T14:33:01+00:00",
-      "rss_summary": "NSE gets RBI approval to launch corporate bond index futures &nbsp;&nbsp; The Economic Times",
       "hinglish_title": "",
       "explanation": ""
     },
