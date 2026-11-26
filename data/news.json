@@ -1,16 +1,6 @@
 {
-  "updated": "2026-11-26T19:49:01.560434+00:00",
+  "updated": "2026-11-26T20:48:16.694748+00:00",
   "items": [
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock Market Today: Sensex Jumps 390 Points, Nifty Closes A… - theopenpress.in",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVFYeU03Zk0xVDUtZ3pnaE5xVHBtb1dKcVBRcWpJVXRvMnU4cVZaejktaGpjY2xDOHpuazVqYXJVbEplNk1vOEhiOFl1Q2JOMERlUTA1bUxqc0tUSXBvRUdGV0JGOTN2alNuelRsdlpta01fbHhfTV9PWW9LY09RUlozbGR6a0FnZVhianY2QkpsZHFt?oc=5",
-      "published": "2026-11-26T19:45:13+00:00",
-      "rss_summary": "Stock Market Today: Sensex Jumps 390 Points, Nifty Closes A… &nbsp;&nbsp; theopenpress.in",
-      "hinglish_title": "",
-      "explanation": ""
-    },
     {
       "category": "Markets",
       "source": "Business Standard Markets",
@@ -72,6 +62,16 @@
       "explanation": ""
     },
     {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex Extends Winning Run; IT Stocks Lead Charge as FII Inflows, Global Tech Rotation Lift Market Sentiment - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFVEN1NFVDBfdTNqYVNpZnpPV2hxMTJ5dVJ5QmVUMDA3eTgtaldSNHF6WjNjUGtjUlRrblBiUlhUa0ZpbW1JbDM2cFZEWmczQTlPRVNHbS1kY3hHZmVyTTVRVEI2N2RvcExQLWhlOHNnN3NWVXpVdGpjcWx0dWk3ZkJ5N3BHbEszbUFKb043ck1uQUdFcXNxUVkwcUxtS19mSVdVOUEyeGlpNkllVGtwU2w2UGxxMjFGRmlUNmRVYi14dUpWd3cwS3lMbHJiM0k?oc=5",
+      "published": "2026-11-26T14:55:00+00:00",
+      "rss_summary": "Sensex Extends Winning Run; IT Stocks Lead Charge as FII Inflows, Global Tech Rotation Lift Market Sentiment &nbsp;&nbsp; The Indian Awaaz",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Urban Company enters AC mkt; promises zero repair cost for 5 years",
@@ -82,12 +82,12 @@
       "explanation": ""
     },
     {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex Extends Winning Run; IT Stocks Lead Charge as FII Inflows, Global Tech Rotation Lift Market Sentiment - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFVEN1NFVDBfdTNqYVNpZnpPV2hxMTJ5dVJ5QmVUMDA3eTgtaldSNHF6WjNjUGtjUlRrblBiUlhUa0ZpbW1JbDM2cFZEWmczQTlPRVNHbS1kY3hHZmVyTTVRVEI2N2RvcExQLWhlOHNnN3NWVXpVdGpjcWx0dWk3ZkJ5N3BHbEszbUFKb043ck1uQUdFcXNxUVkwcUxtS19mSVdVOUEyeGlpNkllVGtwU2w2UGxxMjFGRmlUNmRVYi14dUpWd3cwS3lMbHJiM0k?oc=5",
-      "published": "2026-11-26T14:31:27+00:00",
-      "rss_summary": "Sensex Extends Winning Run; IT Stocks Lead Charge as FII Inflows, Global Tech Rotation Lift Market Sentiment &nbsp;&nbsp; The Indian Awaaz",
+      "category": "Economy",
+      "source": "Google News India Economy",
+      "title": "NSE gets RBI approval to launch corporate bond index futures - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN3RmNkNxamJHUFhWU1FoT0I3aUVJWWF1d01QX0hyc0MzMlN3dUVSeF94V01jN0lKUGJ4dERvSDNWTUFPaUpWc3RzVUZnZmJlMl93YjFkc3JuLVFlUkZhR0lDVVJFSVEtMzVrNHZLaTNIUlhfeEZTdUhZZGxZdVE4V29MQXpBRVI4bW9HMWx5ZF9zSnh4czVRaDJBcHBBZjlFY0pJeWhmaXZLTG9MZEJGY2dXZXdMOGw0VWRNQjVVVWZQcGRJTDVn0gHMAUFVX3lxTE9pbXlBU3oxRFluVnVsR0U1SXI4SjFPdUphMkN2X056aVAxc2taM0VZR193WkRDUHdWelBLREVDY19GM1FFQUVuR3VxOXU4MThpZERhbzBOZEd6QzRtaExGQlJxTHpoTmdLeEJiVHpKdXp3RzlfZFVqUkR4aC1ib2taVjdNU252dC1MM2dIV2pIMjFGTi1DZURtRHNheXl2ZEkzTTg4dUdVdDNxdDExdHJnRHBULWhGanFiWkYxaDdmZU8yNDZNMlRVdjdtcw?oc=5",
+      "published": "2026-11-26T14:33:01+00:00",
+      "rss_summary": "NSE gets RBI approval to launch corporate bond index futures &nbsp;&nbsp; The Economic Times",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -162,26 +162,6 @@
       "explanation": ""
     },
     {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Market wrap: HCL Tech, BSE, Asian Paints, Bajaj Finance top gainers and losers on Nifty and Sensex on Thur - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZTVYb1lXaTA1S0k0UHpoYTlpeE8tN0tOQU5uUDhLc3dRaF9BMkg0TjBsSWRpc1p4LVczTThVanlmRzBVRWJWdVR4UWplN2NseWl6T1BVZ2E0SXBjWE5pcGVBM3c2RU5kRHhJVWZQUDZnNnQxR1B5QXhsV2ZhX2NwWjAyVENzelpRSVFxNHk4LWRCWFBiMldOQVJGdl9OU2lyYnJUWk5ZNGV3OFAxbUJfcXVxUzZNcW56ZzZLeWdSUEt1Skw1YkxUTFYzcHpVWk1xMTRVVnpfdzBvWmYzcndMaG5NMDJVUzFhVHotSGVFa0dTRXFXbTZQUk1VRHd4ald5R254V3lGc2NrRV9p0gGSAkFVX3lxTE1zX1c4c0ZOVGdYbWVpUGtGOGJUQmluX2RxeC1FSjF3NW1ua0lES2ZXZmdYWXpGdDludWtOQ0JISDQwcF83Ml9HdzVua01EdVA1RlEyZmN6cDc0bDB6THVTN3JMY19Ebi0taUlCRW9HSmxpWmt3NnkwWGdUS1JldlhLNXZDaXFSSVdRVS0teTRnUUl3TGU5ZkxkT1h4WkVFMDFQS185V1NLREVtRTZxQ0tjZ1NSYllzSTUwdWxQamJabzVWSE54UTZpbEdWa3RDajdPY3JEREhyQnZyQkkwQVNMZHIxaXVOUy1rQmluU2lNWXFlOWJpRUFubGdKME9aQnM5LXNDVG9UZzRHOE53b25vVkE?oc=5",
-      "published": "2026-11-26T12:20:33+00:00",
-      "rss_summary": "Market wrap: HCL Tech, BSE, Asian Paints, Bajaj Finance top gainers and losers on Nifty and Sensex on Thur &nbsp;&nbsp; The Economic Times",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Nifty surges over 12% in November, eyes biggest monthly gain in six years; BSE, Eternal, Trent among top gainers - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMXVTUklhcTVPSk5pckhhRHg0SzVzb2c3S0N6V25Hbm9vLTBKWE1Zd0RoRU9td1N4M3V5T0hoTEVBcG52T2xCWHNjZkw1MjgxalYtRjNNMUUxa0NybWNfSFc2d0RRS1hPc2RMSk5wa0xnRkh0c0J2V21pcFc5V1NuWkZTUWk4eHROMGZRdVRVRkVORTJxem1WRXRaTlJzTXo3Tm1hei10MlktVGIzQWxzQ3RpaWJNMUUtSzZ2TXJicFpOLUVaZjBIYUtDMGJlQ2JLSXhmTXBwal8yNUt6bmdQcnpTMno3bGFhbHl5b1BkdTZxQ3dLb19hYkQ2QWs4RDItcmtZM2Rxd0LSAY4CQVVfeXFMUFNGdDEtSkE0WWlncGZfekdkdUxLU2dBazNzQWh1aTFWemdVVGhseTRlMUozNjh4UE9BUVR4T3hpOThDb2txQUREbmdKbEktRXBsbGs2Mnp6VkVGeUdOSmVITWE2bXBVM2NOeXdBLVY0WHk1djd5WTVJODFwZjRQMnNqSDNZVmhQWHFLWTFIbjhkck0yaHZCRm5mUnNpM2RsUzdjNldtLVAtSHVnVmg1LWZxNUdHRlF2N0RoRDktOVd5d2dneDFOSUhyTG90VnhEYzNzaUJMSWV1eVhuaW1rUFFxaXhSUWNJNGFUYkRtMFRoRjAybmEzOWZKa2EzQnlESVpSYXhLTEx2RElLcHJn?oc=5",
-      "published": "2026-11-26T12:20:20+00:00",
-      "rss_summary": "Nifty surges over 12% in November, eyes biggest monthly gain in six years; BSE, Eternal, Trent among top gainers &nbsp;&nbsp; Livemint",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Ultraviolette breaks ground on ₹779 crore electric vehicle plant in Hosur",
@@ -248,6 +228,16 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmlGU0tPZ3NQenZzTXlMOHllZkdPZHp2U0NqVXBNdHc4ZnN0UnI0Z2ZNMWFmMlZGRXdxbXAzVFo4YzZ0cGI1eXVjdTg5bjNoY1A2NEQxLVVFamVSeDNwMnIweHZXLWd0YlRyOWd3R29EN2xjdWlFdjVMTFJNV0RTeHkxaE8xUHFKQ3VWaTVoY0JwbjV4OFI1QUtyeURFUFJyam5nZlZ2emR5NFk?oc=5",
       "published": "2026-11-26T11:00:25+00:00",
       "rss_summary": "Stock Market Today: Nifty gains 1.85%, Sensex up 1,502 points &nbsp;&nbsp; Multibagg AI",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock Market Today Highlights: Sensex jumps ends over 350 points; Nifty tops 25,850 despite tariff concerns - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQYU5Yam5fQllmNHJfQmZpN3Y3dWlVYWZVUEtMS29KYjltcHB3a0N4U01mSFdqejA4NEEtaWd2SDcwY2s4UVdwU1JPYVVKeW5hWll1U0hyUkRHb1hWS0FkVGNrQmtjWW1CSkI0WUM2elhTc2tKTmNBQnZ5TWlrYmdVS1pLbkx0cUMxRTVvbWJacUhnMDlvLWZQY2ZTQlE5SGQtX0xGc2R5ZTNWSVpqVTlmSTZyM2pDbkN3S0RybUtIcGgzNUwxbWtqUHdGNUthSDVOMG1LU3gweUhJdVdFVGFmMXN4SlhSQXhhT0NFMU9PREZVTzB4Y3lhYlE5aHROODNBSFVtRk5Sc3pHbUNlNDNYdGtEVjFCdkt3TGpBcFhjQ28wc0NZWWRMWHF0V1FyQWFNNjM3RDZ30gG7AkFVX3lxTE9hM0VsVGdwbU9MNl9Ccjk4dG93LWlGTi02MmxTRHVjaVhWc0hOZ0d3aW1kaHVmVDhZcmpPbk40UVBxZ2NBQXMtTGJDeXJtX2dvQnBqcmladVl1M3d3cVFTb1ppbFR3TlVHSTRpeEoza0xZdzIzdHZQUUdxSHNNa2dsLVQ3U2FaZzc0MWdOOWNNWklFOGpmc2t1YnB2c244NDBTX1EtSUlzamJQTnBBVmw4c3JfNU9QM1pSczh4ZGtMYlg4Z0kzM3F0cW1kMVlWZmZRNHNtVVRDMmpUSC1NSU1KS20tZDV0MmpFa0JBaVVkV2hTOTNrWnZKcmdiNzBZU0VmWkhST2Y3UEhHQjlEdnVLOEt0SDFscTJsdjlxc3luNVhnTzN5NGE1MDAyeE53R1hTTDhlM2ZfaHkxSQ?oc=5",
+      "published": "2026-11-26T10:42:33+00:00",
+      "rss_summary": "Stock Market Today Highlights: Sensex jumps ends over 350 points; Nifty tops 25,850 despite tariff concerns &nbsp;&nbsp; The Times of India Stock Market Rally, Sensex Today: Sensex Closes 1,500 Points Higher. Infosys, TCS, HDFC Bank Shares Jump &nbsp;&nbsp; NDTV Stock Market Close: Sensex ends volatile session 390 pts up, Nifty at 25,885; realty, IT shine &nbsp;&nbsp; Business Standard Stock Market Today Highlights Nov 26: Stock markets rally for 2nd day on foreign fund inflows, buying in IT shares &nbsp;&nbsp; BusinessLine Sensex Today | Stock Market Highlights: Sensex ends 390 pts higher, Nifty near 25,900; IT, realty jump up to 3%; HDFC Bank leads &nbsp;&nbsp; Moneycontrol.com Stock Market Highlights: Sensex ends 390 pts higher, Nifty above 25,850; HCL Tech, BSE jump 6% each &nbsp;&nbsp; The Economic Times Stock Market Highlights: Sensex rises 390 points, Nifty nears 25,900; IT, realty stocks gain up to 3%, HDFC Ba &nbsp;&nbsp; CNBC TV18 Stock market today: Sensex jumps over 2000 points; Nifty50 tops 25,900! Investors richer by Rs 3.84 lakh &nbsp;&nbsp; The Times of India Indian Stock Market Ignores 25% Tariff Threat: Sensex Jumps 1%, Nifty Crosses 25,950; Why Market Is Rallying Today? &nbsp;&nbsp; Goodreturns",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -398,6 +388,16 @@
       "link": "https://www.business-standard.com/markets/news/order-win-impact-multibagger-stock-welspun-corp-rises-5-up-178-ytd-126112600592_1.html",
       "published": "2026-11-26T08:27:36+00:00",
       "rss_summary": "Multibagger stock: Welspun Corp is one of the standout performers on Dalal Street this year. According to NSE data, the smallcap stock has zoomed 180 per cent in 2026 so far.",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "Sebi appoints auditor to probe Coffee Day Enterprises' fund diversion",
+      "link": "https://www.business-standard.com/companies/news/sebi-appoints-auditor-to-probe-coffee-day-enterprises-fund-diversion-126112600553_1.html",
+      "published": "2026-11-26T08:02:35+00:00",
+      "rss_summary": "Markets regulator SEBI has appointed a forensic auditor to assist in a probe into the affairs of Coffee Day Enterprises Ltd, following directions from the Securities Appellate Tribunal (SAT). The SAT had on November 5 directed the Securities and Exchange Board of India (SEBI) to conduct a fresh, independent and comprehensive investigation into the alleged diversion of Rs 3,535 crore from seven subsidiaries of Coffee Day Enterprises Ltd (CDEL) to Mysore Amalgamated Coffee Estates Ltd (MACEL), an entity linked to the company's promoters. Pursuant to the order dated November 5, 2026 passed by the appellate tribunal, CDEL, in a regulatory filing on Thursday, said \"SEBI has, vide its letter dated November 25, 2026, informed the company that CLA Indus Value Consulting has been appointed as the forensic auditor to assist the investigating authority.\" The company said its board of directors would take further steps as may be necessary in the matter. On November 5, SAT set aside an order ..",
       "hinglish_title": "",
       "explanation": ""
     }
