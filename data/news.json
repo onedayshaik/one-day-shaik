@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-26T02:02:12.250046+00:00",
+  "updated": "2026-11-26T03:08:40.575337+00:00",
   "items": [
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Asian shares bounce as AI concerns, fresh US tariffs lurk in background",
+      "link": "https://www.business-standard.com/markets/news/asian-shares-bounce-as-ai-concerns-fresh-us-tariffs-lurk-in-background-126112600046_1.html",
+      "published": "2026-11-26T02:42:48+00:00",
+      "rss_summary": "Nvidia stock ended down 3.9% at $149.30 on Wednesday, $2.3 trillion short of its October peak of $243.37",
+      "hinglish_title": "Asian markets mein aayi tezi, lekin AI aur US tariffs ki chinta barkarar",
+      "explanation": "Asian shares mein thodi recovery dekhne ko mili hai, halanki AI concerns aur naye US tariffs ka darr abhi bana hua hai. Wednesday ko Nvidia ka stock 3.9% gir kar $149.30 par band hua. Yeh stock apne October peak ke $243.37 se lagbhag $2.3 trillion peeche chal raha hai."
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Stocks to watch: LG Electronics, Siemens Energy, Wipro, sugar stocks",
+      "link": "https://www.business-standard.com/markets/news/stocks-to-watch-lg-electronics-siemens-energy-wipro-sugar-stocks-126112600059_1.html",
+      "published": "2026-11-26T02:33:01+00:00",
+      "rss_summary": "Textiles, shrimp exporters, gems and jewellery sectors could remain in focus after the US proposed tariffs of up to 25 per cent on Indian goods.",
+      "hinglish_title": "LG Electronics, Wipro aur export sectors par rahegi market ki nazar",
+      "explanation": "Aaj trading ke dauran LG Electronics, Siemens Energy, Wipro aur sugar stocks focus mein reh sakte hain. US ne Indian goods par 25 percent tak ke tariffs lagane ka prastav rakha hai. Is faisle ke chalte textiles, shrimp exporters aur gems and jewellery sectors par investors ki gehri nazar bani rahegi."
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Stock Market LIVE: GIFT Nifty signals gap-up open; Asia mkts rebound as dip-buyers return to tech",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-26-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112600049_1.html",
+      "published": "2026-11-26T02:31:33+00:00",
+      "rss_summary": "Sensex Today | Stock Market LIVE Updates Thursday: The GIFT Nifty indicated a gap-up open for the Nifty50 index. Asian markets rebounded as dip-buyers saved technology stocks",
+      "hinglish_title": "GIFT Nifty ne diye gap-up open ke sanket, Asian markets mein bhi tezi",
+      "explanation": "Thursday ko GIFT Nifty ne Nifty50 index ke liye gap-up opening ka ishara diya hai. Iske sath hi dip-buyers ke lautne se Asian markets mein bhi recovery dekhne ko mili. Technology stocks mein buyers ki entry se market ko accha sahara mila hai."
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Eicher, 2 other stocks flashing bullish signals on tech charts: Ajit Mishra",
+      "link": "https://www.business-standard.com/markets/news/eicher-2-other-stocks-flashing-bullish-signals-on-tech-charts-ajit-mishra-126112600051_1.html",
+      "published": "2026-11-26T02:22:47+00:00",
+      "rss_summary": "The sharp recovery following Monday's correction suggests that underlying buying interest remains intact, although some consolidation cannot be ruled out.",
+      "hinglish_title": "Eicher samet teen stocks par bane bullish signals: Ajit Mishra",
+      "explanation": "Ajit Mishra ke mutabiq Eicher aur do anya stocks ke technical charts par bullish signals dikhai de rahe hain. Monday ke correction ke baad aayi tezi se pata chalta hai ki market mein buying interest barkarar hai. Halanki aane wale dino mein thode consolidation ki sambhavna se inkar nahi kiya ja sakta."
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Nifty can rally towards 26600; Ceat among 3 stock ideas: Jatin Gedia",
+      "link": "https://www.business-standard.com/markets/news/nifty-can-rally-towards-26600-ceat-among-3-stock-ideas-jatin-gedia-126112600048_1.html",
+      "published": "2026-11-26T02:14:43+00:00",
+      "rss_summary": "We expect the Nifty to reach the all-time high of 26373 and potentially extend towards 26600, where resistance in the form of the daily upper Bollinger band is placed.",
+      "hinglish_title": "Nifty 26,600 tak ja sakta hai, Ceat par bhi rahegi nazar: Jatin Gedia",
+      "explanation": "Jatin Gedia ka manna hai ki Nifty apne all-time high 26,373 tak pahunch sakta hai aur aage 26,600 tak badh sakta hai. 26,600 ke level par daily upper Bollinger band ka resistance mojood hai. Iske sath hi unhone Ceat samet teen stock ideas par nazar rakhne ki baat kahi hai."
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Will SIP momentum continue? Does AI call for change in investment strategy?",
+      "link": "https://www.business-standard.com/finance/personal-finance/will-sip-momentum-continue-does-ai-call-for-change-in-investment-strategy-126112500985_1.html",
+      "published": "2026-11-26T02:00:01+00:00",
+      "rss_summary": "Experts believe artificial intelligence and advanced tools are proving useful for fund managers from an investment perspective",
+      "hinglish_title": "Kya SIP ka momentum rahega barkarar? AI badal raha hai investment strategy",
+      "explanation": "Market experts ka manna hai ki artificial intelligence aur advanced tools fund managers ke liye kafi faydemand saabit ho rahe hain. In tools se investment strategy aur decisions ko behtar banaya ja raha hai. Zyada details ke liye original report dekhein."
+    },
     {
       "category": "Companies",
       "source": "Business Standard Companies",
@@ -8,8 +68,8 @@
       "link": "https://www.business-standard.com/companies/news/green-aero-raises-14-million-to-develop-jet-engines-and-combat-drones-126112501253_1.html",
       "published": "2026-11-26T00:30:27+00:00",
       "rss_summary": "Crane Ventures leads the Series A funding round as the Bengaluru-based startup expands its engine testing facilities and develops autonomous aircraft for military and commercial markets",
-      "hinglish_title": "",
-      "explanation": ""
+      "hinglish_title": "Bengaluru ke Green Aero ne jet engines aur drones ke liye jutaye $14 million",
+      "explanation": "Bengaluru-based startup Green Aero ne Series A funding round mein 14 million dollars ka fund jutaya hai. Is round ko Crane Ventures ne lead kiya hai. Company is paiso ka istemal engine testing facilities badhane aur military wa commercial markets ke liye autonomous aircraft banane mein karegi."
     },
     {
       "category": "Markets",
@@ -28,8 +88,8 @@
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOHhDa2d2cFRpVklEMlhpQUJxS0p6RzlxUmtOMDAtaVoxcFI5Yk8zNmNveUZVd2M0NDJraGliZXI3cHNadk9HTDRIN1loX29NNTl4dHJCZ2sxZnlrVTVTYU5GdHMwUmJXSW5Od2NiNGVGbE1xa2N0TG1VSVBvc0ZvZkJackN5ajRYZUROOWpfR0s4dERJa2k1cmNGb3lOLVlVWk9RbWhaVjJ6RDFhYzMta1lFbVZ2ODQ4ck00SUR1QVdDWXUtZDhJV1Bza2tzam9ab0xFZXpDZjZHd0syLTFrS2RUQ3oxdnhzRkhJNGo5aEZHYlXSAfgBQVVfeXFMTVp4bVFRMnlMYy1wa002Z0FzeWI5eVZRWkhDZWg3QlkySDV5UDdFc05DWV8xRFFkUnRWck9nOTVWQ015Q1J3RGRqV25EQl9NOXVDN1FCUGc3bEExdFJvOTI1M0VCcUl6VWNmSm53ZERpbTRJaEw4amJ6dnh4cnk2VXhHVjh4SHo1WDgxTUExZVQ2Uk5OMTRCSzFYWGN4ZFZxUzJ1UFZ2cDJMUTAtb1I4NXhQNXlud3JOV0VBRDNYdW9KMzQtRXR5ajgxZGktZ3RCb0dvaGNPWVRoaXhNdlA4OUZ4RDdudTJENktHSnh4SVZNNEhpckRsZDI?oc=5",
       "published": "2026-11-25T23:35:02+00:00",
       "rss_summary": "How should investors play the current Indian stock market moves? Kotak's Sanjeev Prasad advises &nbsp;&nbsp; CNBC TV18",
-      "hinglish_title": "",
-      "explanation": ""
+      "hinglish_title": "Market moves mein investors kya karein? Kotak ke Sanjeev Prasad ne di salah",
+      "explanation": "CNBC TV18 ke mutabiq Kotak ke Sanjeev Prasad ne mojooda Indian stock market ki chal par investors ko advice di hai. Is report mein bataya gaya hai ki current market situation ko investors kaise approach karein. Zyada details ke liye original report dekhein."
     },
     {
       "category": "Markets",
@@ -48,8 +108,8 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczBmMFhvX0Nieno2RjU0V0o0bFpMdTduU2dqbEhxSjd6NURzQmlHZURaWENfZXdLc2E3ZGlBWldLbnlfeG9BaW13MTBlS085Q0EtYmp4X1hYOS1yWEgyQXZ4TE9wY3FKOHRkSy10X2YtblVWeGVxNTZTUlZLN0RXQnlTdk8zSlI0VHJELTBWbS00OWY2SzFMRTdYU3VpWTBKX1Mza1YxOG5pZw?oc=5",
       "published": "2026-11-25T19:50:32+00:00",
       "rss_summary": "Nifty 50 rally targets 26,000 as Sensex gains 1,502 points &nbsp;&nbsp; Multibagg AI",
-      "hinglish_title": "",
-      "explanation": ""
+      "hinglish_title": "Sensex mein 1,502 points ka uchhal, Nifty 50 ka target 26,000",
+      "explanation": "Multibagg AI ki report ke mutabiq Sensex mein 1,502 points ki zabardast tezi darj ki gayi hai. Is rally ke dum par Nifty 50 ab 26,000 ke level ko target kar raha hai. Zyada details ke liye original report dekhein."
     },
     {
       "category": "Companies",
@@ -302,6 +362,16 @@
       "explanation": "Coca-Cola India ne apne mashhoor orange drink Gold Spot ko 26 saal baad wapas launch kiya hai. Saal 2000 me band ho chuka yeh drink ab can format aur low-sugar variant me milega. Company is relaunch ke liye quick-commerce delivery par pehle focus kar rahi hai."
     },
     {
+      "category": "Economy",
+      "source": "Google News India Economy",
+      "title": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding - The Hawk",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc0ZreHZ5OHdkTTJtWXlkRVQ2b1NmTncwZk9GSmt2RjV1OHk5QW9VY3ZfN19pWGt6cjhuREtrSXZ0Y0FsM1VEWWhELWh0Yk5mYzlReEFEbU93TElDZkpJVVc1Q05WTzVVdHFaV211UnNDU003Q01YUDNma1pZeDFaRGRGTTVCWkxFaVFqMFhzbmFBLWdYOWJWY2ZleFhGUVNERy1zeHJEMXVXd1RJZS0wcFFodlByQk5qdW96MU9heTM5S0VFanV2VW1GemNBalVBY1FZNA?oc=5",
+      "published": "2026-11-25T13:10:55+00:00",
+      "rss_summary": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding &nbsp;&nbsp; The Hawk",
+      "hinglish_title": "SEBI ne aasan kiye KYC niyam, client onboarding process hua saral",
+      "explanation": "The Hawk ki report ke anusar SEBI ne KYC ke niyam aasan kar diye hain. Naye clients ki onboarding ko aasan banane ke liye supplementary client data ko centralise kiya gaya hai. Zyada details ke liye original report dekhein."
+    },
+    {
       "category": "Markets",
       "source": "Business Standard Markets",
       "title": "AI stocks slide as investors weigh rising costs of infrastructure buildout",
@@ -330,76 +400,6 @@
       "rss_summary": "The revised norms, effective December 24, will simplify client onboarding by eliminating repeated submission of supplementary KYC details and enabling portability of records",
       "hinglish_title": "Sebi Karega KYC Aasan, Agencies Par Ek Jagah Jama Honge Details",
       "explanation": "Sebi ne KYC process ko aasan banane ke liye naye rules introduce kiye hain jo 24 December se laagu honge. In rules se baar-baar supplementary KYC jama karne ki zaroorat khatam ho jayegi aur client onboarding simple ho jayegi. Registration agencies par records centralized aur portable honge."
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "ONDC takes on quick commerce with NearU, bets on local stores for delivery",
-      "link": "https://www.business-standard.com/technology/tech-news/ondc-takes-on-quick-commerce-with-nearu-bets-on-local-stores-for-delivery-126112500939_1.html",
-      "published": "2026-11-25T12:12:18+00:00",
-      "rss_summary": "ONDC will pilot NearU in parts of Delhi in December, targeting four-hour mobile phone deliveries through neighbourhood retailers without the need for dedicated dark stores",
-      "hinglish_title": "ONDC Ne Shuru Kiya NearU, Local Dukano Se Hogi 4 Ghante Me Delivery",
-      "explanation": "ONDC quick commerce ko takkar dene ke liye December me Delhi ke kuch ilaqon me NearU pilot project shuru karega. Iska focus local mohalle ki dukano ke zariye 4 ghante ke andar mobile phones deliver karne par hoga. Is service ke liye alag se dark stores banane ki zaroorat nahi hogi."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Indian markets rally 1.8% as November gains help recoup nearly all 2026 losses - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQW0tX2wxYzNCd1FLWEs2MUJrc0NETmkxdEM2VnlZQnluZVRvWThxVTJ4TmNwaDUwd1FoSXJ3aVZVT0JnQXpaX2dCMGdhZWoybmRsRjhsT0hNN3c3WElscGFwM1JyUmpEOEk0VDlSb0E4Y0h6dXFlRnpCSE5ZNTdPQzFWaHJhSS1oTzI0dzZXYmpjeGY1bHB3S2UzN1Q0TVFYSnNxN1lXQdIBrgFBVV95cUxNQ1ZiWUFvdWFlX0pqRmU5SGZ3MUIwaTdPMVpaY2R0YS13dV9JbFM4WEVmYTVPa3lTVTJ3elZuSm9jeXBoYnFtMnlYTE1ER1k2Y3ZRa0gyYUNWdTBMQTd6eHlueUsxRWk2cldGVEhJaF9tS0RXa25jMFdISENOcE1Xa3lzYXRoNGp6OFlzNnBKZlBnYmNjYmpTR2c0aE54TGE1ZTVqaFpRaVVrY09mX1E?oc=5",
-      "published": "2026-11-25T12:09:07+00:00",
-      "rss_summary": "Indian markets rally 1.8% as November gains help recoup nearly all 2026 losses &nbsp;&nbsp; The Indian Express",
-      "hinglish_title": "November Rally Se Sambhla Indian Market, 2026 Ka Nuksan Lagbhag Recover",
-      "explanation": "Indian markets me 1.8% ka uchhal dekhne ko mila hai. November ki is recovery ke chalte 2026 me hue lagbhag saare losses ki bharpai ho gayi hai. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Markets rebound: Sensex jumps 1,502 points on foreign fund inflows, lower crude oil - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWJ6ajVSMDlJM0U3Y2VtNm94X0N0T3hLR29fWkl6NW05cE9GNHY2VnRSSzh5cDk4d0dFRE4zZXk1YlkzREVUaDNzOUVjcmk2dzhhZmtjdkZvSGtuWGxvYTk0aVZoY09NbHI4V25FelRlbTF2UHFadDRnRk51Qm5ZN0J6SmVGUHJGOThKelZfZlZPQ0NXSVZGSkFkZ21LdDNMVF8wNDd3ZzZIdWlPS1JsWF8wcklsc1c0UFFnbU1UUnlLS0hkYnlYazR2NHB0LWvSAdwBQVVfeXFMUHFFZHdyVWVPMC16cnE4d2s0MmpfcTR1WG1zTjF3MzRoN28xZXBLRzVCSG5EbFBkSW5FcWE3OElxNnB0bkdDaU0yN29Id25xTjByMVRYQWNjT2VQb0h3S081QmJ5cHZUTkdjNV9mZ1dXYk00X2VfMS10WHRyNXpUdkNjR3VJdFVUdUM1UENxRjNiUDhMdE5DQ0gxeXFtUkh3NnN0V3RLU3ZQUFdaYl8zaTZKYk05SkFiZEs5eUNSWWNiN2dITk0wUWxRZWVkTTNBXy1OdTdTZzE2NEF4cA?oc=5",
-      "published": "2026-11-25T12:01:38+00:00",
-      "rss_summary": "Markets rebound: Sensex jumps 1,502 points on foreign fund inflows, lower crude oil &nbsp;&nbsp; The New Indian Express",
-      "hinglish_title": "Foreign Funds Aur Saste Crude Oil Se Sensex 1,502 Points Uchhla",
-      "explanation": "Foreign fund inflows aane aur crude oil sasta hone se market me zabardast rebound hua hai. Sensex 1,502 points ki tezi ke sath band hua. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "Pine Labs bets on AI agents for merchants, starts with ads and data queries",
-      "link": "https://www.business-standard.com/companies/news/pine-labs-bets-on-ai-agents-for-merchants-starts-with-ads-and-data-queries-126112500892_1.html",
-      "published": "2026-11-25T11:47:23+00:00",
-      "rss_summary": "The fintech firm has launched two AI agents to help merchants analyse sales and payments data and run Google ad campaigns, with an Agent App Store planned for December 15",
-      "hinglish_title": "Pine Labs Laya AI Agents, Merchants Ko Milegi Ads Aur Data Me Madad",
-      "explanation": "Fintech platform Pine Labs ne merchants ke liye do naye AI agents launch kiye hain. Yeh agents sales aur payments data analyze karne ke sath-sath Google ad campaigns chalane me madad karenge. Company ne 15 December ko ek naya Agent App Store launch karne ka bhi plan banaya hai."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Nifty Climbs 2.2% as Sensex Gains Nearly 2,000 Points - cwibc.co.id",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IQlF2a19hbF9TWk5LNEFJOUtmZmJSZEh3R3l4b3F4UlR1VUdHVzJQVk0zaVRMYW1ETl9QaE1UbGdYTmZlQlNpY3JEY0tVR1ozNkw4MWV6dmFlems5TjYyR3hBXzVXMl9zWUlZZm1tNA?oc=5",
-      "published": "2026-11-25T11:45:56+00:00",
-      "rss_summary": "Nifty Climbs 2.2% as Sensex Gains Nearly 2,000 Points &nbsp;&nbsp; cwibc.co.id",
-      "hinglish_title": "Nifty 2.2% Chadha, Sensex Me Kareeb 2,000 Points Ki Tezi",
-      "explanation": "Bhartiya share market me badi tezi ke sath Nifty 2.2% upar gaya hai. Wahi Sensex me kareeb 2,000 points ka uchhal dekha gaya. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Nov 25, 2026 - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaVBCWkFuYXRIdlhlemZjbUMyb1pOVTZzWjd5RmEwQ09LeHNLVnloQ3BnQ0VvaDZSS1VmMXR5SmRpRTBNTlVvTFFrMV9zS0ROYTI3blVaemdVOWF0Umo1LVh2UTF3VmE1SVdmaDRWby02RWhTR1NHd0VLMGJSbi1wOUswNlNFM1NMbWVna1JqcWdkY1UtV3R0OWtkVzJvNUwwT3diWFZ3bWU1SGJ0TWkzdWNoLWZrdzVPZlNBZXZTblkwRDM4NGxnZS1WOFEza0pLZmRqSDNFVGVIVlBrUmdvMW9qNGtNVVBLYS1zQUZkdXd3bU0?oc=5",
-      "published": "2026-11-25T11:12:37+00:00",
-      "rss_summary": "Share Market Today: Nifty 50, Bank Nifty | Nov 25, 2026 &nbsp;&nbsp; Liquide Blog",
-      "hinglish_title": "Share Market Ka Haal: Nifty 50 Aur Bank Nifty Update",
-      "explanation": "25 November 2026 ko share market me Nifty 50 aur Bank Nifty ke levels par charcha hui hai. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Companies",
-      "source": "Business Standard Companies",
-      "title": "L&T wins order worth up to ₹2,500 cr for battery storage project in Gujarat",
-      "link": "https://www.business-standard.com/companies/news/l-t-wins-order-worth-up-to-2-500-cr-for-battery-storage-project-in-gujarat-126112500803_1.html",
-      "published": "2026-11-25T11:07:54+00:00",
-      "rss_summary": "The 300 MW/900 MWh battery energy storage project at Khavda will help maximise renewable energy utilisation, strengthen grid stability and enhance the reliability of power supply",
-      "hinglish_title": "L&T Ko Gujarat Me Mila ₹2,500 Crore Ka Battery Storage Project Order",
-      "explanation": "Larsen & Toubro ko Gujarat ke Khavda me battery energy storage ke liye ₹2,500 crore tak ka order mila hai. Yeh project 300 MW/900 MWh capacity ka hoga. Isse renewable energy ka behtar upyog ho sakega, power supply reliable hogi aur grid stability mazboot banegi."
     }
   ]
 }
