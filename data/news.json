@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T21:38:33.262888+00:00",
+  "updated": "2026-11-27T22:39:08.502235+00:00",
   "items": [
     {
       "category": "Markets",
@@ -32,6 +32,16 @@
       "explanation": "RBI ne banks ko behad sandigdh ya suspicious transactions par debit hold lagane ki ijaazat de di hai. Central bank ne iske liye ek uniform aur time-bound procedure tay kiya hai jisse aise accounts ki pehchan jaldi ho sake. Is naye niyam ka maqsad aam aur genuine customers ko kisi pareshani se bachana bhi hai."
     },
     {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Sensex gains nearly 400 pts in early trade as IT stocks rally, Nifty below 25,900 - DD India",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjU3clZfUjh1M1lhMWJLcFBTVHBMS1JIUTFpdE96eGs3VXU0dW5uM21NTENmNTlObUpLMnZwcUxTZWV1T0h2dEJFR0lkRHY1bHowSl9LWi1SNlYtY2VDTnBiMXR0SVVYcm1VQjNLSjBqaHFYbTZ3WFVMVjJUaDJHSjI5TXF0a1lFX1hGcGVSUFpwdTBuVzFoQ2E5cHB0RmlJZXdaUnFYZC1nN1lpMjF3?oc=5",
+      "published": "2026-11-27T16:00:58+00:00",
+      "rss_summary": "Sensex gains nearly 400 pts in early trade as IT stocks rally, Nifty below 25,900 &nbsp;&nbsp; DD India",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Adani Group eyes airline investments months after ruling out airline entry",
@@ -44,12 +54,12 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "Stock Market This Week: Why Sensex Lost 580 Pts Despite Strong FII Inflows and Defence Rally - The Indian Awaaz",
+      "title": "Stock Market This Week: Sensex, Nifty Snap Mid-Week Recovery as Brent Crude Tops $97 - The Indian Awaaz",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTdFM18xNkkzV2NJczhEYTVoSnVRRXZEeEc2TlJydlM4OWRDZVA3bkZCb0Nsbk9qbjhsSUR6YkU4SkRRYTZWVTE3LVZnY3F4VjMxTHdDcUt5Ty1ZR2xsbGo3b2FSYWR4ZHBoTmdzRllMUE9HaUd4dUVMRmp5T2dFc0RQSVdRWUdhNXNKQTVzSjNIakRvNE9mSFYtMkdNUHZpNmFTOTRGMFIwdW9JRnY3V19xUl9zdElJY0xv?oc=5",
-      "published": "2026-11-27T15:38:59+00:00",
-      "rss_summary": "Stock Market This Week: Why Sensex Lost 580 Pts Despite Strong FII Inflows and Defence Rally &nbsp;&nbsp; The Indian Awaaz",
-      "hinglish_title": "FII Inflows Ke Baad Bhi Sensex 580 Points Gira",
-      "explanation": "Is hafte majboot FII inflows aur defence shares mein rally ke bawajood Sensex 580 points toot gaya. Di gayi summary mein is girawat ke specific kaaran mention nahi kiye gaye hain. Zyada details ke liye original report dekhein."
+      "published": "2026-11-27T15:41:00+00:00",
+      "rss_summary": "Stock Market This Week: Sensex, Nifty Snap Mid-Week Recovery as Brent Crude Tops $97 &nbsp;&nbsp; The Indian Awaaz",
+      "hinglish_title": "",
+      "explanation": ""
     },
     {
       "category": "Economy",
@@ -390,16 +400,6 @@
       "rss_summary": "Stock Markets Fall: Sensex Tanks 989 Pts Amid Profit Booking &nbsp;&nbsp; Rediff MoneyWiz",
       "hinglish_title": "Bhaari Profit Booking Se Stock Market Crashed, Sensex 989 Points Gira",
       "explanation": "Share markets mein investors dwara munafa vasooli ki wajah se Sensex lagbhag 989 points toot gaya. Bazar mein achanak aayi is selling se indices laal nishan mein chale gaye. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Stock market today: Sensex tumbles nearly 1000 points, Nifty50 below 25,650 after 2-day rally - key reaso - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNkhJTEZQZWR5UGtmNWl6MzdIM0hqM3lRbWZzT0xsZ1J0LVplVXNZejNGU1dueVdQRXlVRkExQzllbzlJZ0RRQmxvbHdCbmEtRWxEU1M0WXRLSDlaS2Y4aFMtSl9LSnRDN2lsWGd4dlBicHlkTjNpd2M4MGF0SjVmbHdNOGtwVDBsS2xFZG8zV0tPVW0tOFBNdTZUY2I2WmtPZE1PYmV3OHZGLU9SLXhJeGM1YVJKa0NtZm9WX2pqLWNRVVVSUnFzOXR5dVZtSzN4YjJOY2dHZ1NhZmFvRmtkVkcwQWVkaXV4dmhVemV6WFk4V1FyR1ZtZVBia0czLU96Z0pCYjdEbHlyUGw3MUg0STA3bURTS0ppMGRUeDdlNTlyX3NRLVpF0gGsAkFVX3lxTE5nM18zX0ZQVm9IOE56clFkZGpCVGRBN2lDelNiZnU5Z2V3X3JLbG9XZEtKbzN5VjR1ems3eEZmTktaM3VWN3JzT1B6TllmUk5TRU9zQzgzUHBIS0k1SHVHY2VwclVNcUFjcUZzN0ZJdVFHb2VPOFAtWXg0eVBWYnZMcHFZTTRuVEhKQVRvcW5kcnN6bDN3Y1BlaWFodVVwXy05YWUtazZQd2FOMHA1elZVSUI5T1h4WV9yREw2RFE3U3JkTHVPV2k2T0Q2alRRNER6dl9qREtxdDZYWUhJdHRLV19zbnpyNk5zNGVhX29mWWJEV0VEUHRXM0F1WkdHVGJnM080M3ZRSXBVVDFTeHliSmF3a3AwSkZ3N1o2a3Z4Y2dHNDlqNlQ1ZmZwUA?oc=5",
-      "published": "2026-11-27T10:37:00+00:00",
-      "rss_summary": "Stock market today: Sensex tumbles nearly 1000 points, Nifty50 below 25,650 after 2-day rally - key reaso &nbsp;&nbsp; The Times of India",
-      "hinglish_title": "Do Din Ki Rally Ke Baad Sensex Lagbhag 1000 Points Gira, Nifty 25,650 Se Niche",
-      "explanation": "Pichle do din se chal rahi market ki tezi achanak ruk gayi aur Sensex kareeb 1000 points niche gir gaya. Sath hi Nifty50 index bhi 25,650 ke level se niche fisal gaya. Zyada details ke liye original report dekhein."
     }
   ]
 }
