@@ -1,12 +1,42 @@
 {
-  "updated": "2026-11-27T13:04:19.414081+00:00",
+  "updated": "2026-11-27T14:28:52.726804+00:00",
   "items": [
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "HEG lists independently, plans ₹650 crore graphite electrode expansion",
+      "link": "https://www.business-standard.com/markets/news/heg-lists-independently-plans-650-crore-graphite-electrode-expansion-126112701109_1.html",
+      "published": "2026-11-27T13:32:35+00:00",
+      "rss_summary": "HEG plans to increase its annual graphite electrode manufacturing capacity from 100,000 tonnes to 115,000 tonnes, with production targeted to begin in the first quarter of 2028",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Small- and mid-cap funds retain folio lead despite sharp October slowdown",
+      "link": "https://www.business-standard.com/markets/news/small-and-mid-cap-funds-retain-folio-lead-despite-sharp-october-slowdown-126112701067_1.html",
+      "published": "2026-11-27T13:09:14+00:00",
+      "rss_summary": "Small- and mid-cap funds accounted for nearly 60 per cent of active equity folio additions in October, even as combined additions fell 47.4 per cent amid a market correction",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Economy",
+      "source": "Business Standard Finance",
+      "title": "Average credit card transaction size falls 13% to ₹3,585 in Oct: CareEdge",
+      "link": "https://www.business-standard.com/finance/news/average-credit-card-transaction-size-falls-13-to-3-585-in-oct-careedge-126112701053_1.html",
+      "published": "2026-11-27T12:58:36+00:00",
+      "rss_summary": "Credit card spending hit a record ₹2.45 trillion in October, while the number of transactions rose 31.8 per cent year-on-year, indicating more frequent use for smaller purchases",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Companies",
       "source": "Business Standard Companies",
       "title": "Karnataka issues show-cause notice to IOC terminal over ethanol blending",
       "link": "https://www.business-standard.com/companies/news/karnataka-issues-show-cause-notice-to-ioc-terminal-over-ethanol-blending-126112701020_1.html",
-      "published": "2026-11-27T12:37:53+00:00",
+      "published": "2026-11-27T12:37:07+00:00",
       "rss_summary": "Karnataka's Legal Metrology Department found discrepancies in ethanol and petrol measurements at Indian Oil's Devanagonthi terminal in Bengaluru beyond permissible limits",
       "hinglish_title": "",
       "explanation": ""
@@ -148,6 +178,16 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzFkMTl5eWlEd0hsY1B2QklOV1VJMDV5THZCRXhFQ3JoUUd6a0FBYy03bk5TUGRWVURfV1A5cm5TVW1oVlBRaFRsSEQ5Ukp5cWJvd3RpdnI0QU5VbjV3a2NRNWxuOFlHNnlKNUQ0WExPNTlmUXFBMUFvZzFGVGtXYzh2dTNBMnU2bkdqbU54bHQ3eWpVbGJuQllWRmZVN1ZD?oc=5",
       "published": "2026-11-27T11:00:25+00:00",
       "rss_summary": "Stock Market Today: Sensex gains 390 points, Nifty up 0.25% &nbsp;&nbsp; Multibagg AI",
+      "hinglish_title": "",
+      "explanation": ""
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock markets snap 2-day rally; Sensex tanks 989 points amid profit booking - The Pioneer",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXdZQlN4bTdwQUJWQjBRMHpaOVNPOGMtS1psSGJkLXlLVVIzRTdpbTFYRmVjMU44RjBmdUl5d3BCWU1qcTZFeXZySVlkUFphMVBwZGtXYU0tZUhvOFV2ZmVuYkswanQxOWc0V3BVb01YWUhTM3Jrbmh4QWk5UTA5Y1hrRHhOMDR4bURid3B30gGbAUFVX3lxTFBIVi1LNTJNUWVIc2tjVzNzZE1BaUN1Tk4za1VQUndjN2l1LXR5Z3gzXzRMRDFSdTBpTjhudVI1bU44V0tFcnptZVR5Xy1BZDRmbTJRRFE1b2J0OHRtYWR2cjFONkVhTnQwMUxjUU5pTV9RV2p1aFB3c3B3elduTVBjcjVtajBpdDJwcVktOGNIVHZMeTRtT3Q2dWtz?oc=5",
+      "published": "2026-11-27T11:00:07+00:00",
+      "rss_summary": "Stock markets snap 2-day rally; Sensex tanks 989 points amid profit booking &nbsp;&nbsp; The Pioneer",
       "hinglish_title": "",
       "explanation": ""
     },
@@ -324,16 +364,6 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "Black Friday: Sensex settles 1,000 pts lower, Nifty ends near 25,600; 5 key factors behind market crash - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaFlXdG9xVFZIVE5kUFdBMWVXblZQcmhLVVlPMnVZMkdGVi01MENOZHFEWDAxWmNnTFNrb0NYQ2lMMENGVWFlMXdhVDBFOHBVcXhpbDNlb2V0NkJFb0RSZzlxR3ItRmNla2J4OFBsRU5WTlhYZDFraUJvX2FTWFplOXZBTjJkaGUwd2VVNjVuUURZc0R1ODV6Zkt0ZFR1UGg0MV9uMmNLNldZeHRlQWZ2Xy1BdGpub3hyZVIxeURCdzB1Rk5WRFBCZ2NNcHo1Q2g5Mld4V1dGRnV2ZERhcE5uM1l2MjBSYzg4Qm1OT1ZGQdIB9AFBVV95cUxPeXN2T2tEdEJ1Wm1hREJuWDFQVjF1ZjZna2NzbldVZm9Ua0JyUWhlQlBoQTRqczZ5LWstYU5nRlRzZ3VIZ0VrTXZZVkh1S3BVM0EzN3FMZTY1ekdjVUlHN19HaFlfd3BZU2lYUmVHb0RGWkV2UVFZS3dmNHJUZHlUdm5YTlVwUmZSOXJ3X0RwbC1GbWQyTVNYSV9JaENFTVNtdGFIaV8ybXg5Ym9MSkZlT1lCVk8ydEpaX09iczNOTVQxZDlqYlpZUnB2V0tqa1Zld3h3UjR0U0J2SlplR0hZQ0FrblpPNDZta0pQQXJpUzc5dDlp?oc=5",
-      "published": "2026-11-27T10:10:23+00:00",
-      "rss_summary": "Black Friday: Sensex settles 1,000 pts lower, Nifty ends near 25,600; 5 key factors behind market crash &nbsp;&nbsp; Moneycontrol.com",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
       "title": "Why Stock Market is Down Today? Factors Behind the Fall of Equity Benchmarks in Today’s Trade - Kotak Neo",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByWE04WVJrYm56SnV5ZjhHRjU5ZnE1SmNmVXpnenQ4V0FPODFLR3ZyNEJOVXdFdVVPVUs0V3pVT3ROdVhkRFNlRUVNeFVvYjEzZVhkbVBnTm1XNGRpRDhUNFhJejRoQWllQmVDWTFtQjA2WlMzLS1xTDA5ZHg5UQ?oc=5",
       "published": "2026-11-27T10:06:13+00:00",
@@ -368,36 +398,6 @@
       "link": "https://www.business-standard.com/markets/news/bosch-announces-record-date-for-stock-split-bonus-issue-key-details-126112700618_1.html",
       "published": "2026-11-27T09:09:52+00:00",
       "rss_summary": "Bosch Ltd has fixed December 23 as the record date for the sub-division (stock split) and bonus issue of equity shares carrying a face value of ₹10.",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Economy",
-      "source": "Business Standard Finance",
-      "title": "EPF account inactive for 3 years? Know when interest stops and how to claim",
-      "link": "https://www.business-standard.com/finance/personal-finance/epf-account-inactive-for-3-years-know-when-interest-stops-and-how-to-claim-126112700609_1.html",
-      "published": "2026-11-27T09:04:09+00:00",
-      "rss_summary": "EPFO explains the conditions under which accounts become inoperative, how long interest accrues and how members can withdraw or transfer funds",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "IIFCL, UCO Bank eye debut dollar debt before RBI window shuts, say bankers",
-      "link": "https://www.business-standard.com/markets/news/iifcl-uco-bank-eye-debut-dollar-debt-before-rbi-window-shuts-say-bankers-126112700586_1.html",
-      "published": "2026-11-27T08:52:23+00:00",
-      "rss_summary": "The plans come as US Treasury yields slide amid an unravelling of the global AI trade and investors ‌flocking towards safe-haven assets, making the window more attractive",
-      "hinglish_title": "",
-      "explanation": ""
-    },
-    {
-      "category": "Markets",
-      "source": "Business Standard Markets",
-      "title": "Zaggle up 7% from day's low on inking deal with Yokohama, WSFX Global Pay",
-      "link": "https://www.business-standard.com/markets/news/zaggle-up-7-from-day-s-low-on-inking-deal-with-yokohama-wsfx-global-pay-126112700573_1.html",
-      "published": "2026-11-27T08:44:46+00:00",
-      "rss_summary": "Zaggle Prepaid Ocean Services rallied nearly 7% to a high of ₹168.18 as against the day's low of ₹157.50 on the NSE, after announcing a forex services agreement with Yokohama and WSFX Global Pay.",
       "hinglish_title": "",
       "explanation": ""
     }
