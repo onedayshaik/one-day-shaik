@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T02:00:42.075389+00:00",
+  "updated": "2026-11-28T03:04:02.043903+00:00",
   "items": [
     {
       "category": "Markets",
@@ -30,16 +30,6 @@
       "rss_summary": "The central bank has prescribed a uniform, time-bound procedure for identifying highly suspicious transactions and accounts while protecting genuine customers from inconvenience",
       "hinglish_title": "Suspicious Transactions Par Banks Laga Sakenge Debit Hold, RBI Ka Naya Niyam",
       "explanation": "RBI ne banks ko behad sandigdh ya suspicious transactions par debit hold lagane ki ijaazat de di hai. Central bank ne iske liye ek uniform aur time-bound procedure tay kiya hai jisse aise accounts ki pehchan jaldi ho sake. Is naye niyam ka maqsad aam aur genuine customers ko kisi pareshani se bachana bhi hai."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Sensex gains nearly 400 pts in early trade as IT stocks rally, Nifty below 25,900 - DD India",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjU3clZfUjh1M1lhMWJLcFBTVHBMS1JIUTFpdE96eGs3VXU0dW5uM21NTENmNTlObUpLMnZwcUxTZWV1T0h2dEJFR0lkRHY1bHowSl9LWi1SNlYtY2VDTnBiMXR0SVVYcm1VQjNLSjBqaHFYbTZ3WFVMVjJUaDJHSjI5TXF0a1lFX1hGcGVSUFpwdTBuVzFoQ2E5cHB0RmlJZXdaUnFYZC1nN1lpMjF3?oc=5",
-      "published": "2026-11-27T16:00:58+00:00",
-      "rss_summary": "Sensex gains nearly 400 pts in early trade as IT stocks rally, Nifty below 25,900 &nbsp;&nbsp; DD India",
-      "hinglish_title": "IT Stocks Me Tezi Se Sensex 400 Points Chadha, Nifty 25,900 Ke Niche",
-      "explanation": "Early trade me Sensex lagbhag 400 points ki badhat ke sath karobaar karta dekha gaya. IT stocks me aayi rally ne is tezi ko support kiya. Wahi dusri taraf Nifty 25,900 ke level se niche bana raha. Zyada details ke liye original report dekhein."
     },
     {
       "category": "Companies",
@@ -90,6 +80,16 @@
       "rss_summary": "Nov. 27: Sensex Sinks Nearly 1,000 Pts as Crude Surge, Rupee Weakness Trigger Profit Booking &nbsp;&nbsp; The Indian Awaaz",
       "hinglish_title": "Crude Me Uchaal Aur Kamzor Rupee Se Sensex Lagbhag 1,000 Points Phisla",
       "explanation": "27 November ko share bazaar mein bhari profit booking dekhi gayi jis wajah se Sensex lagbhag 1,000 points gir gaya. Crude oil ki badhti keematein aur Rupee mein kamzori is badi girawat ki mukhya wajah rahe. Zyada details ke liye original report dekhein."
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Indian Stock Market Falling Today: Nifty 25,692, Sensex Down 703 - Univest",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ2pyenJvVG9jYUQtdzFnbEtwcHN2dkVsT1BkZHJYeU1TOXBxYWNnVmdudFY4VHJTdG50YjZSaWFEdENzYUg4M1JvYW9pSnB4U1k5RG84eTVRSzdTUGR3azdUZlBhX2FtZ0tkU0x6Z3FVYXM0MVBPb2hjcktrZ2VtSWdEd2hmNlplWVZfU1ctend5a0pNSWVDcGNMeEJTWkRtQ0QwVVZBNzk2ZThweXVOZ1lON0M3VXBmLS1NUUxQU1ZQejVYUFFfaXd3X0VKTGloMVF1NC14ZDVSMVJRQ0tV?oc=5",
+      "published": "2026-11-27T14:49:07+00:00",
+      "rss_summary": "Indian Stock Market Falling Today: Nifty 25,692, Sensex Down 703 &nbsp;&nbsp; Univest",
+      "hinglish_title": "Stock Market Me Girawat: Sensex 703 Points Toota, Nifty 25,692 Par Aaya",
+      "explanation": "Indian stock market me aaj girawat ka daur dekhne ko mila. Sensex lagbhag 703 points niche gir gaya. Is dauran Nifty slip hokar 25,692 ke level par aa gaya. Zyada details ke liye original report dekhein."
     },
     {
       "category": "Economy",
@@ -364,16 +364,6 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTY4S3doT0FqNUxnb2RCMlpwY1RrVmZWTm5JdkxtOHhOQkRPMHdmLUpNRHl4ZzNrN3hEMTVSQ0pnQl9kMzlVc05uQ0dIeDZ3THY0VVRMMnpzaDVRU3NBeTVXV3dMOFJWTWYwSjdzZml3M2pxWTF1TDJ2cmRtQzZUOVRzaHlGV3FDc2JfaWdYZTN6QUIwSHdwUmdGTlI4Q0s5NS1pZW9xdVZfRzZHUXVWaVpMZTQwMkFlbDNkSlRtMF9xc3Q10gHLAUFVX3lxTE4tNF92b0x6UjRXV21CVzlJSVM0UUtURW1Ibm5NLS1DWlNGY2d1RkNVYTBfQW1relR2YVgxWUphQ3dSTnVCWGVTZVFsR2xhQk1pRFlPdDl6elNBVXc5ZmxHQ0tGUDJUbkVhMVJwSG1fRnpJQ3B3b0hwT05xNG9hVm5TekZJOGxDT0hYZkpRbDllb05fSlk1MDB0YWtyQWxiRHFyXzRhWHp2M0JpSm05Y1pHaW1tSUVwYmh0MHJXTHIySElYZ2xwdmtqZi1Z?oc=5",
-      "published": "2026-11-27T10:54:58+00:00",
-      "rss_summary": "Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag &nbsp;&nbsp; BusinessLine",
-      "hinglish_title": "IT Shares Aur HDFC Bank Me Bikwali Se Sensex 989 Points Toota",
-      "explanation": "27 November ke karobaar mein Sensex 989 points toot gaya aur Nifty 25,650 ke niche chala gaya. Market ko niche kheenchne mein IT stocks aur HDFC Bank ka sabse bada haath raha. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
       "title": "Stock markets snap 2-day rally; Sensex, Nifty end in red amid profit booking - DD India",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmFfcWhyazUycEdmZXNJU1BGalg5dEZMSENiVEtIeHRZRHNPemxOb19OQUpLZXNXS05qZW9uNDVMMUZUYzVrX0NfTVAzclZhRGlfRWM1a1h6VVVmNTgzaWZTUXJlc1dIVXRNTUZReFZrNExuNFdDVVoxWW44WXFnNzh2d0NHYUlBZ3lrNi1jNWVmTkFvWnd6WmZMdGZHUTBlMmUtby04TTI?oc=5",
       "published": "2026-11-27T10:52:00+00:00",
@@ -384,22 +374,32 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
-      "title": "Closing Bell: Bears take charge; Sensex sinks 989 pts, Nifty at 25,600 - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZnNkT0Z0dEg0MzhjX0xJc3ZpMTdYUG1fOGVHeFdJSldYOEh2ZHlSbnVieXNmZkhjanZXNDF3LVBjSzM3RUxNcTNOVWhaT08xTW9mejhUaTJGZzR2akNQLVF4b0I3ak5EbGxxblF4ZE9zSGVnNDM4cWdkUC03RzRIWDRDY18ya3M1WUNKdDloaDlCVWNhdGlLb1FHMlBiSk9fRVEzMm1ENHM2NmdYajlLV2M3MG5uQmllUkc1eUtkdnUzVDg3OVdnbWpkLWQ1eTF4bGJJNW0tRkNHSVB5X1JFWVh4SXBER2NUUXRsUTBJZXhwWFlfN19mSXhDQUpYbE1QXzVIdDk0NzJVSHpNbW1PYzB6VjJqSm5nVjJib3VLcjF5elXSAagCQVVfeXFMTnZlZzRZOV81MjB0d3Z5SGx0WldTMVJ2ellyN0QwWWRvdlFhdU1DUTVEMTI2Ty1iSFlXX0ozd3JVUVM5MGhWZEpEMUoxOFk0X2EySGxNTWEzN1V0bkJwRzhxR0ExS3pzcjNDWldPbHVUenJ6bm4wTlVwNUtxRnZNVHBWMnZJM3JtRDdiLXYxTTRxQTFpLTBwYlZsRzhlLVJzNkhHVmE0VnZ2dkVOLW5QaVlvak54NzduOGpUWVJkRGxIZVgzYXR6c1lrZkVMN0E5M2NuMElGU0FMZVlHM1k3T3JxenA5SU9SdElkVFN2RmN0V0tYV05zcEViMDVSWlZ2eDVLLWNHdnY2THlqVlZHUHdzUGlvZ0JfV1ZaM2NaWjhTek11WDdWeTg?oc=5",
-      "published": "2026-11-27T10:43:42+00:00",
-      "rss_summary": "Closing Bell: Bears take charge; Sensex sinks 989 pts, Nifty at 25,600 &nbsp;&nbsp; Moneycontrol.com",
-      "hinglish_title": "Bears Ka Dabav: Sensex 989 Points Phisla, Nifty 25,600 Ke Paas",
-      "explanation": "Karobaari din ke aakhiri ghanto mein bikwali badh gayi aur bears ne poori tarah control bana liya. Sensex 989 points gir gaya jabki Nifty phisal kar 25,600 ke level par aa gaya. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
       "title": "Stock Markets Fall: Sensex Tanks 989 Pts Amid Profit Booking - Rediff MoneyWiz",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGJsdzhJNDl0Zm1VN180bnRTeFJwblVVYi0tVHBsQjQxSEVpQnhXVjk5bHNaZUxzekZfVXQ1VWdjQzRQdUNnT2MybDZBTkV6NUl4ZFN1NUNoQkMzbFZHQVBYVjhDUTQ5a1RSaEU0UVZQZGdQR3Iwem5GMHMtNVFVOWlfM1B5eFpSOW0zdlhIamFXSDhKUzNXSDJaeG5DZklvT3M3UlluQXljSlk5dkI3U9IBtgFBVV95cUxPVDdfSzBxMUFNUjFQOGw4eTRiMXJrWjljTG5LOGt1dEZTOXZxLVpnYmh6eVhObkFtTk9MV0oweU50S3ZNc1FiRk9WeDlWLThrWUFaY2szV2dva1VuTnRweFFkZXJxbnBjNjJwYzNzU2tubVFSaFNBalRrZ2JvWTNzekZvRy1zQXNld21rcGNMSkcyc0xEMlRZNTlHNWZZRjlwUkhwSzF2aklJNGtxelpsRFJYdFpJQQ?oc=5",
       "published": "2026-11-27T10:38:05+00:00",
       "rss_summary": "Stock Markets Fall: Sensex Tanks 989 Pts Amid Profit Booking &nbsp;&nbsp; Rediff MoneyWiz",
       "hinglish_title": "Bhaari Profit Booking Se Stock Market Crashed, Sensex 989 Points Gira",
       "explanation": "Share markets mein investors dwara munafa vasooli ki wajah se Sensex lagbhag 989 points toot gaya. Bazar mein achanak aayi is selling se indices laal nishan mein chale gaye. Zyada details ke liye original report dekhein."
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
+      "title": "Stock market today: Sensex tumbles nearly 1000 points, Nifty50 below 25,650 after 2-day rally - key reaso - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNkhJTEZQZWR5UGtmNWl6MzdIM0hqM3lRbWZzT0xsZ1J0LVplVXNZejNGU1dueVdQRXlVRkExQzllbzlJZ0RRQmxvbHdCbmEtRWxEU1M0WXRLSDlaS2Y4aFMtSl9LSnRDN2lsWGd4dlBicHlkTjNpd2M4MGF0SjVmbHdNOGtwVDBsS2xFZG8zV0tPVW0tOFBNdTZUY2I2WmtPZE1PYmV3OHZGLU9SLXhJeGM1YVJKa0NtZm9WX2pqLWNRVVVSUnFzOXR5dVZtSzN4YjJOY2dHZ1NhZmFvRmtkVkcwQWVkaXV4dmhVemV6WFk4V1FyR1ZtZVBia0czLU96Z0pCYjdEbHlyUGw3MUg0STA3bURTS0ppMGRUeDdlNTlyX3NRLVpF0gGsAkFVX3lxTE5nM18zX0ZQVm9IOE56clFkZGpCVGRBN2lDelNiZnU5Z2V3X3JLbG9XZEtKbzN5VjR1ems3eEZmTktaM3VWN3JzT1B6TllmUk5TRU9zQzgzUHBIS0k1SHVHY2VwclVNcUFjcUZzN0ZJdVFHb2VPOFAtWXg0eVBWYnZMcHFZTTRuVEhKQVRvcW5kcnN6bDN3Y1BlaWFodVVwXy05YWUtazZQd2FOMHA1elZVSUI5T1h4WV9yREw2RFE3U3JkTHVPV2k2T0Q2alRRNER6dl9qREtxdDZYWUhJdHRLV19zbnpyNk5zNGVhX29mWWJEV0VEUHRXM0F1WkdHVGJnM080M3ZRSXBVVDFTeHliSmF3a3AwSkZ3N1o2a3Z4Y2dHNDlqNlQ1ZmZwUA?oc=5",
+      "published": "2026-11-27T10:37:00+00:00",
+      "rss_summary": "Stock market today: Sensex tumbles nearly 1000 points, Nifty50 below 25,650 after 2-day rally - key reaso &nbsp;&nbsp; The Times of India",
+      "hinglish_title": "Do Din Ki Rally Ke Baad Sensex Lagbhag 1000 Points Gira, Nifty 25,650 Se Niche",
+      "explanation": "Pichle do din se chal rahi market ki tezi achanak ruk gayi aur Sensex kareeb 1000 points niche gir gaya. Sath hi Nifty50 index bhi 25,650 ke level se niche fisal gaya. Zyada details ke liye original report dekhein."
+    },
+    {
+      "category": "Markets",
+      "source": "Business Standard Markets",
+      "title": "Sebi aims to cut FPI onboarding time to five business days: Chairman",
+      "link": "https://www.business-standard.com/markets/news/sebi-aims-to-cut-fpi-onboarding-time-to-five-business-days-chairman-126112700698_1.html",
+      "published": "2026-11-27T10:25:44+00:00",
+      "rss_summary": "Markets regulator Sebi is aiming to reduce the onboarding time for Foreign Portfolio Investors (FPIs) from several months to as little as five business days through digital workflows and system integration, its chairman Tuhin Kanta Pandey said on Friday. Addressing the 17th Capital Markets Conference organised by ASSOCHAM, Pandey said the regulator has also proposed removing the additional disclosure framework for FPIs, bringing India's regulatory framework closer to global standards. \"Through digital workflows and system integration, we aim to cut FPI onboarding from months to as little as five business days,\" Pandey said. Over the past few months, Sebi has taken several measures to ease the compliance burden for FPIs. Under the SWAGAT-FI (Single Window Automatic and Generalised Access for Trusted Foreign Investors) initiative, around 740 FPIs, accounting for nearly 17 per cent of FPI assets under custody, have registered. \"SWAGAT-FI gives trusted, low-risk FPIs single-window .",
+      "hinglish_title": "",
+      "explanation": ""
     }
   ]
 }
