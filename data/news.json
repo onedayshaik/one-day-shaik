@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:35:11.617314+00:00",
+  "updated": "2026-11-28T00:35:39.015842+00:00",
   "items": [
     {
       "category": "Markets",
@@ -38,8 +38,8 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjU3clZfUjh1M1lhMWJLcFBTVHBMS1JIUTFpdE96eGs3VXU0dW5uM21NTENmNTlObUpLMnZwcUxTZWV1T0h2dEJFR0lkRHY1bHowSl9LWi1SNlYtY2VDTnBiMXR0SVVYcm1VQjNLSjBqaHFYbTZ3WFVMVjJUaDJHSjI5TXF0a1lFX1hGcGVSUFpwdTBuVzFoQ2E5cHB0RmlJZXdaUnFYZC1nN1lpMjF3?oc=5",
       "published": "2026-11-27T16:00:58+00:00",
       "rss_summary": "Sensex gains nearly 400 pts in early trade as IT stocks rally, Nifty below 25,900 &nbsp;&nbsp; DD India",
-      "hinglish_title": "",
-      "explanation": ""
+      "hinglish_title": "IT Stocks Me Tezi Se Sensex 400 Points Chadha, Nifty 25,900 Ke Niche",
+      "explanation": "Early trade me Sensex lagbhag 400 points ki badhat ke sath karobaar karta dekha gaya. IT stocks me aayi rally ne is tezi ko support kiya. Wahi dusri taraf Nifty 25,900 ke level se niche bana raha. Zyada details ke liye original report dekhein."
     },
     {
       "category": "Companies",
@@ -58,8 +58,8 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTdFM18xNkkzV2NJczhEYTVoSnVRRXZEeEc2TlJydlM4OWRDZVA3bkZCb0Nsbk9qbjhsSUR6YkU4SkRRYTZWVTE3LVZnY3F4VjMxTHdDcUt5Ty1ZR2xsbGo3b2FSYWR4ZHBoTmdzRllMUE9HaUd4dUVMRmp5T2dFc0RQSVdRWUdhNXNKQTVzSjNIakRvNE9mSFYtMkdNUHZpNmFTOTRGMFIwdW9JRnY3V19xUl9zdElJY0xv?oc=5",
       "published": "2026-11-27T15:41:00+00:00",
       "rss_summary": "Stock Market This Week: Sensex, Nifty Snap Mid-Week Recovery as Brent Crude Tops $97 &nbsp;&nbsp; The Indian Awaaz",
-      "hinglish_title": "",
-      "explanation": ""
+      "hinglish_title": "Brent Crude $97 Ke Paar Jane Se Sensex Aur Nifty Ki Recovery Thami",
+      "explanation": "Is hafte share market me Sensex aur Nifty ki mid-week recovery par break lag gaya. Iska mukhya kaaran Brent crude oil ka price $97 ke paar nikalna raha. Is movement ke bare me zyada details ke liye original report dekhein."
     },
     {
       "category": "Economy",
@@ -98,8 +98,8 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ2pyenJvVG9jYUQtdzFnbEtwcHN2dkVsT1BkZHJYeU1TOXBxYWNnVmdudFY4VHJTdG50YjZSaWFEdENzYUg4M1JvYW9pSnB4U1k5RG84eTVRSzdTUGR3azdUZlBhX2FtZ0tkU0x6Z3FVYXM0MVBPb2hjcktrZ2VtSWdEd2hmNlplWVZfU1ctend5a0pNSWVDcGNMeEJTWkRtQ0QwVVZBNzk2ZThweXVOZ1lON0M3VXBmLS1NUUxQU1ZQejVYUFFfaXd3X0VKTGloMVF1NC14ZDVSMVJRQ0tV?oc=5",
       "published": "2026-11-27T14:49:07+00:00",
       "rss_summary": "Indian Stock Market Falling Today: Nifty 25,692, Sensex Down 703 &nbsp;&nbsp; Univest",
-      "hinglish_title": "",
-      "explanation": ""
+      "hinglish_title": "Stock Market Me Girawat: Sensex 703 Points Toota, Nifty 25,692 Par Aaya",
+      "explanation": "Indian stock market me aaj girawat ka daur dekhne ko mila. Sensex lagbhag 703 points niche gir gaya. Is dauran Nifty slip hokar 25,692 ke level par aa gaya. Zyada details ke liye original report dekhein."
     },
     {
       "category": "Economy",
@@ -158,8 +158,8 @@
       "link": "https://www.business-standard.com/content/press-releases-ani/wazirx-on-bitcoin-s-recovery-and-its-liquidity-test-126112701068_1.html",
       "published": "2026-11-27T13:10:02+00:00",
       "rss_summary": "Mumbai (Maharashtra) [India], November 27: Bitcoin's rebound from around USD 57,500 earlier this week has offered some relief after a sharp sell-off, but it has not yet established a durable recovery. It's trading near USD 61,654 with Ethereum at around USD 1,729. Both remain sensitive to shifting risk appetite and the strength of spot demand.",
-      "hinglish_title": "",
-      "explanation": ""
+      "hinglish_title": "WazirX Ka Bitcoin Par Update: Relief Mili Par Pakki Recovery Abhi Baaki",
+      "explanation": "Bitcoin is hafte lagbhag USD 57,500 se rebound hua tha, jisse sharp sell-off ke baad thodi relief mili. Halanki, isne abhi tak ek durable recovery establish nahi ki hai. Filhal Bitcoin kareeb USD 61,654 par aur Ethereum lagbhag USD 1,729 par trade kar raha hai. Dono hi assets market ke risk appetite aur spot demand par kafi depend kar rahe hain."
     },
     {
       "category": "Markets",
@@ -314,6 +314,16 @@
     {
       "category": "Markets",
       "source": "Google News India Markets",
+      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+      "published": "2026-11-27T11:12:02+00:00",
+      "rss_summary": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times &nbsp;&nbsp; The Economic Times",
+      "hinglish_title": "The Economic Times Par Share Market Ke Live Updates",
+      "explanation": "Yeh report The Economic Times par aane wale share market ke live updates aur taza khabron se judi hai. Source me specific numbers ya market moves ka detail nahi diya gaya hai. Zyada details ke liye original report dekhein."
+    },
+    {
+      "category": "Markets",
+      "source": "Google News India Markets",
       "title": "Closing Bell: Sensex Falls Nearly 1000 Points, Nifty 50 Drops Over 1%; Nifty Small-Cap Jumps Nearly 0.5% - Dalal Street Investment Journal",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnFVZzVfLVVxYmM2cVRvbjZ2eW16d2VBT0VEVk1RNTRLeFJacnhUTEpqNlVkTElOTFd5WEFVcGdsSXktY2NESGpCRkNzZjF1UTBUa05zUVhGU2k3OGt5UFpjRUotZ1JvR2xKTXZoUnNQNmhwOVJyc21uWkktcjVYNy0xbUljd3VmNnBiWEZ1TlRmUkRGRzFUZFpWd3Y1aF9ZUks5Y3h5d3RyRWQxWkRGZFc3M2NsRGtmM25FQUQ2cHVoVzZTZVZKVG9ZeTZ2REJTXzhfRG5VRGN0RV9HM1Q1UQ?oc=5",
       "published": "2026-11-27T11:04:50+00:00",
@@ -390,16 +400,6 @@
       "rss_summary": "Stock markets snap 2-day rally; Sensex, Nifty end in red amid profit booking &nbsp;&nbsp; DD India",
       "hinglish_title": "Do Din Ki Tezi Thami, Profit Booking Se Sensex Aur Nifty Laal Nishan Me Band",
       "explanation": "Bazaar mein pichle do dino se chal rahi tezi par break lag gaya hai. Sensex aur Nifty dono profit booking ke dabav ke chalte girawat ke sath laal nishan mein band hue. Zyada details ke liye original report dekhein."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Closing Bell: Bears take charge; Sensex sinks 989 pts, Nifty at 25,600 - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZnNkT0Z0dEg0MzhjX0xJc3ZpMTdYUG1fOGVHeFdJSldYOEh2ZHlSbnVieXNmZkhjanZXNDF3LVBjSzM3RUxNcTNOVWhaT08xTW9mejhUaTJGZzR2akNQLVF4b0I3ak5EbGxxblF4ZE9zSGVnNDM4cWdkUC03RzRIWDRDY18ya3M1WUNKdDloaDlCVWNhdGlLb1FHMlBiSk9fRVEzMm1ENHM2NmdYajlLV2M3MG5uQmllUkc1eUtkdnUzVDg3OVdnbWpkLWQ1eTF4bGJJNW0tRkNHSVB5X1JFWVh4SXBER2NUUXRsUTBJZXhwWFlfN19mSXhDQUpYbE1QXzVIdDk0NzJVSHpNbW1PYzB6VjJqSm5nVjJib3VLcjF5elXSAagCQVVfeXFMTnZlZzRZOV81MjB0d3Z5SGx0WldTMVJ2ellyN0QwWWRvdlFhdU1DUTVEMTI2Ty1iSFlXX0ozd3JVUVM5MGhWZEpEMUoxOFk0X2EySGxNTWEzN1V0bkJwRzhxR0ExS3pzcjNDWldPbHVUenJ6bm4wTlVwNUtxRnZNVHBWMnZJM3JtRDdiLXYxTTRxQTFpLTBwYlZsRzhlLVJzNkhHVmE0VnZ2dkVOLW5QaVlvak54NzduOGpUWVJkRGxIZVgzYXR6c1lrZkVMN0E5M2NuMElGU0FMZVlHM1k3T3JxenA5SU9SdElkVFN2RmN0V0tYV05zcEViMDVSWlZ2eDVLLWNHdnY2THlqVlZHUHdzUGlvZ0JfV1ZaM2NaWjhTek11WDdWeTg?oc=5",
-      "published": "2026-11-27T10:43:42+00:00",
-      "rss_summary": "Closing Bell: Bears take charge; Sensex sinks 989 pts, Nifty at 25,600 &nbsp;&nbsp; Moneycontrol.com",
-      "hinglish_title": "Bears Ka Dabav: Sensex 989 Points Phisla, Nifty 25,600 Ke Paas",
-      "explanation": "Karobaari din ke aakhiri ghanto mein bikwali badh gayi aur bears ne poori tarah control bana liya. Sensex 989 points gir gaya jabki Nifty phisal kar 25,600 ke level par aa gaya. Zyada details ke liye original report dekhein."
     }
   ]
 }
