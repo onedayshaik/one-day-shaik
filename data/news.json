@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-28T08:46:17.902771+00:00",
+  "updated": "2026-11-28T09:46:53.746467+00:00",
   "items": [
+    {
+      "category": "Companies",
+      "source": "Business Standard Companies",
+      "title": "India's AI, startup boom still in early stages, says Peak XV's Anandan",
+      "link": "https://www.business-standard.com/companies/start-ups/india-ai-startup-boom-early-stages-rajan-anandan-peak-xv-126112800404_1.html",
+      "published": "2026-11-28T08:56:29+00:00",
+      "rss_summary": "The venture investor says active GPUs could reach a million within two years and that a wave of startups is set to join the ₹1 trillion club",
+      "hinglish_title": "",
+      "explanation": ""
+    },
     {
       "category": "Economy",
       "source": "Business Standard Finance",
@@ -390,16 +400,6 @@
       "rss_summary": "Bharat Petroleum Corporation Ltd (BPCL) has commissioned an integrated lube oil blending plant and base oil terminal at Rasayani in Maharashtra, strengthening its manufacturing and supply-chain infrastructure as the state-run energy major seeks to expand its MAK Lubricants business. The facilities, inaugurated on November 21 by BPCL chairman and managing director Sanjay Khanna, bring together base oil receipt and storage, lubricant blending, product filling, warehousing and dispatch within a single integrated operational complex, according to a company statement. The new infrastructure is expected to improve manufacturing flexibility, inventory management and supply reliability, while allowing BPCL to respond more efficiently to changing customer requirements and market demand. The development is strategically significant for BPCL's lubricants business, where efficient sourcing, blending, packaging and distribution are important to maintaining product availability and competing acro",
       "hinglish_title": "BPCL Ne Maharashtra Me Shuru Kiya Naya Lube Blending Plant Aur Base Oil Terminal",
       "explanation": "Bharat Petroleum Corporation Ltd (BPCL) ne Maharashtra ke Rasayani mein integrated lube oil blending plant aur base oil terminal shuru kiya hai. Is complex ka udghatan 21 November ko BPCL ke CMD Sanjay Khanna ne kiya. Yeh facility storage, blending, packaging aur dispatch ko ek hi jagah jodkar company ke MAK Lubricants business ko majboot banayegi."
-    },
-    {
-      "category": "Markets",
-      "source": "Google News India Markets",
-      "title": "Black Friday Turns Red: Nifty Slips After a 15% Rally in Four Weeks. Is the Market Just Catching Its Breath? - NiftyTrader",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GVmZFa0RqaUZmM3g5eXZkdkVtd2lWTUVSSjVyRVd0QjFxX0h2cXZFOXFCUVNXMk5Xa3ZVc2RuTER1TkhkMmh3LXpKMXVzR0I1NUJQa2hUU05mMWtkRHNjNW1ha1RlMEpLcUtDc1VlaDR0WW1hbk9iV1p3?oc=5",
-      "published": "2026-11-27T11:37:06+00:00",
-      "rss_summary": "Black Friday Turns Red: Nifty Slips After a 15% Rally in Four Weeks. Is the Market Just Catching Its Breath? &nbsp;&nbsp; NiftyTrader",
-      "hinglish_title": "Rally Ke Baad Nifty Me Aayi Girawat, Black Friday Par Laal Hua Bazaar",
-      "explanation": "Pichle chaar hafto mein lagbhag 15% ki rally ke baad Nifty mein girawat dekhne ko mili hai. Bazaar mein tezi ke baad aayi is slip ko consolidation ke roop mein dekha ja raha hai. Zyada details ke liye original report dekhein."
     }
   ]
 }
